@@ -1,0 +1,5858 @@
+[
+  {
+    "kennzeichen": "AA",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ostalbkreis",
+    "stadt_oder_ursprung": "Aalen",
+    "abkuerzung_ursprung": "Aalen",
+    "alternativen": "Ostalbkreis | Aalen"
+  },
+  {
+    "kennzeichen": "BAD",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Baden-Baden",
+    "stadt_oder_ursprung": "BADen-Baden",
+    "abkuerzung_ursprung": "BADen-Baden",
+    "alternativen": "Baden-Baden | BADen-Baden"
+  },
+  {
+    "kennzeichen": "BB",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Böblingen",
+    "stadt_oder_ursprung": "Böblingen",
+    "abkuerzung_ursprung": "Böblingen",
+    "alternativen": "Böblingen"
+  },
+  {
+    "kennzeichen": "BC",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Biberach",
+    "stadt_oder_ursprung": "Biberach an der Riß",
+    "abkuerzung_ursprung": "Biberach an der Riß",
+    "alternativen": "Biberach | Biberach an der Riß"
+  },
+  {
+    "kennzeichen": "BCH",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Neckar-Odenwald-Kreis",
+    "stadt_oder_ursprung": "Buchen",
+    "abkuerzung_ursprung": "Buchen",
+    "alternativen": "Neckar-Odenwald-Kreis | Buchen"
+  },
+  {
+    "kennzeichen": "BH",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ortenaukreis",
+    "stadt_oder_ursprung": "Bühl",
+    "abkuerzung_ursprung": "Bühl",
+    "alternativen": "Ortenaukreis | Bühl"
+  },
+  {
+    "kennzeichen": "BK",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Rems-Murr-Kreis",
+    "stadt_oder_ursprung": "Backnang",
+    "abkuerzung_ursprung": "Backnang",
+    "alternativen": "Rems-Murr-Kreis | Backnang"
+  },
+  {
+    "kennzeichen": "BL",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Zollernalbkreis",
+    "stadt_oder_ursprung": "Balingen",
+    "abkuerzung_ursprung": "Balingen",
+    "alternativen": "Zollernalbkreis | Balingen"
+  },
+  {
+    "kennzeichen": "BR",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Karlsruhe",
+    "stadt_oder_ursprung": "Bruchsal",
+    "abkuerzung_ursprung": "Bruchsal",
+    "alternativen": "Karlsruhe | Bruchsal"
+  },
+  {
+    "kennzeichen": "BÜS",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Büsingen am Hochrhein",
+    "stadt_oder_ursprung": "BÜSingen",
+    "abkuerzung_ursprung": "BÜSingen",
+    "alternativen": "Büsingen am Hochrhein | BÜSingen"
+  },
+  {
+    "kennzeichen": "BWL",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Baden-Württembergischer Landtag",
+    "stadt_oder_ursprung": "Landesregierung von Baden-Württemberg",
+    "abkuerzung_ursprung": "Landesregierung von Baden-Württemberg",
+    "alternativen": "Baden-Württembergischer Landtag | Landesregierung von Baden-Württemberg"
+  },
+  {
+    "kennzeichen": "CR",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Schwäbisch Hall",
+    "stadt_oder_ursprung": "Crailsheim",
+    "abkuerzung_ursprung": "Crailsheim",
+    "alternativen": "Schwäbisch Hall | Crailsheim"
+  },
+  {
+    "kennzeichen": "CW",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Calw",
+    "stadt_oder_ursprung": "Calw",
+    "abkuerzung_ursprung": "Calw",
+    "alternativen": "Calw"
+  },
+  {
+    "kennzeichen": "DS",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Schwarzwald-Baar-Kreis",
+    "stadt_oder_ursprung": "Donaueschingen",
+    "abkuerzung_ursprung": "Donaueschingen",
+    "alternativen": "Schwarzwald-Baar-Kreis | Donaueschingen"
+  },
+  {
+    "kennzeichen": "EM",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Emmendingen",
+    "stadt_oder_ursprung": "Emmendingen",
+    "abkuerzung_ursprung": "Emmendingen",
+    "alternativen": "Emmendingen"
+  },
+  {
+    "kennzeichen": "ES",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Esslingen",
+    "stadt_oder_ursprung": "Esslingen am Neckar",
+    "abkuerzung_ursprung": "Esslingen am Neckar",
+    "alternativen": "Esslingen | Esslingen am Neckar"
+  },
+  {
+    "kennzeichen": "FDS",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Freudenstadt",
+    "stadt_oder_ursprung": "Freudenstadt",
+    "abkuerzung_ursprung": "Freudenstadt",
+    "alternativen": "Freudenstadt"
+  },
+  {
+    "kennzeichen": "FN",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Bodenseekreis",
+    "stadt_oder_ursprung": "Friedrichshafen",
+    "abkuerzung_ursprung": "Friedrichshafen",
+    "alternativen": "Bodenseekreis | Friedrichshafen"
+  },
+  {
+    "kennzeichen": "FR",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Freiburg im Breisgau",
+    "stadt_oder_ursprung": "FReiburg",
+    "abkuerzung_ursprung": "FReiburg",
+    "alternativen": "Freiburg im Breisgau | FReiburg"
+  },
+  {
+    "kennzeichen": "GD",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ostalbkreis",
+    "stadt_oder_ursprung": "Schwäbisch Gmünd",
+    "abkuerzung_ursprung": "Schwäbisch Gmünd",
+    "alternativen": "Ostalbkreis | Schwäbisch Gmünd"
+  },
+  {
+    "kennzeichen": "GP",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Göppingen",
+    "stadt_oder_ursprung": "Göppingen",
+    "abkuerzung_ursprung": "Göppingen",
+    "alternativen": "Göppingen"
+  },
+  {
+    "kennzeichen": "HCH",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Freudenstadt",
+    "stadt_oder_ursprung": "Hechingen",
+    "abkuerzung_ursprung": "Hechingen",
+    "alternativen": "Freudenstadt | Hechingen"
+  },
+  {
+    "kennzeichen": "HD",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Heidelberg",
+    "stadt_oder_ursprung": "HeiDelberg",
+    "abkuerzung_ursprung": "HeiDelberg",
+    "alternativen": "Heidelberg | HeiDelberg"
+  },
+  {
+    "kennzeichen": "HDH",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Heidenheim",
+    "stadt_oder_ursprung": "Heidenheim an der Brenz",
+    "abkuerzung_ursprung": "Heidenheim an der Brenz",
+    "alternativen": "Heidenheim | Heidenheim an der Brenz"
+  },
+  {
+    "kennzeichen": "HN",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Heilbronn",
+    "stadt_oder_ursprung": "HeilbronN",
+    "abkuerzung_ursprung": "HeilbronN",
+    "alternativen": "Heilbronn | HeilbronN"
+  },
+  {
+    "kennzeichen": "HOR",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Freudenstadt",
+    "stadt_oder_ursprung": "Horb am Neckar",
+    "abkuerzung_ursprung": "Horb am Neckar",
+    "alternativen": "Freudenstadt | Horb am Neckar"
+  },
+  {
+    "kennzeichen": "KA",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Karlsruhe",
+    "stadt_oder_ursprung": "KArlsruhe",
+    "abkuerzung_ursprung": "KArlsruhe",
+    "alternativen": "Karlsruhe | KArlsruhe"
+  },
+  {
+    "kennzeichen": "KEL",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ortenaukreis",
+    "stadt_oder_ursprung": "Kehl",
+    "abkuerzung_ursprung": "Kehl",
+    "alternativen": "Ortenaukreis | Kehl"
+  },
+  {
+    "kennzeichen": "KN",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Konstanz ohne die Gemeinde Büsingen am Hochrhein",
+    "stadt_oder_ursprung": "Konstanz",
+    "abkuerzung_ursprung": "Konstanz",
+    "alternativen": "Konstanz ohne die Gemeinde Büsingen am Hochrhein | Konstanz"
+  },
+  {
+    "kennzeichen": "KÜN",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Hohenlohekreis",
+    "stadt_oder_ursprung": "Künzelsau",
+    "abkuerzung_ursprung": "Künzelsau",
+    "alternativen": "Hohenlohekreis | Künzelsau"
+  },
+  {
+    "kennzeichen": "LB",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ludwigsburg",
+    "stadt_oder_ursprung": "Ludwigsburg",
+    "abkuerzung_ursprung": "Ludwigsburg",
+    "alternativen": "Ludwigsburg"
+  },
+  {
+    "kennzeichen": "LEO",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Böblingen",
+    "stadt_oder_ursprung": "Leonberg",
+    "abkuerzung_ursprung": "Leonberg",
+    "alternativen": "Böblingen | Leonberg"
+  },
+  {
+    "kennzeichen": "LÖ",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Lörrach",
+    "stadt_oder_ursprung": "Lörrach",
+    "abkuerzung_ursprung": "Lörrach",
+    "alternativen": "Lörrach"
+  },
+  {
+    "kennzeichen": "LR",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ortenaukreis",
+    "stadt_oder_ursprung": "Lahr/Schwarzwald",
+    "abkuerzung_ursprung": "Lahr/Schwarzwald",
+    "alternativen": "Ortenaukreis | Lahr/Schwarzwald"
+  },
+  {
+    "kennzeichen": "MA",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Mannheim",
+    "stadt_oder_ursprung": "MAnnheim",
+    "abkuerzung_ursprung": "MAnnheim",
+    "alternativen": "Mannheim | MAnnheim"
+  },
+  {
+    "kennzeichen": "MGH",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Main-Tauber-Kreis",
+    "stadt_oder_ursprung": "Bad Mergentheim",
+    "abkuerzung_ursprung": "Bad Mergentheim",
+    "alternativen": "Main-Tauber-Kreis | Bad Mergentheim"
+  },
+  {
+    "kennzeichen": "MOS",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Neckar-Odenwald-Kreis",
+    "stadt_oder_ursprung": "Mosbach",
+    "abkuerzung_ursprung": "Mosbach",
+    "alternativen": "Neckar-Odenwald-Kreis | Mosbach"
+  },
+  {
+    "kennzeichen": "MÜL",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Breisgau-Hochschwarzwald",
+    "stadt_oder_ursprung": "Müllheim im Markgräflerland",
+    "abkuerzung_ursprung": "Müllheim im Markgräflerland",
+    "alternativen": "Breisgau-Hochschwarzwald | Müllheim im Markgräflerland"
+  },
+  {
+    "kennzeichen": "NEU",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Breisgau-Hochschwarzwald",
+    "stadt_oder_ursprung": "Titisee-Neustadt",
+    "abkuerzung_ursprung": "Titisee-Neustadt",
+    "alternativen": "Breisgau-Hochschwarzwald | Titisee-Neustadt"
+  },
+  {
+    "kennzeichen": "NT",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Esslingen",
+    "stadt_oder_ursprung": "Nürtingen",
+    "abkuerzung_ursprung": "Nürtingen",
+    "alternativen": "Esslingen | Nürtingen"
+  },
+  {
+    "kennzeichen": "OG",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ortenaukreis",
+    "stadt_oder_ursprung": "Offenburg",
+    "abkuerzung_ursprung": "Offenburg",
+    "alternativen": "Ortenaukreis | Offenburg"
+  },
+  {
+    "kennzeichen": "ÖHR",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Hohenlohekreis",
+    "stadt_oder_ursprung": "Öhringen",
+    "abkuerzung_ursprung": "Öhringen",
+    "alternativen": "Hohenlohekreis | Öhringen"
+  },
+  {
+    "kennzeichen": "PF",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Pforzheim",
+    "stadt_oder_ursprung": "PForzheim",
+    "abkuerzung_ursprung": "PForzheim",
+    "alternativen": "Pforzheim | PForzheim"
+  },
+  {
+    "kennzeichen": "RA",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Rastatt",
+    "stadt_oder_ursprung": "Rastatt",
+    "abkuerzung_ursprung": "Rastatt",
+    "alternativen": "Rastatt"
+  },
+  {
+    "kennzeichen": "RT",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Reutlingen",
+    "stadt_oder_ursprung": "Reutlingen",
+    "abkuerzung_ursprung": "Reutlingen",
+    "alternativen": "Reutlingen"
+  },
+  {
+    "kennzeichen": "RV",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ravensburg",
+    "stadt_oder_ursprung": "Ravensburg",
+    "abkuerzung_ursprung": "Ravensburg",
+    "alternativen": "Ravensburg"
+  },
+  {
+    "kennzeichen": "RW",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Rottweil",
+    "stadt_oder_ursprung": "Rottweil",
+    "abkuerzung_ursprung": "Rottweil",
+    "alternativen": "Rottweil"
+  },
+  {
+    "kennzeichen": "S",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Baden-Württemberg",
+    "stadt_oder_ursprung": "Stuttgart",
+    "abkuerzung_ursprung": "Stuttgart",
+    "alternativen": "Baden-Württemberg | Stuttgart"
+  },
+  {
+    "kennzeichen": "SÄK",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Waldshut",
+    "stadt_oder_ursprung": "Bad Säckingen",
+    "abkuerzung_ursprung": "Bad Säckingen",
+    "alternativen": "Waldshut | Bad Säckingen"
+  },
+  {
+    "kennzeichen": "SHA",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Schwäbisch Hall",
+    "stadt_oder_ursprung": "Schwäbisch Hall",
+    "abkuerzung_ursprung": "Schwäbisch Hall",
+    "alternativen": "Schwäbisch Hall"
+  },
+  {
+    "kennzeichen": "SIG",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Sigmaringen",
+    "stadt_oder_ursprung": "Sigmaringen",
+    "abkuerzung_ursprung": "Sigmaringen",
+    "alternativen": "Sigmaringen"
+  },
+  {
+    "kennzeichen": "SLG",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ravensburg",
+    "stadt_oder_ursprung": "Bad Saulgau",
+    "abkuerzung_ursprung": "Bad Saulgau",
+    "alternativen": "Ravensburg | Bad Saulgau"
+  },
+  {
+    "kennzeichen": "STO",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Konstanz",
+    "stadt_oder_ursprung": "Stockach",
+    "abkuerzung_ursprung": "Stockach",
+    "alternativen": "Konstanz | Stockach"
+  },
+  {
+    "kennzeichen": "TBB",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Main-Tauber-Kreis",
+    "stadt_oder_ursprung": "Tauberbischofsheim",
+    "abkuerzung_ursprung": "Tauberbischofsheim",
+    "alternativen": "Main-Tauber-Kreis | Tauberbischofsheim"
+  },
+  {
+    "kennzeichen": "TT",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Bodenseekreis",
+    "stadt_oder_ursprung": "Tettnang",
+    "abkuerzung_ursprung": "Tettnang",
+    "alternativen": "Bodenseekreis | Tettnang"
+  },
+  {
+    "kennzeichen": "TÜ",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Tübingen",
+    "stadt_oder_ursprung": "Tübingen",
+    "abkuerzung_ursprung": "Tübingen",
+    "alternativen": "Tübingen"
+  },
+  {
+    "kennzeichen": "TUT",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Tuttlingen",
+    "stadt_oder_ursprung": "Tuttlingen",
+    "abkuerzung_ursprung": "Tuttlingen",
+    "alternativen": "Tuttlingen"
+  },
+  {
+    "kennzeichen": "ÜB",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Bodenseekreis",
+    "stadt_oder_ursprung": "Überlingen",
+    "abkuerzung_ursprung": "Überlingen",
+    "alternativen": "Bodenseekreis | Überlingen"
+  },
+  {
+    "kennzeichen": "UL",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ulm",
+    "stadt_oder_ursprung": "ULm",
+    "abkuerzung_ursprung": "ULm",
+    "alternativen": "Ulm | ULm"
+  },
+  {
+    "kennzeichen": "VAI",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ludwigsburg",
+    "stadt_oder_ursprung": "Vaihingen an der Enz",
+    "abkuerzung_ursprung": "Vaihingen an der Enz",
+    "alternativen": "Ludwigsburg | Vaihingen an der Enz"
+  },
+  {
+    "kennzeichen": "VS",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Schwarzwald-Baar-Kreis",
+    "stadt_oder_ursprung": "Villingen-Schwenningen",
+    "abkuerzung_ursprung": "Villingen-Schwenningen",
+    "alternativen": "Schwarzwald-Baar-Kreis | Villingen-Schwenningen"
+  },
+  {
+    "kennzeichen": "WG",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Ravensburg",
+    "stadt_oder_ursprung": "Wangen im Allgäu",
+    "abkuerzung_ursprung": "Wangen im Allgäu",
+    "alternativen": "Ravensburg | Wangen im Allgäu"
+  },
+  {
+    "kennzeichen": "WN",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Rems-Murr-Kreis",
+    "stadt_oder_ursprung": "Waiblingen",
+    "abkuerzung_ursprung": "Waiblingen",
+    "alternativen": "Rems-Murr-Kreis | Waiblingen"
+  },
+  {
+    "kennzeichen": "WOL",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Freudenstadt",
+    "stadt_oder_ursprung": "Wolfach",
+    "abkuerzung_ursprung": "Wolfach",
+    "alternativen": "Freudenstadt | Wolfach"
+  },
+  {
+    "kennzeichen": "WT",
+    "bundesland": "Baden-Württemberg",
+    "kreis": "Waldshut",
+    "stadt_oder_ursprung": "Waldshut-Tiengen",
+    "abkuerzung_ursprung": "Waldshut-Tiengen",
+    "alternativen": "Waldshut | Waldshut-Tiengen"
+  },
+  {
+    "kennzeichen": "A",
+    "bundesland": "Bayern",
+    "kreis": "Bayern",
+    "stadt_oder_ursprung": "Augsburg",
+    "abkuerzung_ursprung": "Augsburg",
+    "alternativen": "Bayern | Augsburg"
+  },
+  {
+    "kennzeichen": "AB",
+    "bundesland": "Bayern",
+    "kreis": "Aschaffenburg",
+    "stadt_oder_ursprung": "AschaffenBurg",
+    "abkuerzung_ursprung": "AschaffenBurg",
+    "alternativen": "Aschaffenburg | AschaffenBurg"
+  },
+  {
+    "kennzeichen": "AIB",
+    "bundesland": "Bayern",
+    "kreis": "München",
+    "stadt_oder_ursprung": "Bad Aibling",
+    "abkuerzung_ursprung": "Bad Aibling",
+    "alternativen": "München | Bad Aibling"
+  },
+  {
+    "kennzeichen": "AIC",
+    "bundesland": "Bayern",
+    "kreis": "Aichach-Friedberg",
+    "stadt_oder_ursprung": "Aichach",
+    "abkuerzung_ursprung": "Aichach",
+    "alternativen": "Aichach-Friedberg | Aichach"
+  },
+  {
+    "kennzeichen": "ALZ",
+    "bundesland": "Bayern",
+    "kreis": "Aschaffenburg",
+    "stadt_oder_ursprung": "Alzenau",
+    "abkuerzung_ursprung": "Alzenau",
+    "alternativen": "Aschaffenburg | Alzenau"
+  },
+  {
+    "kennzeichen": "AM",
+    "bundesland": "Bayern",
+    "kreis": "Amberg",
+    "stadt_oder_ursprung": "AMberg",
+    "abkuerzung_ursprung": "AMberg",
+    "alternativen": "Amberg | AMberg"
+  },
+  {
+    "kennzeichen": "AN",
+    "bundesland": "Bayern",
+    "kreis": "Ansbach",
+    "stadt_oder_ursprung": "ANsbach",
+    "abkuerzung_ursprung": "ANsbach",
+    "alternativen": "Ansbach | ANsbach"
+  },
+  {
+    "kennzeichen": "AÖ",
+    "bundesland": "Bayern",
+    "kreis": "Altötting",
+    "stadt_oder_ursprung": "Altötting",
+    "abkuerzung_ursprung": "Altötting",
+    "alternativen": "Altötting"
+  },
+  {
+    "kennzeichen": "AS",
+    "bundesland": "Bayern",
+    "kreis": "Amberg, Sulzbach",
+    "stadt_oder_ursprung": "Amberg-Sulzbach",
+    "abkuerzung_ursprung": "Amberg-Sulzbach",
+    "alternativen": "Amberg, Sulzbach | Amberg-Sulzbach"
+  },
+  {
+    "kennzeichen": "BA",
+    "bundesland": "Bayern",
+    "kreis": "Bamberg",
+    "stadt_oder_ursprung": "BAmberg",
+    "abkuerzung_ursprung": "BAmberg",
+    "alternativen": "Bamberg | BAmberg"
+  },
+  {
+    "kennzeichen": "BGD",
+    "bundesland": "Bayern",
+    "kreis": "Berchtesgadener Land",
+    "stadt_oder_ursprung": "Berchtesgaden",
+    "abkuerzung_ursprung": "Berchtesgaden",
+    "alternativen": "Berchtesgadener Land | Berchtesgaden"
+  },
+  {
+    "kennzeichen": "BGL",
+    "bundesland": "Bayern",
+    "kreis": "Berchtesgadener Land",
+    "stadt_oder_ursprung": "Berchtesgadener Land",
+    "abkuerzung_ursprung": "Berchtesgadener Land",
+    "alternativen": "Berchtesgadener Land"
+  },
+  {
+    "kennzeichen": "BOG",
+    "bundesland": "Bayern",
+    "kreis": "Straubing-Bogen",
+    "stadt_oder_ursprung": "Bogen",
+    "abkuerzung_ursprung": "Bogen",
+    "alternativen": "Straubing-Bogen | Bogen"
+  },
+  {
+    "kennzeichen": "BRK",
+    "bundesland": "Bayern",
+    "kreis": "Bad Kissingen",
+    "stadt_oder_ursprung": "Bad Brückenau",
+    "abkuerzung_ursprung": "Bad Brückenau",
+    "alternativen": "Bad Kissingen | Bad Brückenau"
+  },
+  {
+    "kennzeichen": "BT",
+    "bundesland": "Bayern",
+    "kreis": "Bayreuth",
+    "stadt_oder_ursprung": "BayreuTh",
+    "abkuerzung_ursprung": "BayreuTh",
+    "alternativen": "Bayreuth | BayreuTh"
+  },
+  {
+    "kennzeichen": "BUL",
+    "bundesland": "Bayern",
+    "kreis": "Amberg-Sulzbach",
+    "stadt_oder_ursprung": "Burglengenfeld",
+    "abkuerzung_ursprung": "Burglengenfeld",
+    "alternativen": "Amberg-Sulzbach | Burglengenfeld"
+  },
+  {
+    "kennzeichen": "BYL",
+    "bundesland": "Bayern",
+    "kreis": "Bayern, Landesregierung und Landtag",
+    "stadt_oder_ursprung": "BaYerischer Landtag",
+    "abkuerzung_ursprung": "BaYerischer Landtag",
+    "alternativen": "Bayern, Landesregierung und Landtag | BaYerischer Landtag"
+  },
+  {
+    "kennzeichen": "CHA",
+    "bundesland": "Bayern",
+    "kreis": "Cham",
+    "stadt_oder_ursprung": "Cham",
+    "abkuerzung_ursprung": "Cham",
+    "alternativen": "Cham"
+  },
+  {
+    "kennzeichen": "CO",
+    "bundesland": "Bayern",
+    "kreis": "Coburg und Landkreis Coburg",
+    "stadt_oder_ursprung": "COburg",
+    "abkuerzung_ursprung": "COburg",
+    "alternativen": "Coburg und Landkreis Coburg | COburg"
+  },
+  {
+    "kennzeichen": "DAH",
+    "bundesland": "Bayern",
+    "kreis": "Dachau",
+    "stadt_oder_ursprung": "Dachau",
+    "abkuerzung_ursprung": "Dachau",
+    "alternativen": "Dachau"
+  },
+  {
+    "kennzeichen": "DEG",
+    "bundesland": "Bayern",
+    "kreis": "Deggendorf",
+    "stadt_oder_ursprung": "Deggendorf",
+    "abkuerzung_ursprung": "Deggendorf",
+    "alternativen": "Deggendorf"
+  },
+  {
+    "kennzeichen": "DGF",
+    "bundesland": "Bayern",
+    "kreis": "Dingolfing-Landau",
+    "stadt_oder_ursprung": "Dingolfing",
+    "abkuerzung_ursprung": "Dingolfing",
+    "alternativen": "Dingolfing-Landau | Dingolfing"
+  },
+  {
+    "kennzeichen": "DKB",
+    "bundesland": "Bayern",
+    "kreis": "Ansbach",
+    "stadt_oder_ursprung": "Dinkelsbühl",
+    "abkuerzung_ursprung": "Dinkelsbühl",
+    "alternativen": "Ansbach | Dinkelsbühl"
+  },
+  {
+    "kennzeichen": "DLG",
+    "bundesland": "Bayern",
+    "kreis": "Dillingen an der Donau",
+    "stadt_oder_ursprung": "Dillingen an der Donau",
+    "abkuerzung_ursprung": "Dillingen an der Donau",
+    "alternativen": "Dillingen an der Donau"
+  },
+  {
+    "kennzeichen": "DON",
+    "bundesland": "Bayern",
+    "kreis": "Donau-Ries",
+    "stadt_oder_ursprung": "Donauwörth",
+    "abkuerzung_ursprung": "Donauwörth",
+    "alternativen": "Donau-Ries | Donauwörth"
+  },
+  {
+    "kennzeichen": "EBE",
+    "bundesland": "Bayern",
+    "kreis": "Ebersberg",
+    "stadt_oder_ursprung": "Ebersberg",
+    "abkuerzung_ursprung": "Ebersberg",
+    "alternativen": "Ebersberg"
+  },
+  {
+    "kennzeichen": "EBN",
+    "bundesland": "Bayern",
+    "kreis": "Haßberge",
+    "stadt_oder_ursprung": "Ebern",
+    "abkuerzung_ursprung": "Ebern",
+    "alternativen": "Haßberge | Ebern"
+  },
+  {
+    "kennzeichen": "EBS",
+    "bundesland": "Bayern",
+    "kreis": "Bayreuth",
+    "stadt_oder_ursprung": "Ebermannstadt",
+    "abkuerzung_ursprung": "Ebermannstadt",
+    "alternativen": "Bayreuth | Ebermannstadt"
+  },
+  {
+    "kennzeichen": "ED",
+    "bundesland": "Bayern",
+    "kreis": "Erding",
+    "stadt_oder_ursprung": "Erding",
+    "abkuerzung_ursprung": "Erding",
+    "alternativen": "Erding"
+  },
+  {
+    "kennzeichen": "EG",
+    "bundesland": "Bayern",
+    "kreis": "Rottal-Inn",
+    "stadt_oder_ursprung": "Eggenfelden",
+    "abkuerzung_ursprung": "Eggenfelden",
+    "alternativen": "Rottal-Inn | Eggenfelden"
+  },
+  {
+    "kennzeichen": "EI",
+    "bundesland": "Bayern",
+    "kreis": "Eichstätt",
+    "stadt_oder_ursprung": "Eichstätt",
+    "abkuerzung_ursprung": "Eichstätt",
+    "alternativen": "Eichstätt"
+  },
+  {
+    "kennzeichen": "ER",
+    "bundesland": "Bayern",
+    "kreis": "Erlangen",
+    "stadt_oder_ursprung": "ERlangen",
+    "abkuerzung_ursprung": "ERlangen",
+    "alternativen": "Erlangen | ERlangen"
+  },
+  {
+    "kennzeichen": "ERH",
+    "bundesland": "Bayern",
+    "kreis": "Erlangen-Höchstadt",
+    "stadt_oder_ursprung": "Erlangen",
+    "abkuerzung_ursprung": "Erlangen",
+    "alternativen": "Erlangen-Höchstadt | Erlangen"
+  },
+  {
+    "kennzeichen": "ESB",
+    "bundesland": "Bayern",
+    "kreis": "Amberg-Sulzbach",
+    "stadt_oder_ursprung": "Eschenbach in der Oberpfalz",
+    "abkuerzung_ursprung": "Eschenbach in der Oberpfalz",
+    "alternativen": "Amberg-Sulzbach | Eschenbach in der Oberpfalz"
+  },
+  {
+    "kennzeichen": "FDB",
+    "bundesland": "Bayern",
+    "kreis": "Aichach-Friedberg",
+    "stadt_oder_ursprung": "Friedberg",
+    "abkuerzung_ursprung": "Friedberg",
+    "alternativen": "Aichach-Friedberg | Friedberg"
+  },
+  {
+    "kennzeichen": "FEU",
+    "bundesland": "Bayern",
+    "kreis": "Ansbach",
+    "stadt_oder_ursprung": "Feuchtwangen",
+    "abkuerzung_ursprung": "Feuchtwangen",
+    "alternativen": "Ansbach | Feuchtwangen"
+  },
+  {
+    "kennzeichen": "FFB",
+    "bundesland": "Bayern",
+    "kreis": "Fürstenfeldbruck",
+    "stadt_oder_ursprung": "Fürstenfeldbruck",
+    "abkuerzung_ursprung": "Fürstenfeldbruck",
+    "alternativen": "Fürstenfeldbruck"
+  },
+  {
+    "kennzeichen": "FO",
+    "bundesland": "Bayern",
+    "kreis": "Forchheim",
+    "stadt_oder_ursprung": "Forchheim",
+    "abkuerzung_ursprung": "Forchheim",
+    "alternativen": "Forchheim"
+  },
+  {
+    "kennzeichen": "FRG",
+    "bundesland": "Bayern",
+    "kreis": "Freyung-Grafenau",
+    "stadt_oder_ursprung": "Freyung",
+    "abkuerzung_ursprung": "Freyung",
+    "alternativen": "Freyung-Grafenau | Freyung"
+  },
+  {
+    "kennzeichen": "FS",
+    "bundesland": "Bayern",
+    "kreis": "Freising",
+    "stadt_oder_ursprung": "Freising",
+    "abkuerzung_ursprung": "Freising",
+    "alternativen": "Freising"
+  },
+  {
+    "kennzeichen": "FÜ",
+    "bundesland": "Bayern",
+    "kreis": "Fürth",
+    "stadt_oder_ursprung": "FÜrth",
+    "abkuerzung_ursprung": "FÜrth",
+    "alternativen": "Fürth | FÜrth"
+  },
+  {
+    "kennzeichen": "FÜS",
+    "bundesland": "Bayern",
+    "kreis": "Ostallgäu",
+    "stadt_oder_ursprung": "Füssen",
+    "abkuerzung_ursprung": "Füssen",
+    "alternativen": "Ostallgäu | Füssen"
+  },
+  {
+    "kennzeichen": "GAP",
+    "bundesland": "Bayern",
+    "kreis": "Garmisch-Partenkirchen",
+    "stadt_oder_ursprung": "Garmisch-Partenkirchen",
+    "abkuerzung_ursprung": "Garmisch-Partenkirchen",
+    "alternativen": "Garmisch-Partenkirchen"
+  },
+  {
+    "kennzeichen": "GEO",
+    "bundesland": "Bayern",
+    "kreis": "Haßberge",
+    "stadt_oder_ursprung": "Gerolzhofen",
+    "abkuerzung_ursprung": "Gerolzhofen",
+    "alternativen": "Haßberge | Gerolzhofen"
+  },
+  {
+    "kennzeichen": "GRA",
+    "bundesland": "Bayern",
+    "kreis": "Freyung-Grafenau",
+    "stadt_oder_ursprung": "Grafenau",
+    "abkuerzung_ursprung": "Grafenau",
+    "alternativen": "Freyung-Grafenau | Grafenau"
+  },
+  {
+    "kennzeichen": "GRI",
+    "bundesland": "Bayern",
+    "kreis": "Rottal-Inn",
+    "stadt_oder_ursprung": "Bad Griesbach im Rottal",
+    "abkuerzung_ursprung": "Bad Griesbach im Rottal",
+    "alternativen": "Rottal-Inn | Bad Griesbach im Rottal"
+  },
+  {
+    "kennzeichen": "GUN",
+    "bundesland": "Bayern",
+    "kreis": "Weißenburg-Gunzenhausen",
+    "stadt_oder_ursprung": "Gunzenhausen",
+    "abkuerzung_ursprung": "Gunzenhausen",
+    "alternativen": "Weißenburg-Gunzenhausen | Gunzenhausen"
+  },
+  {
+    "kennzeichen": "GZ",
+    "bundesland": "Bayern",
+    "kreis": "Günzburg",
+    "stadt_oder_ursprung": "Günzburg",
+    "abkuerzung_ursprung": "Günzburg",
+    "alternativen": "Günzburg"
+  },
+  {
+    "kennzeichen": "HAB",
+    "bundesland": "Bayern",
+    "kreis": "Bad Kissingen",
+    "stadt_oder_ursprung": "Hammelburg",
+    "abkuerzung_ursprung": "Hammelburg",
+    "alternativen": "Bad Kissingen | Hammelburg"
+  },
+  {
+    "kennzeichen": "HAS",
+    "bundesland": "Bayern",
+    "kreis": "Haßberge",
+    "stadt_oder_ursprung": "Haßfurt",
+    "abkuerzung_ursprung": "Haßfurt",
+    "alternativen": "Haßberge | Haßfurt"
+  },
+  {
+    "kennzeichen": "HEB",
+    "bundesland": "Bayern",
+    "kreis": "Nürnberger Land",
+    "stadt_oder_ursprung": "Hersbruck",
+    "abkuerzung_ursprung": "Hersbruck",
+    "alternativen": "Nürnberger Land | Hersbruck"
+  },
+  {
+    "kennzeichen": "HIP",
+    "bundesland": "Bayern",
+    "kreis": "Roth",
+    "stadt_oder_ursprung": "Hilpoltstein",
+    "abkuerzung_ursprung": "Hilpoltstein",
+    "alternativen": "Roth | Hilpoltstein"
+  },
+  {
+    "kennzeichen": "HO",
+    "bundesland": "Bayern",
+    "kreis": "Hof",
+    "stadt_oder_ursprung": "HOf",
+    "abkuerzung_ursprung": "HOf",
+    "alternativen": "Hof | HOf"
+  },
+  {
+    "kennzeichen": "HOH",
+    "bundesland": "Bayern",
+    "kreis": "Haßberge",
+    "stadt_oder_ursprung": "Hofheim in Unterfranken",
+    "abkuerzung_ursprung": "Hofheim in Unterfranken",
+    "alternativen": "Haßberge | Hofheim in Unterfranken"
+  },
+  {
+    "kennzeichen": "HÖS",
+    "bundesland": "Bayern",
+    "kreis": "Erlangen-Höchstadt",
+    "stadt_oder_ursprung": "Höchstadt an der Aisch",
+    "abkuerzung_ursprung": "Höchstadt an der Aisch",
+    "alternativen": "Erlangen-Höchstadt | Höchstadt an der Aisch"
+  },
+  {
+    "kennzeichen": "ILL",
+    "bundesland": "Bayern",
+    "kreis": "Neu-Ulm",
+    "stadt_oder_ursprung": "Illertissen",
+    "abkuerzung_ursprung": "Illertissen",
+    "alternativen": "Neu-Ulm | Illertissen"
+  },
+  {
+    "kennzeichen": "IN",
+    "bundesland": "Bayern",
+    "kreis": "Ingolstadt",
+    "stadt_oder_ursprung": "INgolstadt",
+    "abkuerzung_ursprung": "INgolstadt",
+    "alternativen": "Ingolstadt | INgolstadt"
+  },
+  {
+    "kennzeichen": "KC",
+    "bundesland": "Bayern",
+    "kreis": "Kronach",
+    "stadt_oder_ursprung": "Kronach",
+    "abkuerzung_ursprung": "Kronach",
+    "alternativen": "Kronach"
+  },
+  {
+    "kennzeichen": "KE",
+    "bundesland": "Bayern",
+    "kreis": "Kempten",
+    "stadt_oder_ursprung": "KEmpten",
+    "abkuerzung_ursprung": "KEmpten",
+    "alternativen": "Kempten | KEmpten"
+  },
+  {
+    "kennzeichen": "KEH",
+    "bundesland": "Bayern",
+    "kreis": "Kelheim",
+    "stadt_oder_ursprung": "Kelheim",
+    "abkuerzung_ursprung": "Kelheim",
+    "alternativen": "Kelheim"
+  },
+  {
+    "kennzeichen": "KEM",
+    "bundesland": "Bayern",
+    "kreis": "Bayreuth",
+    "stadt_oder_ursprung": "Kemnath",
+    "abkuerzung_ursprung": "Kemnath",
+    "alternativen": "Bayreuth | Kemnath"
+  },
+  {
+    "kennzeichen": "KF",
+    "bundesland": "Bayern",
+    "kreis": "Kaufbeuren",
+    "stadt_oder_ursprung": "KauFbeuren",
+    "abkuerzung_ursprung": "KauFbeuren",
+    "alternativen": "Kaufbeuren | KauFbeuren"
+  },
+  {
+    "kennzeichen": "KG",
+    "bundesland": "Bayern",
+    "kreis": "Bad Kissingen",
+    "stadt_oder_ursprung": "Bad Kissingen",
+    "abkuerzung_ursprung": "Bad Kissingen",
+    "alternativen": "Bad Kissingen"
+  },
+  {
+    "kennzeichen": "KÖN",
+    "bundesland": "Bayern",
+    "kreis": "Rhön-Grabfeld",
+    "stadt_oder_ursprung": "Bad Königshofen im Grabfeld",
+    "abkuerzung_ursprung": "Bad Königshofen im Grabfeld",
+    "alternativen": "Rhön-Grabfeld | Bad Königshofen im Grabfeld"
+  },
+  {
+    "kennzeichen": "KÖZ",
+    "bundesland": "Bayern",
+    "kreis": "Cham",
+    "stadt_oder_ursprung": "Bad Kötzting",
+    "abkuerzung_ursprung": "Bad Kötzting",
+    "alternativen": "Cham | Bad Kötzting"
+  },
+  {
+    "kennzeichen": "KRU",
+    "bundesland": "Bayern",
+    "kreis": "Günzburg",
+    "stadt_oder_ursprung": "Krumbach",
+    "abkuerzung_ursprung": "Krumbach",
+    "alternativen": "Günzburg | Krumbach"
+  },
+  {
+    "kennzeichen": "KT",
+    "bundesland": "Bayern",
+    "kreis": "Kitzingen",
+    "stadt_oder_ursprung": "Kitzingen",
+    "abkuerzung_ursprung": "Kitzingen",
+    "alternativen": "Kitzingen"
+  },
+  {
+    "kennzeichen": "KU",
+    "bundesland": "Bayern",
+    "kreis": "Kulmbach",
+    "stadt_oder_ursprung": "Kulmbach",
+    "abkuerzung_ursprung": "Kulmbach",
+    "alternativen": "Kulmbach"
+  },
+  {
+    "kennzeichen": "LA",
+    "bundesland": "Bayern",
+    "kreis": "Landshut",
+    "stadt_oder_ursprung": "LAndshut",
+    "abkuerzung_ursprung": "LAndshut",
+    "alternativen": "Landshut | LAndshut"
+  },
+  {
+    "kennzeichen": "LAN",
+    "bundesland": "Bayern",
+    "kreis": "Dingolfing-Landau",
+    "stadt_oder_ursprung": "Landau an der Isar",
+    "abkuerzung_ursprung": "Landau an der Isar",
+    "alternativen": "Dingolfing-Landau | Landau an der Isar"
+  },
+  {
+    "kennzeichen": "LAU",
+    "bundesland": "Bayern",
+    "kreis": "Nürnberger Land",
+    "stadt_oder_ursprung": "Lauf an der Pegnitz",
+    "abkuerzung_ursprung": "Lauf an der Pegnitz",
+    "alternativen": "Nürnberger Land | Lauf an der Pegnitz"
+  },
+  {
+    "kennzeichen": "LF",
+    "bundesland": "Bayern",
+    "kreis": "Altötting",
+    "stadt_oder_ursprung": "Laufen",
+    "abkuerzung_ursprung": "Laufen",
+    "alternativen": "Altötting | Laufen"
+  },
+  {
+    "kennzeichen": "LI",
+    "bundesland": "Bayern",
+    "kreis": "Lindau",
+    "stadt_oder_ursprung": "Lindau",
+    "abkuerzung_ursprung": "Lindau",
+    "alternativen": "Lindau"
+  },
+  {
+    "kennzeichen": "LIF",
+    "bundesland": "Bayern",
+    "kreis": "Lichtenfels",
+    "stadt_oder_ursprung": "Lichtenfels",
+    "abkuerzung_ursprung": "Lichtenfels",
+    "alternativen": "Lichtenfels"
+  },
+  {
+    "kennzeichen": "LL",
+    "bundesland": "Bayern",
+    "kreis": "Bayern",
+    "stadt_oder_ursprung": "Landsberg am Lech",
+    "abkuerzung_ursprung": "Landsberg am Lech",
+    "alternativen": "Bayern | Landsberg am Lech"
+  },
+  {
+    "kennzeichen": "M",
+    "bundesland": "Bayern",
+    "kreis": "Bayern",
+    "stadt_oder_ursprung": "München",
+    "abkuerzung_ursprung": "München",
+    "alternativen": "Bayern | München"
+  },
+  {
+    "kennzeichen": "MAI",
+    "bundesland": "Bayern",
+    "kreis": "Kelheim",
+    "stadt_oder_ursprung": "Mainburg",
+    "abkuerzung_ursprung": "Mainburg",
+    "alternativen": "Kelheim | Mainburg"
+  },
+  {
+    "kennzeichen": "MAK",
+    "bundesland": "Bayern",
+    "kreis": "Wunsiedel im Fichtelgebirge",
+    "stadt_oder_ursprung": "Marktredwitz",
+    "abkuerzung_ursprung": "Marktredwitz",
+    "alternativen": "Wunsiedel im Fichtelgebirge | Marktredwitz"
+  },
+  {
+    "kennzeichen": "MAL",
+    "bundesland": "Bayern",
+    "kreis": "Landshut",
+    "stadt_oder_ursprung": "Mallersdorf-Pfaffenberg",
+    "abkuerzung_ursprung": "Mallersdorf-Pfaffenberg",
+    "alternativen": "Landshut | Mallersdorf-Pfaffenberg"
+  },
+  {
+    "kennzeichen": "MB",
+    "bundesland": "Bayern",
+    "kreis": "Miesbach",
+    "stadt_oder_ursprung": "Miesbach",
+    "abkuerzung_ursprung": "Miesbach",
+    "alternativen": "Miesbach"
+  },
+  {
+    "kennzeichen": "MET",
+    "bundesland": "Bayern",
+    "kreis": "Rhön-Grabfeld",
+    "stadt_oder_ursprung": "Mellrichstadt",
+    "abkuerzung_ursprung": "Mellrichstadt",
+    "alternativen": "Rhön-Grabfeld | Mellrichstadt"
+  },
+  {
+    "kennzeichen": "MIL",
+    "bundesland": "Bayern",
+    "kreis": "Miltenberg",
+    "stadt_oder_ursprung": "Miltenberg",
+    "abkuerzung_ursprung": "Miltenberg",
+    "alternativen": "Miltenberg"
+  },
+  {
+    "kennzeichen": "MM",
+    "bundesland": "Bayern",
+    "kreis": "Memmingen",
+    "stadt_oder_ursprung": "MemMingen",
+    "abkuerzung_ursprung": "MemMingen",
+    "alternativen": "Memmingen | MemMingen"
+  },
+  {
+    "kennzeichen": "MN",
+    "bundesland": "Bayern",
+    "kreis": "Unterallgäu",
+    "stadt_oder_ursprung": "Mindelheim",
+    "abkuerzung_ursprung": "Mindelheim",
+    "alternativen": "Unterallgäu | Mindelheim"
+  },
+  {
+    "kennzeichen": "MOD",
+    "bundesland": "Bayern",
+    "kreis": "Ostallgäu",
+    "stadt_oder_ursprung": "Marktoberdorf",
+    "abkuerzung_ursprung": "Marktoberdorf",
+    "alternativen": "Ostallgäu | Marktoberdorf"
+  },
+  {
+    "kennzeichen": "MSP",
+    "bundesland": "Bayern",
+    "kreis": "Main-Spessart",
+    "stadt_oder_ursprung": "Main",
+    "abkuerzung_ursprung": "Main",
+    "alternativen": "Main-Spessart | Main"
+  },
+  {
+    "kennzeichen": "MU",
+    "bundesland": "Bayern",
+    "kreis": "München",
+    "stadt_oder_ursprung": "Münchner Umland",
+    "abkuerzung_ursprung": "Münchner Umland",
+    "alternativen": "München | Münchner Umland"
+  },
+  {
+    "kennzeichen": "MUC",
+    "bundesland": "Bayern",
+    "kreis": "München",
+    "stadt_oder_ursprung": "MUenChen",
+    "abkuerzung_ursprung": "MUenChen",
+    "alternativen": "München | MUenChen"
+  },
+  {
+    "kennzeichen": "MÜ",
+    "bundesland": "Bayern",
+    "kreis": "Mühldorf am Inn",
+    "stadt_oder_ursprung": "Mühldorf am Inn",
+    "abkuerzung_ursprung": "Mühldorf am Inn",
+    "alternativen": "Mühldorf am Inn"
+  },
+  {
+    "kennzeichen": "MÜB",
+    "bundesland": "Bayern",
+    "kreis": "Bayreuth",
+    "stadt_oder_ursprung": "Münchberg",
+    "abkuerzung_ursprung": "Münchberg",
+    "alternativen": "Bayreuth | Münchberg"
+  },
+  {
+    "kennzeichen": "N",
+    "bundesland": "Bayern",
+    "kreis": "Bayern",
+    "stadt_oder_ursprung": "Nürnberg",
+    "abkuerzung_ursprung": "Nürnberg",
+    "alternativen": "Bayern | Nürnberg"
+  },
+  {
+    "kennzeichen": "NAB",
+    "bundesland": "Bayern",
+    "kreis": "Amberg-Sulzbach",
+    "stadt_oder_ursprung": "Nabburg",
+    "abkuerzung_ursprung": "Nabburg",
+    "alternativen": "Amberg-Sulzbach | Nabburg"
+  },
+  {
+    "kennzeichen": "NAI",
+    "bundesland": "Bayern",
+    "kreis": "Hof",
+    "stadt_oder_ursprung": "Naila",
+    "abkuerzung_ursprung": "Naila",
+    "alternativen": "Hof | Naila"
+  },
+  {
+    "kennzeichen": "ND",
+    "bundesland": "Bayern",
+    "kreis": "Neuburg-Schrobenhausen",
+    "stadt_oder_ursprung": "Neuburg an der Donau",
+    "abkuerzung_ursprung": "Neuburg an der Donau",
+    "alternativen": "Neuburg-Schrobenhausen | Neuburg an der Donau"
+  },
+  {
+    "kennzeichen": "NEA",
+    "bundesland": "Bayern",
+    "kreis": "Neustadt an der Aisch-Bad Windsheim",
+    "stadt_oder_ursprung": "Neustadt an der Aisch",
+    "abkuerzung_ursprung": "Neustadt an der Aisch",
+    "alternativen": "Neustadt an der Aisch-Bad Windsheim | Neustadt an der Aisch"
+  },
+  {
+    "kennzeichen": "NEC",
+    "bundesland": "Bayern",
+    "kreis": "Coburg und Landkreis Coburg",
+    "stadt_oder_ursprung": "Neustadt bei Coburg",
+    "abkuerzung_ursprung": "Neustadt bei Coburg",
+    "alternativen": "Coburg und Landkreis Coburg | Neustadt bei Coburg"
+  },
+  {
+    "kennzeichen": "NEN",
+    "bundesland": "Bayern",
+    "kreis": "Schwandorf",
+    "stadt_oder_ursprung": "Neunburg vorm Wald",
+    "abkuerzung_ursprung": "Neunburg vorm Wald",
+    "alternativen": "Schwandorf | Neunburg vorm Wald"
+  },
+  {
+    "kennzeichen": "NES",
+    "bundesland": "Bayern",
+    "kreis": "Rhön-Grabfeld",
+    "stadt_oder_ursprung": "Bad Neustadt an der Saale",
+    "abkuerzung_ursprung": "Bad Neustadt an der Saale",
+    "alternativen": "Rhön-Grabfeld | Bad Neustadt an der Saale"
+  },
+  {
+    "kennzeichen": "NEW",
+    "bundesland": "Bayern",
+    "kreis": "Neustadt an der Waldnaab",
+    "stadt_oder_ursprung": "Neustadt an der Waldnaab",
+    "abkuerzung_ursprung": "Neustadt an der Waldnaab",
+    "alternativen": "Neustadt an der Waldnaab"
+  },
+  {
+    "kennzeichen": "NM",
+    "bundesland": "Bayern",
+    "kreis": "Neumarkt in der Oberpfalz",
+    "stadt_oder_ursprung": "Neumarkt in der Oberpfalz",
+    "abkuerzung_ursprung": "Neumarkt in der Oberpfalz",
+    "alternativen": "Neumarkt in der Oberpfalz"
+  },
+  {
+    "kennzeichen": "NÖ",
+    "bundesland": "Bayern",
+    "kreis": "Donau-Ries",
+    "stadt_oder_ursprung": "Nördlingen",
+    "abkuerzung_ursprung": "Nördlingen",
+    "alternativen": "Donau-Ries | Nördlingen"
+  },
+  {
+    "kennzeichen": "NU",
+    "bundesland": "Bayern",
+    "kreis": "Bayern",
+    "stadt_oder_ursprung": "Neu-Ulm",
+    "abkuerzung_ursprung": "Neu-Ulm",
+    "alternativen": "Bayern | Neu-Ulm"
+  },
+  {
+    "kennzeichen": "OA",
+    "bundesland": "Bayern",
+    "kreis": "Oberallgäu",
+    "stadt_oder_ursprung": "OberAllgäu",
+    "abkuerzung_ursprung": "OberAllgäu",
+    "alternativen": "Oberallgäu | OberAllgäu"
+  },
+  {
+    "kennzeichen": "OAL",
+    "bundesland": "Bayern",
+    "kreis": "Ostallgäu",
+    "stadt_oder_ursprung": "OstALlgäu",
+    "abkuerzung_ursprung": "OstALlgäu",
+    "alternativen": "Ostallgäu | OstALlgäu"
+  },
+  {
+    "kennzeichen": "OBB",
+    "bundesland": "Bayern",
+    "kreis": "Miltenberg",
+    "stadt_oder_ursprung": "Obernburg am Main",
+    "abkuerzung_ursprung": "Obernburg am Main",
+    "alternativen": "Miltenberg | Obernburg am Main"
+  },
+  {
+    "kennzeichen": "OCH",
+    "bundesland": "Bayern",
+    "kreis": "Würzburg",
+    "stadt_oder_ursprung": "Ochsenfurt",
+    "abkuerzung_ursprung": "Ochsenfurt",
+    "alternativen": "Würzburg | Ochsenfurt"
+  },
+  {
+    "kennzeichen": "OVI",
+    "bundesland": "Bayern",
+    "kreis": "Schwandorf",
+    "stadt_oder_ursprung": "Oberviechtach",
+    "abkuerzung_ursprung": "Oberviechtach",
+    "alternativen": "Schwandorf | Oberviechtach"
+  },
+  {
+    "kennzeichen": "PA",
+    "bundesland": "Bayern",
+    "kreis": "Passau",
+    "stadt_oder_ursprung": "PAssau",
+    "abkuerzung_ursprung": "PAssau",
+    "alternativen": "Passau | PAssau"
+  },
+  {
+    "kennzeichen": "PAF",
+    "bundesland": "Bayern",
+    "kreis": "Pfaffenhofen an der Ilm",
+    "stadt_oder_ursprung": "Pfaffenhofen an der Ilm",
+    "abkuerzung_ursprung": "Pfaffenhofen an der Ilm",
+    "alternativen": "Pfaffenhofen an der Ilm"
+  },
+  {
+    "kennzeichen": "PAN",
+    "bundesland": "Bayern",
+    "kreis": "Rottal-Inn",
+    "stadt_oder_ursprung": "Pfarrkirchen",
+    "abkuerzung_ursprung": "Pfarrkirchen",
+    "alternativen": "Rottal-Inn | Pfarrkirchen"
+  },
+  {
+    "kennzeichen": "PAR",
+    "bundesland": "Bayern",
+    "kreis": "Kelheim",
+    "stadt_oder_ursprung": "Parsberg",
+    "abkuerzung_ursprung": "Parsberg",
+    "alternativen": "Kelheim | Parsberg"
+  },
+  {
+    "kennzeichen": "PEG",
+    "bundesland": "Bayern",
+    "kreis": "Bayreuth",
+    "stadt_oder_ursprung": "Pegnitz",
+    "abkuerzung_ursprung": "Pegnitz",
+    "alternativen": "Bayreuth | Pegnitz"
+  },
+  {
+    "kennzeichen": "R",
+    "bundesland": "Bayern",
+    "kreis": "Bayern",
+    "stadt_oder_ursprung": "Regensburg",
+    "abkuerzung_ursprung": "Regensburg",
+    "alternativen": "Bayern | Regensburg"
+  },
+  {
+    "kennzeichen": "REG",
+    "bundesland": "Bayern",
+    "kreis": "Regen",
+    "stadt_oder_ursprung": "Regen",
+    "abkuerzung_ursprung": "Regen",
+    "alternativen": "Regen"
+  },
+  {
+    "kennzeichen": "REH",
+    "bundesland": "Bayern",
+    "kreis": "Hof",
+    "stadt_oder_ursprung": "Rehau",
+    "abkuerzung_ursprung": "Rehau",
+    "alternativen": "Hof | Rehau"
+  },
+  {
+    "kennzeichen": "REI",
+    "bundesland": "Bayern",
+    "kreis": "Berchtesgadener Land",
+    "stadt_oder_ursprung": "Bad Reichenhall",
+    "abkuerzung_ursprung": "Bad Reichenhall",
+    "alternativen": "Berchtesgadener Land | Bad Reichenhall"
+  },
+  {
+    "kennzeichen": "RH",
+    "bundesland": "Bayern",
+    "kreis": "Roth",
+    "stadt_oder_ursprung": "Roth",
+    "abkuerzung_ursprung": "Roth",
+    "alternativen": "Roth"
+  },
+  {
+    "kennzeichen": "RID",
+    "bundesland": "Bayern",
+    "kreis": "Kelheim",
+    "stadt_oder_ursprung": "Riedenburg",
+    "abkuerzung_ursprung": "Riedenburg",
+    "alternativen": "Kelheim | Riedenburg"
+  },
+  {
+    "kennzeichen": "RO",
+    "bundesland": "Bayern",
+    "kreis": "Rosenheim",
+    "stadt_oder_ursprung": "ROsenheim",
+    "abkuerzung_ursprung": "ROsenheim",
+    "alternativen": "Rosenheim | ROsenheim"
+  },
+  {
+    "kennzeichen": "ROD",
+    "bundesland": "Bayern",
+    "kreis": "Cham",
+    "stadt_oder_ursprung": "Roding",
+    "abkuerzung_ursprung": "Roding",
+    "alternativen": "Cham | Roding"
+  },
+  {
+    "kennzeichen": "ROL",
+    "bundesland": "Bayern",
+    "kreis": "Kelheim",
+    "stadt_oder_ursprung": "Rottenburg an der Laaber",
+    "abkuerzung_ursprung": "Rottenburg an der Laaber",
+    "alternativen": "Kelheim | Rottenburg an der Laaber"
+  },
+  {
+    "kennzeichen": "ROT",
+    "bundesland": "Bayern",
+    "kreis": "Ansbach",
+    "stadt_oder_ursprung": "Rothenburg ob der Tauber",
+    "abkuerzung_ursprung": "Rothenburg ob der Tauber",
+    "alternativen": "Ansbach | Rothenburg ob der Tauber"
+  },
+  {
+    "kennzeichen": "SAD",
+    "bundesland": "Bayern",
+    "kreis": "Schwandorf",
+    "stadt_oder_ursprung": "Schwandorf",
+    "abkuerzung_ursprung": "Schwandorf",
+    "alternativen": "Schwandorf"
+  },
+  {
+    "kennzeichen": "SAN",
+    "bundesland": "Bayern",
+    "kreis": "Hof",
+    "stadt_oder_ursprung": "Stadtsteinach",
+    "abkuerzung_ursprung": "Stadtsteinach",
+    "alternativen": "Hof | Stadtsteinach"
+  },
+  {
+    "kennzeichen": "SC",
+    "bundesland": "Bayern",
+    "kreis": "Schwabach",
+    "stadt_oder_ursprung": "SChwabach",
+    "abkuerzung_ursprung": "SChwabach",
+    "alternativen": "Schwabach | SChwabach"
+  },
+  {
+    "kennzeichen": "SEF",
+    "bundesland": "Bayern",
+    "kreis": "Neustadt an der Aisch-Bad Windsheim",
+    "stadt_oder_ursprung": "Scheinfeld",
+    "abkuerzung_ursprung": "Scheinfeld",
+    "alternativen": "Neustadt an der Aisch-Bad Windsheim | Scheinfeld"
+  },
+  {
+    "kennzeichen": "SEL",
+    "bundesland": "Bayern",
+    "kreis": "Wunsiedel im Fichtelgebirge",
+    "stadt_oder_ursprung": "Selb",
+    "abkuerzung_ursprung": "Selb",
+    "alternativen": "Wunsiedel im Fichtelgebirge | Selb"
+  },
+  {
+    "kennzeichen": "SMÜ",
+    "bundesland": "Bayern",
+    "kreis": "Augsburg",
+    "stadt_oder_ursprung": "Schwabmünchen",
+    "abkuerzung_ursprung": "Schwabmünchen",
+    "alternativen": "Augsburg | Schwabmünchen"
+  },
+  {
+    "kennzeichen": "SOB",
+    "bundesland": "Bayern",
+    "kreis": "Neuburg-Schrobenhausen",
+    "stadt_oder_ursprung": "Schrobenhausen",
+    "abkuerzung_ursprung": "Schrobenhausen",
+    "alternativen": "Neuburg-Schrobenhausen | Schrobenhausen"
+  },
+  {
+    "kennzeichen": "SOG",
+    "bundesland": "Bayern",
+    "kreis": "Weilheim-Schongau",
+    "stadt_oder_ursprung": "Schongau",
+    "abkuerzung_ursprung": "Schongau",
+    "alternativen": "Weilheim-Schongau | Schongau"
+  },
+  {
+    "kennzeichen": "SR",
+    "bundesland": "Bayern",
+    "kreis": "Straubing-Bogen",
+    "stadt_oder_ursprung": "StRaubing",
+    "abkuerzung_ursprung": "StRaubing",
+    "alternativen": "Straubing-Bogen | StRaubing"
+  },
+  {
+    "kennzeichen": "STA",
+    "bundesland": "Bayern",
+    "kreis": "Starnberg",
+    "stadt_oder_ursprung": "Starnberg",
+    "abkuerzung_ursprung": "Starnberg",
+    "alternativen": "Starnberg"
+  },
+  {
+    "kennzeichen": "STE",
+    "bundesland": "Bayern",
+    "kreis": "Lichtenfels",
+    "stadt_oder_ursprung": "Bad Staffelstein",
+    "abkuerzung_ursprung": "Bad Staffelstein",
+    "alternativen": "Lichtenfels | Bad Staffelstein"
+  },
+  {
+    "kennzeichen": "SUL",
+    "bundesland": "Bayern",
+    "kreis": "Amberg-Sulzbach",
+    "stadt_oder_ursprung": "Sulzbach-Rosenberg",
+    "abkuerzung_ursprung": "Sulzbach-Rosenberg",
+    "alternativen": "Amberg-Sulzbach | Sulzbach-Rosenberg"
+  },
+  {
+    "kennzeichen": "SW",
+    "bundesland": "Bayern",
+    "kreis": "Schweinfurt",
+    "stadt_oder_ursprung": "SchWeinfurt",
+    "abkuerzung_ursprung": "SchWeinfurt",
+    "alternativen": "Schweinfurt | SchWeinfurt"
+  },
+  {
+    "kennzeichen": "TIR",
+    "bundesland": "Bayern",
+    "kreis": "Tirschenreuth",
+    "stadt_oder_ursprung": "Tirschenreuth",
+    "abkuerzung_ursprung": "Tirschenreuth",
+    "alternativen": "Tirschenreuth"
+  },
+  {
+    "kennzeichen": "TÖL",
+    "bundesland": "Bayern",
+    "kreis": "Bad Tölz-Wolfratshausen",
+    "stadt_oder_ursprung": "Bad Tölz",
+    "abkuerzung_ursprung": "Bad Tölz",
+    "alternativen": "Bad Tölz-Wolfratshausen | Bad Tölz"
+  },
+  {
+    "kennzeichen": "TS",
+    "bundesland": "Bayern",
+    "kreis": "Traunstein",
+    "stadt_oder_ursprung": "Traunstein",
+    "abkuerzung_ursprung": "Traunstein",
+    "alternativen": "Traunstein"
+  },
+  {
+    "kennzeichen": "UFF",
+    "bundesland": "Bayern",
+    "kreis": "Neustadt an der Aisch-Bad Windsheim",
+    "stadt_oder_ursprung": "Uffenheim",
+    "abkuerzung_ursprung": "Uffenheim",
+    "alternativen": "Neustadt an der Aisch-Bad Windsheim | Uffenheim"
+  },
+  {
+    "kennzeichen": "VIB",
+    "bundesland": "Bayern",
+    "kreis": "Landshut",
+    "stadt_oder_ursprung": "Vilsbiburg",
+    "abkuerzung_ursprung": "Vilsbiburg",
+    "alternativen": "Landshut | Vilsbiburg"
+  },
+  {
+    "kennzeichen": "VIT",
+    "bundesland": "Bayern",
+    "kreis": "Regen",
+    "stadt_oder_ursprung": "Viechtach",
+    "abkuerzung_ursprung": "Viechtach",
+    "alternativen": "Regen | Viechtach"
+  },
+  {
+    "kennzeichen": "VOH",
+    "bundesland": "Bayern",
+    "kreis": "Neustadt an der Waldnaab",
+    "stadt_oder_ursprung": "Vohenstrauß",
+    "abkuerzung_ursprung": "Vohenstrauß",
+    "alternativen": "Neustadt an der Waldnaab | Vohenstrauß"
+  },
+  {
+    "kennzeichen": "WEN",
+    "bundesland": "Bayern",
+    "kreis": "Weiden in der Oberpfalz",
+    "stadt_oder_ursprung": "WEideN",
+    "abkuerzung_ursprung": "WEideN",
+    "alternativen": "Weiden in der Oberpfalz | WEideN"
+  },
+  {
+    "kennzeichen": "WER",
+    "bundesland": "Bayern",
+    "kreis": "Augsburg",
+    "stadt_oder_ursprung": "Wertingen",
+    "abkuerzung_ursprung": "Wertingen",
+    "alternativen": "Augsburg | Wertingen"
+  },
+  {
+    "kennzeichen": "WM",
+    "bundesland": "Bayern",
+    "kreis": "Weilheim-Schongau",
+    "stadt_oder_ursprung": "Weilheim in Oberbayern",
+    "abkuerzung_ursprung": "Weilheim in Oberbayern",
+    "alternativen": "Weilheim-Schongau | Weilheim in Oberbayern"
+  },
+  {
+    "kennzeichen": "WOR",
+    "bundesland": "Bayern",
+    "kreis": "Bad Tölz-Wolfratshausen",
+    "stadt_oder_ursprung": "Wolfratshausen",
+    "abkuerzung_ursprung": "Wolfratshausen",
+    "alternativen": "Bad Tölz-Wolfratshausen | Wolfratshausen"
+  },
+  {
+    "kennzeichen": "WOS",
+    "bundesland": "Bayern",
+    "kreis": "Freyung-Grafenau",
+    "stadt_oder_ursprung": "Schloss Wolfstein",
+    "abkuerzung_ursprung": "Schloss Wolfstein",
+    "alternativen": "Freyung-Grafenau | Schloss Wolfstein"
+  },
+  {
+    "kennzeichen": "WS",
+    "bundesland": "Bayern",
+    "kreis": "Mühldorf a.Inn",
+    "stadt_oder_ursprung": "Wasserburg am Inn",
+    "abkuerzung_ursprung": "Wasserburg am Inn",
+    "alternativen": "Mühldorf a.Inn | Wasserburg am Inn"
+  },
+  {
+    "kennzeichen": "WÜ",
+    "bundesland": "Bayern",
+    "kreis": "Würzburg",
+    "stadt_oder_ursprung": "WÜrzburg",
+    "abkuerzung_ursprung": "WÜrzburg",
+    "alternativen": "Würzburg | WÜrzburg"
+  },
+  {
+    "kennzeichen": "WUG",
+    "bundesland": "Bayern",
+    "kreis": "Weißenburg-Gunzenhausen",
+    "stadt_oder_ursprung": "Weißenburg in Bayern",
+    "abkuerzung_ursprung": "Weißenburg in Bayern",
+    "alternativen": "Weißenburg-Gunzenhausen | Weißenburg in Bayern"
+  },
+  {
+    "kennzeichen": "WÜM",
+    "bundesland": "Bayern",
+    "kreis": "Cham",
+    "stadt_oder_ursprung": "Cham",
+    "abkuerzung_ursprung": "Cham",
+    "alternativen": "Cham | WaldMÜnchen"
+  },
+  {
+    "kennzeichen": "WUN",
+    "bundesland": "Bayern",
+    "kreis": "Wunsiedel im Fichtelgebirge",
+    "stadt_oder_ursprung": "Wunsiedel",
+    "abkuerzung_ursprung": "Wunsiedel",
+    "alternativen": "Wunsiedel im Fichtelgebirge | Wunsiedel"
+  },
+  {
+    "kennzeichen": "B",
+    "bundesland": "Berlin",
+    "kreis": "Berlin",
+    "stadt_oder_ursprung": "Berlin",
+    "abkuerzung_ursprung": "Berlin",
+    "alternativen": "Berlin"
+  },
+  {
+    "kennzeichen": "ANG",
+    "bundesland": "Brandenburg",
+    "kreis": "Uckermark",
+    "stadt_oder_ursprung": "Angermünde",
+    "abkuerzung_ursprung": "Angermünde",
+    "alternativen": "Uckermark | Angermünde"
+  },
+  {
+    "kennzeichen": "BAR",
+    "bundesland": "Brandenburg",
+    "kreis": "Barnim",
+    "stadt_oder_ursprung": "Barnim",
+    "abkuerzung_ursprung": "Barnim",
+    "alternativen": "Barnim"
+  },
+  {
+    "kennzeichen": "BBL",
+    "bundesland": "Brandenburg",
+    "kreis": "Brandenburg, Landesregierung, Landtag und Polizei",
+    "stadt_oder_ursprung": "BrandenBurgische Landesregierung",
+    "abkuerzung_ursprung": "BrandenBurgische Landesregierung",
+    "alternativen": "Brandenburg, Landesregierung, Landtag und Polizei | BrandenBurgische Landesregierung"
+  },
+  {
+    "kennzeichen": "BEL",
+    "bundesland": "Brandenburg",
+    "kreis": "Potsdam-Mittelmark",
+    "stadt_oder_ursprung": "Bad Belzig",
+    "abkuerzung_ursprung": "Bad Belzig",
+    "alternativen": "Potsdam-Mittelmark | Bad Belzig"
+  },
+  {
+    "kennzeichen": "BER",
+    "bundesland": "Brandenburg",
+    "kreis": "Barnim",
+    "stadt_oder_ursprung": "Bernau bei Berlin",
+    "abkuerzung_ursprung": "Bernau bei Berlin",
+    "alternativen": "Barnim | Bernau bei Berlin"
+  },
+  {
+    "kennzeichen": "BRB",
+    "bundesland": "Brandenburg",
+    "kreis": "Brandenburg an der Havel",
+    "stadt_oder_ursprung": "BRandenBurg",
+    "abkuerzung_ursprung": "BRandenBurg",
+    "alternativen": "Brandenburg an der Havel | BRandenBurg"
+  },
+  {
+    "kennzeichen": "BSK",
+    "bundesland": "Brandenburg",
+    "kreis": "Oder-Spree",
+    "stadt_oder_ursprung": "Beeskow",
+    "abkuerzung_ursprung": "Beeskow",
+    "alternativen": "Oder-Spree | Beeskow"
+  },
+  {
+    "kennzeichen": "CA",
+    "bundesland": "Brandenburg",
+    "kreis": "Oberspreewald-Lausitz",
+    "stadt_oder_ursprung": "Calau",
+    "abkuerzung_ursprung": "Calau",
+    "alternativen": "Oberspreewald-Lausitz | Calau"
+  },
+  {
+    "kennzeichen": "CB",
+    "bundesland": "Brandenburg",
+    "kreis": "Cottbus",
+    "stadt_oder_ursprung": "CottBus",
+    "abkuerzung_ursprung": "CottBus",
+    "alternativen": "Cottbus | CottBus"
+  },
+  {
+    "kennzeichen": "EE",
+    "bundesland": "Brandenburg",
+    "kreis": "Elbe, Elster",
+    "stadt_oder_ursprung": "Elbe-Elster",
+    "abkuerzung_ursprung": "Elbe-Elster",
+    "alternativen": "Elbe, Elster | Elbe-Elster"
+  },
+  {
+    "kennzeichen": "EH",
+    "bundesland": "Brandenburg",
+    "kreis": "Oder-Spree",
+    "stadt_oder_ursprung": "Eisenhüttenstadt",
+    "abkuerzung_ursprung": "Eisenhüttenstadt",
+    "alternativen": "Oder-Spree | Eisenhüttenstadt"
+  },
+  {
+    "kennzeichen": "EW",
+    "bundesland": "Brandenburg",
+    "kreis": "Barnim",
+    "stadt_oder_ursprung": "Eberswalde",
+    "abkuerzung_ursprung": "Eberswalde",
+    "alternativen": "Barnim | Eberswalde"
+  },
+  {
+    "kennzeichen": "FF",
+    "bundesland": "Brandenburg",
+    "kreis": "Frankfurt",
+    "stadt_oder_ursprung": "FrankFurt",
+    "abkuerzung_ursprung": "FrankFurt",
+    "alternativen": "Frankfurt | FrankFurt"
+  },
+  {
+    "kennzeichen": "FI",
+    "bundesland": "Brandenburg",
+    "kreis": "Elbe-Elster",
+    "stadt_oder_ursprung": "Finsterwalde",
+    "abkuerzung_ursprung": "Finsterwalde",
+    "alternativen": "Elbe-Elster | Finsterwalde"
+  },
+  {
+    "kennzeichen": "FOR",
+    "bundesland": "Brandenburg",
+    "kreis": "Spree-Neiße",
+    "stadt_oder_ursprung": "Forst",
+    "abkuerzung_ursprung": "Forst",
+    "alternativen": "Spree-Neiße | Forst"
+  },
+  {
+    "kennzeichen": "FRW",
+    "bundesland": "Brandenburg",
+    "kreis": "Märkisch-Oderland",
+    "stadt_oder_ursprung": "Bad Freienwalde",
+    "abkuerzung_ursprung": "Bad Freienwalde",
+    "alternativen": "Märkisch-Oderland | Bad Freienwalde"
+  },
+  {
+    "kennzeichen": "FW",
+    "bundesland": "Brandenburg",
+    "kreis": "Oder-Spree",
+    "stadt_oder_ursprung": "Fürstenwalde/Spree",
+    "abkuerzung_ursprung": "Fürstenwalde/Spree",
+    "alternativen": "Oder-Spree | Fürstenwalde/Spree"
+  },
+  {
+    "kennzeichen": "GUB",
+    "bundesland": "Brandenburg",
+    "kreis": "Spree-Neiße",
+    "stadt_oder_ursprung": "Guben",
+    "abkuerzung_ursprung": "Guben",
+    "alternativen": "Spree-Neiße | Guben"
+  },
+  {
+    "kennzeichen": "HVL",
+    "bundesland": "Brandenburg",
+    "kreis": "Havelland",
+    "stadt_oder_ursprung": "Havelland",
+    "abkuerzung_ursprung": "Havelland",
+    "alternativen": "Havelland"
+  },
+  {
+    "kennzeichen": "JB",
+    "bundesland": "Brandenburg",
+    "kreis": "Teltow-Fläming",
+    "stadt_oder_ursprung": "Jüterbog",
+    "abkuerzung_ursprung": "Jüterbog",
+    "alternativen": "Teltow-Fläming | Jüterbog"
+  },
+  {
+    "kennzeichen": "KW",
+    "bundesland": "Brandenburg",
+    "kreis": "Dahme-Spreewald",
+    "stadt_oder_ursprung": "Königs Wusterhausen",
+    "abkuerzung_ursprung": "Königs Wusterhausen",
+    "alternativen": "Dahme-Spreewald | Königs Wusterhausen"
+  },
+  {
+    "kennzeichen": "KY",
+    "bundesland": "Brandenburg",
+    "kreis": "Ostprignitz-Ruppin",
+    "stadt_oder_ursprung": "Kyritz",
+    "abkuerzung_ursprung": "Kyritz",
+    "alternativen": "Ostprignitz-Ruppin | Kyritz"
+  },
+  {
+    "kennzeichen": "LC",
+    "bundesland": "Brandenburg",
+    "kreis": "Dahme-Spreewald",
+    "stadt_oder_ursprung": "Luckau",
+    "abkuerzung_ursprung": "Luckau",
+    "alternativen": "Dahme-Spreewald | Luckau"
+  },
+  {
+    "kennzeichen": "LDS",
+    "bundesland": "Brandenburg",
+    "kreis": "Brandenburg",
+    "stadt_oder_ursprung": "Dahme-Spreewald",
+    "abkuerzung_ursprung": "Dahme-Spreewald",
+    "alternativen": "Brandenburg | Dahme-Spreewald"
+  },
+  {
+    "kennzeichen": "LIB",
+    "bundesland": "Brandenburg",
+    "kreis": "Elbe-Elster",
+    "stadt_oder_ursprung": "Bad Liebenwerda",
+    "abkuerzung_ursprung": "Bad Liebenwerda",
+    "alternativen": "Elbe-Elster | Bad Liebenwerda"
+  },
+  {
+    "kennzeichen": "LN",
+    "bundesland": "Brandenburg",
+    "kreis": "Dahme-Spreewald",
+    "stadt_oder_ursprung": "Lübben",
+    "abkuerzung_ursprung": "Lübben",
+    "alternativen": "Dahme-Spreewald | Lübben"
+  },
+  {
+    "kennzeichen": "LOS",
+    "bundesland": "Brandenburg",
+    "kreis": "Brandenburg",
+    "stadt_oder_ursprung": "Oder-Spree",
+    "abkuerzung_ursprung": "Oder-Spree",
+    "alternativen": "Brandenburg | Oder-Spree"
+  },
+  {
+    "kennzeichen": "LUK",
+    "bundesland": "Brandenburg",
+    "kreis": "Teltow-Fläming",
+    "stadt_oder_ursprung": "Luckenwalde",
+    "abkuerzung_ursprung": "Luckenwalde",
+    "alternativen": "Teltow-Fläming | Luckenwalde"
+  },
+  {
+    "kennzeichen": "MOL",
+    "bundesland": "Brandenburg",
+    "kreis": "Märkisch-OderLand",
+    "stadt_oder_ursprung": "Märkisch-Oderland",
+    "abkuerzung_ursprung": "Märkisch-Oderland",
+    "alternativen": "Märkisch-OderLand | Märkisch-Oderland"
+  },
+  {
+    "kennzeichen": "NAU",
+    "bundesland": "Brandenburg",
+    "kreis": "Havelland",
+    "stadt_oder_ursprung": "Nauen",
+    "abkuerzung_ursprung": "Nauen",
+    "alternativen": "Havelland | Nauen"
+  },
+  {
+    "kennzeichen": "NP",
+    "bundesland": "Brandenburg",
+    "kreis": "Ostprignitz-Ruppin",
+    "stadt_oder_ursprung": "Neuruppin",
+    "abkuerzung_ursprung": "Neuruppin",
+    "alternativen": "Ostprignitz-Ruppin | Neuruppin"
+  },
+  {
+    "kennzeichen": "OHV",
+    "bundesland": "Brandenburg",
+    "kreis": "Oberhavel",
+    "stadt_oder_ursprung": "Havel",
+    "abkuerzung_ursprung": "Havel",
+    "alternativen": "Oberhavel | Havel"
+  },
+  {
+    "kennzeichen": "OPR",
+    "bundesland": "Brandenburg",
+    "kreis": "Ostprignitz-Ruppin",
+    "stadt_oder_ursprung": "Prignitz",
+    "abkuerzung_ursprung": "Prignitz",
+    "alternativen": "Ostprignitz-Ruppin | Prignitz"
+  },
+  {
+    "kennzeichen": "OSL",
+    "bundesland": "Brandenburg",
+    "kreis": "Oberspreewald-Lausitz",
+    "stadt_oder_ursprung": "Spreewald",
+    "abkuerzung_ursprung": "Spreewald",
+    "alternativen": "Oberspreewald-Lausitz | Spreewald"
+  },
+  {
+    "kennzeichen": "P",
+    "bundesland": "Brandenburg",
+    "kreis": "Brandenburg",
+    "stadt_oder_ursprung": "Potsdam",
+    "abkuerzung_ursprung": "Potsdam",
+    "alternativen": "Brandenburg | Potsdam"
+  },
+  {
+    "kennzeichen": "PM",
+    "bundesland": "Brandenburg",
+    "kreis": "Potsdam, Mittelmark",
+    "stadt_oder_ursprung": "Potsdam-Mittelmark",
+    "abkuerzung_ursprung": "Potsdam-Mittelmark",
+    "alternativen": "Potsdam, Mittelmark | Potsdam-Mittelmark"
+  },
+  {
+    "kennzeichen": "PR",
+    "bundesland": "Brandenburg",
+    "kreis": "Prignitz",
+    "stadt_oder_ursprung": "Prignitz",
+    "abkuerzung_ursprung": "Prignitz",
+    "alternativen": "Prignitz"
+  },
+  {
+    "kennzeichen": "PZ",
+    "bundesland": "Brandenburg",
+    "kreis": "Uckermark",
+    "stadt_oder_ursprung": "Prenzlau",
+    "abkuerzung_ursprung": "Prenzlau",
+    "alternativen": "Uckermark | Prenzlau"
+  },
+  {
+    "kennzeichen": "RN",
+    "bundesland": "Brandenburg",
+    "kreis": "Havelland",
+    "stadt_oder_ursprung": "Rathenow",
+    "abkuerzung_ursprung": "Rathenow",
+    "alternativen": "Havelland | Rathenow"
+  },
+  {
+    "kennzeichen": "SDT",
+    "bundesland": "Brandenburg",
+    "kreis": "Uckermark",
+    "stadt_oder_ursprung": "Schwedt/Oder",
+    "abkuerzung_ursprung": "Schwedt/Oder",
+    "alternativen": "Uckermark | Schwedt/Oder"
+  },
+  {
+    "kennzeichen": "SEE",
+    "bundesland": "Brandenburg",
+    "kreis": "Märkisch-Oderland",
+    "stadt_oder_ursprung": "Seelow",
+    "abkuerzung_ursprung": "Seelow",
+    "alternativen": "Märkisch-Oderland | Seelow"
+  },
+  {
+    "kennzeichen": "SFB",
+    "bundesland": "Brandenburg",
+    "kreis": "Oberspreewald-Lausitz",
+    "stadt_oder_ursprung": "Senftenberg",
+    "abkuerzung_ursprung": "Senftenberg",
+    "alternativen": "Oberspreewald-Lausitz | Senftenberg"
+  },
+  {
+    "kennzeichen": "SPB",
+    "bundesland": "Brandenburg",
+    "kreis": "Spree-Neiße",
+    "stadt_oder_ursprung": "Spremberg",
+    "abkuerzung_ursprung": "Spremberg",
+    "alternativen": "Spree-Neiße | Spremberg"
+  },
+  {
+    "kennzeichen": "SPN",
+    "bundesland": "Brandenburg",
+    "kreis": "Spree-Neiße",
+    "stadt_oder_ursprung": "Spree",
+    "abkuerzung_ursprung": "Spree",
+    "alternativen": "Spree-Neiße | Spree"
+  },
+  {
+    "kennzeichen": "SRB",
+    "bundesland": "Brandenburg",
+    "kreis": "Märkisch-Oderland",
+    "stadt_oder_ursprung": "Strausberg",
+    "abkuerzung_ursprung": "Strausberg",
+    "alternativen": "Märkisch-Oderland | Strausberg"
+  },
+  {
+    "kennzeichen": "TF",
+    "bundesland": "Brandenburg",
+    "kreis": "Teltow, Fläming",
+    "stadt_oder_ursprung": "Teltow-Fläming",
+    "abkuerzung_ursprung": "Teltow-Fläming",
+    "alternativen": "Teltow, Fläming | Teltow-Fläming"
+  },
+  {
+    "kennzeichen": "TP",
+    "bundesland": "Brandenburg",
+    "kreis": "Uckermark",
+    "stadt_oder_ursprung": "Templin",
+    "abkuerzung_ursprung": "Templin",
+    "alternativen": "Uckermark | Templin"
+  },
+  {
+    "kennzeichen": "UM",
+    "bundesland": "Brandenburg",
+    "kreis": "Uckermark",
+    "stadt_oder_ursprung": "Uckermark",
+    "abkuerzung_ursprung": "Uckermark",
+    "alternativen": "Uckermark"
+  },
+  {
+    "kennzeichen": "WK",
+    "bundesland": "Brandenburg",
+    "kreis": "Ostprignitz-Ruppin",
+    "stadt_oder_ursprung": "Wittstock/Dosse",
+    "abkuerzung_ursprung": "Wittstock/Dosse",
+    "alternativen": "Ostprignitz-Ruppin | Wittstock/Dosse"
+  },
+  {
+    "kennzeichen": "ZS",
+    "bundesland": "Brandenburg",
+    "kreis": "Teltow-Fläming",
+    "stadt_oder_ursprung": "Zossen",
+    "abkuerzung_ursprung": "Zossen",
+    "alternativen": "Teltow-Fläming | Zossen"
+  },
+  {
+    "kennzeichen": "HB",
+    "bundesland": "Bremen",
+    "kreis": "Bremen, Senat und Bürgerschaft",
+    "stadt_oder_ursprung": "Hansestadt",
+    "abkuerzung_ursprung": "Hansestadt",
+    "alternativen": "Bremen, Senat und Bürgerschaft | Hansestadt"
+  },
+  {
+    "kennzeichen": "HH",
+    "bundesland": "Hamburg",
+    "kreis": "Freie und Hansestadt Hamburg, Senat und Bürgerschaft",
+    "stadt_oder_ursprung": "Hansestadt",
+    "abkuerzung_ursprung": "Hansestadt",
+    "alternativen": "Freie und Hansestadt Hamburg, Senat und Bürgerschaft | Hansestadt"
+  },
+  {
+    "kennzeichen": "BID",
+    "bundesland": "Hessen",
+    "kreis": "Marburg-Biedenkopf",
+    "stadt_oder_ursprung": "Biedenkopf",
+    "abkuerzung_ursprung": "Biedenkopf",
+    "alternativen": "Marburg-Biedenkopf | Biedenkopf"
+  },
+  {
+    "kennzeichen": "BÜD",
+    "bundesland": "Hessen",
+    "kreis": "Wetteraukreis",
+    "stadt_oder_ursprung": "Büdingen",
+    "abkuerzung_ursprung": "Büdingen",
+    "alternativen": "Wetteraukreis | Büdingen"
+  },
+  {
+    "kennzeichen": "DA",
+    "bundesland": "Hessen",
+    "kreis": "Darmstadt-Dieburg und Stadt Darmstadt",
+    "stadt_oder_ursprung": "DArmstadt",
+    "abkuerzung_ursprung": "DArmstadt",
+    "alternativen": "Darmstadt-Dieburg und Stadt Darmstadt | DArmstadt"
+  },
+  {
+    "kennzeichen": "DI",
+    "bundesland": "Hessen",
+    "kreis": "Darmstadt-Dieburg",
+    "stadt_oder_ursprung": "Dieburg",
+    "abkuerzung_ursprung": "Dieburg",
+    "alternativen": "Darmstadt-Dieburg | Dieburg"
+  },
+  {
+    "kennzeichen": "DIL",
+    "bundesland": "Hessen",
+    "kreis": "Lahn-Dill-Kreis",
+    "stadt_oder_ursprung": "Dillenburg",
+    "abkuerzung_ursprung": "Dillenburg",
+    "alternativen": "Lahn-Dill-Kreis | Dillenburg"
+  },
+  {
+    "kennzeichen": "ERB",
+    "bundesland": "Hessen",
+    "kreis": "Odenwaldkreis",
+    "stadt_oder_ursprung": "Erbach",
+    "abkuerzung_ursprung": "Erbach",
+    "alternativen": "Odenwaldkreis | Erbach"
+  },
+  {
+    "kennzeichen": "ESW",
+    "bundesland": "Hessen",
+    "kreis": "Werra-Meißner-Kreis",
+    "stadt_oder_ursprung": "Eschwege",
+    "abkuerzung_ursprung": "Eschwege",
+    "alternativen": "Werra-Meißner-Kreis | Eschwege"
+  },
+  {
+    "kennzeichen": "F",
+    "bundesland": "Hessen",
+    "kreis": "Frankfurt",
+    "stadt_oder_ursprung": "Frankfurt am Main",
+    "abkuerzung_ursprung": "Frankfurt am Main",
+    "alternativen": "Frankfurt | Frankfurt am Main"
+  },
+  {
+    "kennzeichen": "FB",
+    "bundesland": "Hessen",
+    "kreis": "Wetteraukreis",
+    "stadt_oder_ursprung": "Friedberg",
+    "abkuerzung_ursprung": "Friedberg",
+    "alternativen": "Wetteraukreis | Friedberg"
+  },
+  {
+    "kennzeichen": "FD",
+    "bundesland": "Hessen",
+    "kreis": "Fulda",
+    "stadt_oder_ursprung": "Fulda",
+    "abkuerzung_ursprung": "Fulda",
+    "alternativen": "Fulda"
+  },
+  {
+    "kennzeichen": "FKB",
+    "bundesland": "Hessen",
+    "kreis": "Waldeck-Frankenberg",
+    "stadt_oder_ursprung": "Frankenberg",
+    "abkuerzung_ursprung": "Frankenberg",
+    "alternativen": "Waldeck-Frankenberg | Frankenberg"
+  },
+  {
+    "kennzeichen": "FZ",
+    "bundesland": "Hessen",
+    "kreis": "Schwalm-Eder-Kreis",
+    "stadt_oder_ursprung": "Fritzlar",
+    "abkuerzung_ursprung": "Fritzlar",
+    "alternativen": "Schwalm-Eder-Kreis | Fritzlar"
+  },
+  {
+    "kennzeichen": "GG",
+    "bundesland": "Hessen",
+    "kreis": "Hessen",
+    "stadt_oder_ursprung": "Groß-Gerau",
+    "abkuerzung_ursprung": "Groß-Gerau",
+    "alternativen": "Hessen | Groß-Gerau"
+  },
+  {
+    "kennzeichen": "GI",
+    "bundesland": "Hessen",
+    "kreis": "Gießen",
+    "stadt_oder_ursprung": "Gießen",
+    "abkuerzung_ursprung": "Gießen",
+    "alternativen": "Gießen"
+  },
+  {
+    "kennzeichen": "GN",
+    "bundesland": "Hessen",
+    "kreis": "Main-Kinzig-Kreis",
+    "stadt_oder_ursprung": "Gelnhausen",
+    "abkuerzung_ursprung": "Gelnhausen",
+    "alternativen": "Main-Kinzig-Kreis | Gelnhausen"
+  },
+  {
+    "kennzeichen": "HEF",
+    "bundesland": "Hessen",
+    "kreis": "Hersfeld-Rotenburg",
+    "stadt_oder_ursprung": "Bad Hersfeld",
+    "abkuerzung_ursprung": "Bad Hersfeld",
+    "alternativen": "Hersfeld-Rotenburg | Bad Hersfeld"
+  },
+  {
+    "kennzeichen": "HEL",
+    "bundesland": "Hessen",
+    "kreis": "Hessen, Landesregierung und Landtag",
+    "stadt_oder_ursprung": "HEssischer Landtag",
+    "abkuerzung_ursprung": "HEssischer Landtag",
+    "alternativen": "Hessen, Landesregierung und Landtag | HEssischer Landtag"
+  },
+  {
+    "kennzeichen": "HG",
+    "bundesland": "Hessen",
+    "kreis": "Hochtaunuskreis",
+    "stadt_oder_ursprung": "Bad Homburg vor der Höhe",
+    "abkuerzung_ursprung": "Bad Homburg vor der Höhe",
+    "alternativen": "Hochtaunuskreis | Bad Homburg vor der Höhe"
+  },
+  {
+    "kennzeichen": "HOG",
+    "bundesland": "Hessen",
+    "kreis": "Kassel",
+    "stadt_oder_ursprung": "Hofgeismar",
+    "abkuerzung_ursprung": "Hofgeismar",
+    "alternativen": "Kassel | Hofgeismar"
+  },
+  {
+    "kennzeichen": "HP",
+    "bundesland": "Hessen",
+    "kreis": "Bergstraße",
+    "stadt_oder_ursprung": "Heppenheim",
+    "abkuerzung_ursprung": "Heppenheim",
+    "alternativen": "Bergstraße | Heppenheim"
+  },
+  {
+    "kennzeichen": "HR",
+    "bundesland": "Hessen",
+    "kreis": "Schwalm-Eder-Kreis",
+    "stadt_oder_ursprung": "Homberg",
+    "abkuerzung_ursprung": "Homberg",
+    "alternativen": "Schwalm-Eder-Kreis | Homberg"
+  },
+  {
+    "kennzeichen": "HU",
+    "bundesland": "Hessen",
+    "kreis": "Hanau",
+    "stadt_oder_ursprung": "HanaU",
+    "abkuerzung_ursprung": "HanaU",
+    "alternativen": "Hanau | HanaU"
+  },
+  {
+    "kennzeichen": "KB",
+    "bundesland": "Hessen",
+    "kreis": "Waldeck-Frankenberg",
+    "stadt_oder_ursprung": "Korbach",
+    "abkuerzung_ursprung": "Korbach",
+    "alternativen": "Waldeck-Frankenberg | Korbach"
+  },
+  {
+    "kennzeichen": "KS",
+    "bundesland": "Hessen",
+    "kreis": "KasSel",
+    "stadt_oder_ursprung": "Kassel",
+    "abkuerzung_ursprung": "Kassel",
+    "alternativen": "KasSel | Kassel"
+  },
+  {
+    "kennzeichen": "LDK",
+    "bundesland": "Hessen",
+    "kreis": "Hessen",
+    "stadt_oder_ursprung": "Lahn-Dill-Kreis",
+    "abkuerzung_ursprung": "Lahn-Dill-Kreis",
+    "alternativen": "Hessen | Lahn-Dill-Kreis"
+  },
+  {
+    "kennzeichen": "LM",
+    "bundesland": "Hessen",
+    "kreis": "Limburg-Weilburg",
+    "stadt_oder_ursprung": "Limburg an der Lahn",
+    "abkuerzung_ursprung": "Limburg an der Lahn",
+    "alternativen": "Limburg-Weilburg | Limburg an der Lahn"
+  },
+  {
+    "kennzeichen": "MEG",
+    "bundesland": "Hessen",
+    "kreis": "Schwalm-Eder-Kreis",
+    "stadt_oder_ursprung": "Melsungen",
+    "abkuerzung_ursprung": "Melsungen",
+    "alternativen": "Schwalm-Eder-Kreis | Melsungen"
+  },
+  {
+    "kennzeichen": "MKK",
+    "bundesland": "Hessen",
+    "kreis": "Hessen",
+    "stadt_oder_ursprung": "Main-Kinzig-Kreis",
+    "abkuerzung_ursprung": "Main-Kinzig-Kreis",
+    "alternativen": "Hessen | Main-Kinzig-Kreis"
+  },
+  {
+    "kennzeichen": "MR",
+    "bundesland": "Hessen",
+    "kreis": "Marburg-Biedenkopf",
+    "stadt_oder_ursprung": "Marburg",
+    "abkuerzung_ursprung": "Marburg",
+    "alternativen": "Marburg-Biedenkopf | Marburg"
+  },
+  {
+    "kennzeichen": "MTK",
+    "bundesland": "Hessen",
+    "kreis": "Hessen",
+    "stadt_oder_ursprung": "Main-Taunus-Kreis",
+    "abkuerzung_ursprung": "Main-Taunus-Kreis",
+    "alternativen": "Hessen | Main-Taunus-Kreis"
+  },
+  {
+    "kennzeichen": "OF",
+    "bundesland": "Hessen",
+    "kreis": "Offenbach und Stadt Offenbach am Main",
+    "stadt_oder_ursprung": "OFfenbach",
+    "abkuerzung_ursprung": "OFfenbach",
+    "alternativen": "Offenbach und Stadt Offenbach am Main | OFfenbach"
+  },
+  {
+    "kennzeichen": "ROF",
+    "bundesland": "Hessen",
+    "kreis": "Hersfeld-Rotenburg",
+    "stadt_oder_ursprung": "Rotenburg an der Fulda",
+    "abkuerzung_ursprung": "Rotenburg an der Fulda",
+    "alternativen": "Hersfeld-Rotenburg | Rotenburg an der Fulda"
+  },
+  {
+    "kennzeichen": "RÜD",
+    "bundesland": "Hessen",
+    "kreis": "Rheingau-Taunus-Kreis",
+    "stadt_oder_ursprung": "Rüdesheim am Rhein",
+    "abkuerzung_ursprung": "Rüdesheim am Rhein",
+    "alternativen": "Rheingau-Taunus-Kreis | Rüdesheim am Rhein"
+  },
+  {
+    "kennzeichen": "SLÜ",
+    "bundesland": "Hessen",
+    "kreis": "Main-Kinzig-Kreis",
+    "stadt_oder_ursprung": "Schlüchtern",
+    "abkuerzung_ursprung": "Schlüchtern",
+    "alternativen": "Main-Kinzig-Kreis | Schlüchtern"
+  },
+  {
+    "kennzeichen": "SWA",
+    "bundesland": "Hessen",
+    "kreis": "Rheingau-Taunus-Kreis",
+    "stadt_oder_ursprung": "Bad Schwalbach",
+    "abkuerzung_ursprung": "Bad Schwalbach",
+    "alternativen": "Rheingau-Taunus-Kreis | Bad Schwalbach"
+  },
+  {
+    "kennzeichen": "USI",
+    "bundesland": "Hessen",
+    "kreis": "Hochtaunuskreis",
+    "stadt_oder_ursprung": "Usingen",
+    "abkuerzung_ursprung": "Usingen",
+    "alternativen": "Hochtaunuskreis | Usingen"
+  },
+  {
+    "kennzeichen": "VB",
+    "bundesland": "Hessen",
+    "kreis": "Vogelsbergkreis",
+    "stadt_oder_ursprung": "Vogelsberg",
+    "abkuerzung_ursprung": "Vogelsberg",
+    "alternativen": "Vogelsbergkreis | Vogelsberg"
+  },
+  {
+    "kennzeichen": "WA",
+    "bundesland": "Hessen",
+    "kreis": "Waldeck-Frankenberg",
+    "stadt_oder_ursprung": "Waldeck",
+    "abkuerzung_ursprung": "Waldeck",
+    "alternativen": "Waldeck-Frankenberg | Waldeck"
+  },
+  {
+    "kennzeichen": "WEL",
+    "bundesland": "Hessen",
+    "kreis": "Limburg-Weilburg",
+    "stadt_oder_ursprung": "Weilburg",
+    "abkuerzung_ursprung": "Weilburg",
+    "alternativen": "Limburg-Weilburg | Weilburg"
+  },
+  {
+    "kennzeichen": "WI",
+    "bundesland": "Hessen",
+    "kreis": "Wiesbaden",
+    "stadt_oder_ursprung": "WIesbaden",
+    "abkuerzung_ursprung": "WIesbaden",
+    "alternativen": "Wiesbaden | WIesbaden"
+  },
+  {
+    "kennzeichen": "WIZ",
+    "bundesland": "Hessen",
+    "kreis": "Werra-Meißner-Kreis",
+    "stadt_oder_ursprung": "Witzenhausen",
+    "abkuerzung_ursprung": "Witzenhausen",
+    "alternativen": "Werra-Meißner-Kreis | Witzenhausen"
+  },
+  {
+    "kennzeichen": "WOH",
+    "bundesland": "Hessen",
+    "kreis": "Kassel",
+    "stadt_oder_ursprung": "Wolfhagen",
+    "abkuerzung_ursprung": "Wolfhagen",
+    "alternativen": "Kassel | Wolfhagen"
+  },
+  {
+    "kennzeichen": "WZ",
+    "bundesland": "Hessen",
+    "kreis": "Lahn-Dill-Kreis",
+    "stadt_oder_ursprung": "Wetzlar",
+    "abkuerzung_ursprung": "Wetzlar",
+    "alternativen": "Lahn-Dill-Kreis | Wetzlar"
+  },
+  {
+    "kennzeichen": "ZIG",
+    "bundesland": "Hessen",
+    "kreis": "Schwalm-Eder-Kreis",
+    "stadt_oder_ursprung": "Ziegenhain",
+    "abkuerzung_ursprung": "Ziegenhain",
+    "alternativen": "Schwalm-Eder-Kreis | Ziegenhain"
+  },
+  {
+    "kennzeichen": "ANK",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "stadt_oder_ursprung": "Anklam",
+    "abkuerzung_ursprung": "Anklam",
+    "alternativen": "Vorpommern-Greifswald ohne die Stadt Greifswald | Anklam"
+  },
+  {
+    "kennzeichen": "AT",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "stadt_oder_ursprung": "Altentreptow",
+    "abkuerzung_ursprung": "Altentreptow",
+    "alternativen": "Vorpommern-Greifswald ohne die Stadt Greifswald | Altentreptow"
+  },
+  {
+    "kennzeichen": "BÜZ",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Rostock",
+    "stadt_oder_ursprung": "Bützow",
+    "abkuerzung_ursprung": "Bützow",
+    "alternativen": "Rostock | Bützow"
+  },
+  {
+    "kennzeichen": "DBR",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Rostock",
+    "stadt_oder_ursprung": "Bad Doberan",
+    "abkuerzung_ursprung": "Bad Doberan",
+    "alternativen": "Rostock | Bad Doberan"
+  },
+  {
+    "kennzeichen": "DM",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "stadt_oder_ursprung": "Demmin",
+    "abkuerzung_ursprung": "Demmin",
+    "alternativen": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg | Demmin"
+  },
+  {
+    "kennzeichen": "GDB",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Nordwestmecklenburg ohne die Stadt Wismar",
+    "stadt_oder_ursprung": "Gadebusch",
+    "abkuerzung_ursprung": "Gadebusch",
+    "alternativen": "Nordwestmecklenburg ohne die Stadt Wismar | Gadebusch"
+  },
+  {
+    "kennzeichen": "GMN",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Rügen ohne die Stadt Stralsund",
+    "stadt_oder_ursprung": "Grimmen",
+    "abkuerzung_ursprung": "Grimmen",
+    "alternativen": "Vorpommern-Rügen ohne die Stadt Stralsund | Grimmen"
+  },
+  {
+    "kennzeichen": "GÜ",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Rostock",
+    "stadt_oder_ursprung": "Güstrow",
+    "abkuerzung_ursprung": "Güstrow",
+    "alternativen": "Rostock | Güstrow"
+  },
+  {
+    "kennzeichen": "GVM",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Nordwestmecklenburg ohne die Stadt Wismar",
+    "stadt_oder_ursprung": "Grevesmühlen",
+    "abkuerzung_ursprung": "Grevesmühlen",
+    "alternativen": "Nordwestmecklenburg ohne die Stadt Wismar | Grevesmühlen"
+  },
+  {
+    "kennzeichen": "GW",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "stadt_oder_ursprung": "GreifsWald",
+    "abkuerzung_ursprung": "GreifsWald",
+    "alternativen": "Vorpommern-Greifswald ohne die Stadt Greifswald | GreifsWald"
+  },
+  {
+    "kennzeichen": "HGN",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Ludwigslust-Parchim",
+    "stadt_oder_ursprung": "Hagenow",
+    "abkuerzung_ursprung": "Hagenow",
+    "alternativen": "Ludwigslust-Parchim | Hagenow"
+  },
+  {
+    "kennzeichen": "HGW",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Greifswald",
+    "stadt_oder_ursprung": "Hansestadt",
+    "abkuerzung_ursprung": "Hansestadt",
+    "alternativen": "Greifswald | Hansestadt"
+  },
+  {
+    "kennzeichen": "HRO",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Rostock",
+    "stadt_oder_ursprung": "Hansestadt",
+    "abkuerzung_ursprung": "Hansestadt",
+    "alternativen": "Rostock | Hansestadt"
+  },
+  {
+    "kennzeichen": "HST",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Stralsund",
+    "stadt_oder_ursprung": "Hansestadt",
+    "abkuerzung_ursprung": "Hansestadt",
+    "alternativen": "Stralsund | Hansestadt"
+  },
+  {
+    "kennzeichen": "HWI",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Wismar",
+    "stadt_oder_ursprung": "Hansestadt",
+    "abkuerzung_ursprung": "Hansestadt",
+    "alternativen": "Wismar | Hansestadt"
+  },
+  {
+    "kennzeichen": "LBZ",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Ludwigslust-Parchim",
+    "stadt_oder_ursprung": "Lübz",
+    "abkuerzung_ursprung": "Lübz",
+    "alternativen": "Ludwigslust-Parchim | Lübz"
+  },
+  {
+    "kennzeichen": "LRO",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Rostock",
+    "stadt_oder_ursprung": "Landkreis",
+    "abkuerzung_ursprung": "Landkreis",
+    "alternativen": "Rostock | Landkreis"
+  },
+  {
+    "kennzeichen": "LUP",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Ludwigslust-Parchim",
+    "stadt_oder_ursprung": "Ludwigslust",
+    "abkuerzung_ursprung": "Ludwigslust",
+    "alternativen": "Ludwigslust-Parchim | Ludwigslust"
+  },
+  {
+    "kennzeichen": "LWL",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Ludwigslust-Parchim",
+    "stadt_oder_ursprung": "Ludwigslust",
+    "abkuerzung_ursprung": "Ludwigslust",
+    "alternativen": "Ludwigslust-Parchim | Ludwigslust"
+  },
+  {
+    "kennzeichen": "MC",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "stadt_oder_ursprung": "Malchin",
+    "abkuerzung_ursprung": "Malchin",
+    "alternativen": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg | Malchin"
+  },
+  {
+    "kennzeichen": "MSE",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "stadt_oder_ursprung": "Mecklenburgische Seenplatte",
+    "abkuerzung_ursprung": "Mecklenburgische Seenplatte",
+    "alternativen": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg | Mecklenburgische Seenplatte"
+  },
+  {
+    "kennzeichen": "MST",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "stadt_oder_ursprung": "Mecklenburg-Strelitz",
+    "abkuerzung_ursprung": "Mecklenburg-Strelitz",
+    "alternativen": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg | Mecklenburg-Strelitz"
+  },
+  {
+    "kennzeichen": "MÜR",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "stadt_oder_ursprung": "Müritz",
+    "abkuerzung_ursprung": "Müritz",
+    "alternativen": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg | Müritz"
+  },
+  {
+    "kennzeichen": "MVL",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburg-Vorpommern, Landesregierung, Landtag und Polizei",
+    "stadt_oder_ursprung": "Mecklenburg-Vorpommerscher Landtag",
+    "abkuerzung_ursprung": "Mecklenburg-Vorpommerscher Landtag",
+    "alternativen": "Mecklenburg-Vorpommern, Landesregierung, Landtag und Polizei | Mecklenburg-Vorpommerscher Landtag"
+  },
+  {
+    "kennzeichen": "NB",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Neubrandenburg",
+    "stadt_oder_ursprung": "NeuBrandenburg",
+    "abkuerzung_ursprung": "NeuBrandenburg",
+    "alternativen": "Neubrandenburg | NeuBrandenburg"
+  },
+  {
+    "kennzeichen": "NVP",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Rügen ohne die Stadt Stralsund",
+    "stadt_oder_ursprung": "Vorpommern",
+    "abkuerzung_ursprung": "Vorpommern",
+    "alternativen": "Vorpommern-Rügen ohne die Stadt Stralsund | Vorpommern"
+  },
+  {
+    "kennzeichen": "NWM",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Nordwestmecklenburg ohne die Stadt Wismar",
+    "stadt_oder_ursprung": "Mecklenburg",
+    "abkuerzung_ursprung": "Mecklenburg",
+    "alternativen": "Nordwestmecklenburg ohne die Stadt Wismar | Mecklenburg"
+  },
+  {
+    "kennzeichen": "NZ",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "stadt_oder_ursprung": "Neustrelitz",
+    "abkuerzung_ursprung": "Neustrelitz",
+    "alternativen": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg | Neustrelitz"
+  },
+  {
+    "kennzeichen": "PCH",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Ludwigslust-Parchim",
+    "stadt_oder_ursprung": "Parchim",
+    "abkuerzung_ursprung": "Parchim",
+    "alternativen": "Ludwigslust-Parchim | Parchim"
+  },
+  {
+    "kennzeichen": "PW",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "stadt_oder_ursprung": "Pasewalk",
+    "abkuerzung_ursprung": "Pasewalk",
+    "alternativen": "Vorpommern-Greifswald ohne die Stadt Greifswald | Pasewalk"
+  },
+  {
+    "kennzeichen": "RDG",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Rügen ohne die Stadt Stralsund",
+    "stadt_oder_ursprung": "Ribnitz-Damgarten",
+    "abkuerzung_ursprung": "Ribnitz-Damgarten",
+    "alternativen": "Vorpommern-Rügen ohne die Stadt Stralsund | Ribnitz-Damgarten"
+  },
+  {
+    "kennzeichen": "RM",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "stadt_oder_ursprung": "Röbel/Müritz",
+    "abkuerzung_ursprung": "Röbel/Müritz",
+    "alternativen": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg | Röbel/Müritz"
+  },
+  {
+    "kennzeichen": "ROS",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Rostock",
+    "stadt_oder_ursprung": "Rostock",
+    "abkuerzung_ursprung": "Rostock",
+    "alternativen": "Rostock"
+  },
+  {
+    "kennzeichen": "RÜG",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Rügen ohne die Stadt Stralsund",
+    "stadt_oder_ursprung": "Rügen",
+    "abkuerzung_ursprung": "Rügen",
+    "alternativen": "Vorpommern-Rügen ohne die Stadt Stralsund | Rügen"
+  },
+  {
+    "kennzeichen": "SBG",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "stadt_oder_ursprung": "Strasburg",
+    "abkuerzung_ursprung": "Strasburg",
+    "alternativen": "Vorpommern-Greifswald ohne die Stadt Greifswald | Strasburg"
+  },
+  {
+    "kennzeichen": "SN",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Schwerin",
+    "stadt_oder_ursprung": "SchweriN",
+    "abkuerzung_ursprung": "SchweriN",
+    "alternativen": "Schwerin | SchweriN"
+  },
+  {
+    "kennzeichen": "STB",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Ludwigslust-Parchim",
+    "stadt_oder_ursprung": "Sternberg",
+    "abkuerzung_ursprung": "Sternberg",
+    "alternativen": "Ludwigslust-Parchim | Sternberg"
+  },
+  {
+    "kennzeichen": "TET",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Rostock",
+    "stadt_oder_ursprung": "Teterow",
+    "abkuerzung_ursprung": "Teterow",
+    "alternativen": "Rostock | Teterow"
+  },
+  {
+    "kennzeichen": "UEM",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "stadt_oder_ursprung": "Ueckermünde",
+    "abkuerzung_ursprung": "Ueckermünde",
+    "alternativen": "Vorpommern-Greifswald ohne die Stadt Greifswald | Ueckermünde"
+  },
+  {
+    "kennzeichen": "VG",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburg-Vorpommern",
+    "stadt_oder_ursprung": "Vorpommern-Greifswald",
+    "abkuerzung_ursprung": "Vorpommern-Greifswald",
+    "alternativen": "Mecklenburg-Vorpommern | Vorpommern-Greifswald"
+  },
+  {
+    "kennzeichen": "VR",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburg-Vorpommern",
+    "stadt_oder_ursprung": "Vorpommern-Rügen",
+    "abkuerzung_ursprung": "Vorpommern-Rügen",
+    "alternativen": "Mecklenburg-Vorpommern | Vorpommern-Rügen"
+  },
+  {
+    "kennzeichen": "WIS",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Nordwestmecklenburg ohne die Stadt Wismar",
+    "stadt_oder_ursprung": "Wismar",
+    "abkuerzung_ursprung": "Wismar",
+    "alternativen": "Nordwestmecklenburg ohne die Stadt Wismar | Wismar"
+  },
+  {
+    "kennzeichen": "WLG",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "stadt_oder_ursprung": "Wolgast",
+    "abkuerzung_ursprung": "Wolgast",
+    "alternativen": "Vorpommern-Greifswald ohne die Stadt Greifswald | Wolgast"
+  },
+  {
+    "kennzeichen": "WRN",
+    "bundesland": "Mecklenburg-Vorpommern",
+    "kreis": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "stadt_oder_ursprung": "Waren",
+    "abkuerzung_ursprung": "Waren",
+    "alternativen": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg | Waren"
+  },
+  {
+    "kennzeichen": "ALF",
+    "bundesland": "Niedersachsen",
+    "kreis": "Hildesheim",
+    "stadt_oder_ursprung": "Alfeld",
+    "abkuerzung_ursprung": "Alfeld",
+    "alternativen": "Hildesheim | Alfeld"
+  },
+  {
+    "kennzeichen": "AUR",
+    "bundesland": "Niedersachsen",
+    "kreis": "Aurich",
+    "stadt_oder_ursprung": "Aurich",
+    "abkuerzung_ursprung": "Aurich",
+    "alternativen": "Aurich"
+  },
+  {
+    "kennzeichen": "BRA",
+    "bundesland": "Niedersachsen",
+    "kreis": "Wesermarsch",
+    "stadt_oder_ursprung": "Brake",
+    "abkuerzung_ursprung": "Brake",
+    "alternativen": "Wesermarsch | Brake"
+  },
+  {
+    "kennzeichen": "BRL",
+    "bundesland": "Niedersachsen",
+    "kreis": "Goslar",
+    "stadt_oder_ursprung": "Braunlage",
+    "abkuerzung_ursprung": "Braunlage",
+    "alternativen": "Goslar | Braunlage"
+  },
+  {
+    "kennzeichen": "BRV",
+    "bundesland": "Niedersachsen",
+    "kreis": "Rotenburg",
+    "stadt_oder_ursprung": "Bremervörde",
+    "abkuerzung_ursprung": "Bremervörde",
+    "alternativen": "Rotenburg | Bremervörde"
+  },
+  {
+    "kennzeichen": "BS",
+    "bundesland": "Niedersachsen",
+    "kreis": "BraunSchweig",
+    "stadt_oder_ursprung": "Braunschweig",
+    "abkuerzung_ursprung": "Braunschweig",
+    "alternativen": "BraunSchweig | Braunschweig"
+  },
+  {
+    "kennzeichen": "BSB",
+    "bundesland": "Niedersachsen",
+    "kreis": "Osnabrück",
+    "stadt_oder_ursprung": "Bersenbrück",
+    "abkuerzung_ursprung": "Bersenbrück",
+    "alternativen": "Osnabrück | Bersenbrück"
+  },
+  {
+    "kennzeichen": "CE",
+    "bundesland": "Niedersachsen",
+    "kreis": "Celle",
+    "stadt_oder_ursprung": "Celle",
+    "abkuerzung_ursprung": "Celle",
+    "alternativen": "Celle"
+  },
+  {
+    "kennzeichen": "CLP",
+    "bundesland": "Niedersachsen",
+    "kreis": "Cloppenburg",
+    "stadt_oder_ursprung": "Cloppenburg",
+    "abkuerzung_ursprung": "Cloppenburg",
+    "alternativen": "Cloppenburg"
+  },
+  {
+    "kennzeichen": "CLZ",
+    "bundesland": "Niedersachsen",
+    "kreis": "Goslar",
+    "stadt_oder_ursprung": "Clausthal-Zellerfeld",
+    "abkuerzung_ursprung": "Clausthal-Zellerfeld",
+    "alternativen": "Goslar | Clausthal-Zellerfeld"
+  },
+  {
+    "kennzeichen": "CUX",
+    "bundesland": "Niedersachsen",
+    "kreis": "Cuxhaven",
+    "stadt_oder_ursprung": "Cuxhaven",
+    "abkuerzung_ursprung": "Cuxhaven",
+    "alternativen": "Cuxhaven"
+  },
+  {
+    "kennzeichen": "DAN",
+    "bundesland": "Niedersachsen",
+    "kreis": "Lüchow-Dannenberg",
+    "stadt_oder_ursprung": "Dannenberg",
+    "abkuerzung_ursprung": "Dannenberg",
+    "alternativen": "Lüchow-Dannenberg | Dannenberg"
+  },
+  {
+    "kennzeichen": "DEL",
+    "bundesland": "Niedersachsen",
+    "kreis": "Delmenhorst",
+    "stadt_oder_ursprung": "DELmenhorst",
+    "abkuerzung_ursprung": "DELmenhorst",
+    "alternativen": "Delmenhorst | DELmenhorst"
+  },
+  {
+    "kennzeichen": "DH",
+    "bundesland": "Niedersachsen",
+    "kreis": "Diepholz",
+    "stadt_oder_ursprung": "Diepholz",
+    "abkuerzung_ursprung": "Diepholz",
+    "alternativen": "Diepholz"
+  },
+  {
+    "kennzeichen": "DUD",
+    "bundesland": "Niedersachsen",
+    "kreis": "Göttingen ohne die Stadt Göttingen",
+    "stadt_oder_ursprung": "Duderstadt",
+    "abkuerzung_ursprung": "Duderstadt",
+    "alternativen": "Göttingen ohne die Stadt Göttingen | Duderstadt"
+  },
+  {
+    "kennzeichen": "EIN",
+    "bundesland": "Niedersachsen",
+    "kreis": "Northeim",
+    "stadt_oder_ursprung": "Einbeck",
+    "abkuerzung_ursprung": "Einbeck",
+    "alternativen": "Northeim | Einbeck"
+  },
+  {
+    "kennzeichen": "EL",
+    "bundesland": "Niedersachsen",
+    "kreis": "EmsLand",
+    "stadt_oder_ursprung": "Emsland",
+    "abkuerzung_ursprung": "Emsland",
+    "alternativen": "EmsLand | Emsland"
+  },
+  {
+    "kennzeichen": "EMD",
+    "bundesland": "Niedersachsen",
+    "kreis": "Emden",
+    "stadt_oder_ursprung": "EMDen",
+    "abkuerzung_ursprung": "EMDen",
+    "alternativen": "Emden | EMDen"
+  },
+  {
+    "kennzeichen": "FRI",
+    "bundesland": "Niedersachsen",
+    "kreis": "Friesland",
+    "stadt_oder_ursprung": "Friesland",
+    "abkuerzung_ursprung": "Friesland",
+    "alternativen": "Friesland"
+  },
+  {
+    "kennzeichen": "GAN",
+    "bundesland": "Niedersachsen",
+    "kreis": "Northeim",
+    "stadt_oder_ursprung": "Bad Gandersheim",
+    "abkuerzung_ursprung": "Bad Gandersheim",
+    "alternativen": "Northeim | Bad Gandersheim"
+  },
+  {
+    "kennzeichen": "GF",
+    "bundesland": "Niedersachsen",
+    "kreis": "Gifhorn",
+    "stadt_oder_ursprung": "Gifhorn",
+    "abkuerzung_ursprung": "Gifhorn",
+    "alternativen": "Gifhorn"
+  },
+  {
+    "kennzeichen": "GÖ",
+    "bundesland": "Niedersachsen",
+    "kreis": "Göttingen",
+    "stadt_oder_ursprung": "GÖttingen",
+    "abkuerzung_ursprung": "GÖttingen",
+    "alternativen": "Göttingen | GÖttingen"
+  },
+  {
+    "kennzeichen": "GS",
+    "bundesland": "Niedersachsen",
+    "kreis": "Goslar",
+    "stadt_oder_ursprung": "Goslar",
+    "abkuerzung_ursprung": "Goslar",
+    "alternativen": "Goslar"
+  },
+  {
+    "kennzeichen": "H",
+    "bundesland": "Niedersachsen",
+    "kreis": "Hannover",
+    "stadt_oder_ursprung": "Region Hannover",
+    "abkuerzung_ursprung": "Region Hannover",
+    "alternativen": "Hannover | Region Hannover"
+  },
+  {
+    "kennzeichen": "HE",
+    "bundesland": "Niedersachsen",
+    "kreis": "Helmstedt",
+    "stadt_oder_ursprung": "Helmstedt",
+    "abkuerzung_ursprung": "Helmstedt",
+    "alternativen": "Helmstedt"
+  },
+  {
+    "kennzeichen": "HI",
+    "bundesland": "Niedersachsen",
+    "kreis": "Hildesheim",
+    "stadt_oder_ursprung": "Hildesheim",
+    "abkuerzung_ursprung": "Hildesheim",
+    "alternativen": "Hildesheim"
+  },
+  {
+    "kennzeichen": "HK",
+    "bundesland": "Niedersachsen",
+    "kreis": "Heidekreis",
+    "stadt_oder_ursprung": "Lüneburger Heide",
+    "abkuerzung_ursprung": "Lüneburger Heide",
+    "alternativen": "Heidekreis | Lüneburger Heide"
+  },
+  {
+    "kennzeichen": "HM",
+    "bundesland": "Niedersachsen",
+    "kreis": "Hameln-Pyrmont",
+    "stadt_oder_ursprung": "Hameln",
+    "abkuerzung_ursprung": "Hameln",
+    "alternativen": "Hameln-Pyrmont | Hameln"
+  },
+  {
+    "kennzeichen": "HMÜ",
+    "bundesland": "Niedersachsen",
+    "kreis": "Göttingen ohne die Stadt Göttingen",
+    "stadt_oder_ursprung": "Hann. Münden",
+    "abkuerzung_ursprung": "Hann. Münden",
+    "alternativen": "Göttingen ohne die Stadt Göttingen | Hann. Münden"
+  },
+  {
+    "kennzeichen": "HOL",
+    "bundesland": "Niedersachsen",
+    "kreis": "Holzminden",
+    "stadt_oder_ursprung": "Holzminden",
+    "abkuerzung_ursprung": "Holzminden",
+    "alternativen": "Holzminden"
+  },
+  {
+    "kennzeichen": "LER",
+    "bundesland": "Niedersachsen",
+    "kreis": "Leer",
+    "stadt_oder_ursprung": "Leer",
+    "abkuerzung_ursprung": "Leer",
+    "alternativen": "Leer"
+  },
+  {
+    "kennzeichen": "LG",
+    "bundesland": "Niedersachsen",
+    "kreis": "Lüneburg",
+    "stadt_oder_ursprung": "Lüneburg",
+    "abkuerzung_ursprung": "Lüneburg",
+    "alternativen": "Lüneburg"
+  },
+  {
+    "kennzeichen": "MEL",
+    "bundesland": "Niedersachsen",
+    "kreis": "Osnabrück",
+    "stadt_oder_ursprung": "Melle",
+    "abkuerzung_ursprung": "Melle",
+    "alternativen": "Osnabrück | Melle"
+  },
+  {
+    "kennzeichen": "NI",
+    "bundesland": "Niedersachsen",
+    "kreis": "Nienburg/Weser",
+    "stadt_oder_ursprung": "Nienburg/Weser",
+    "abkuerzung_ursprung": "Nienburg/Weser",
+    "alternativen": "Nienburg/Weser"
+  },
+  {
+    "kennzeichen": "NL",
+    "bundesland": "Niedersachsen",
+    "kreis": "Niedersachsen, Landesregierung und Landtag",
+    "stadt_oder_ursprung": "Niedersächsischer Landtag",
+    "abkuerzung_ursprung": "Niedersächsischer Landtag",
+    "alternativen": "Niedersachsen, Landesregierung und Landtag | Niedersächsischer Landtag"
+  },
+  {
+    "kennzeichen": "NOH",
+    "bundesland": "Niedersachsen",
+    "kreis": "Grafschaft Bentheim",
+    "stadt_oder_ursprung": "Nordhorn",
+    "abkuerzung_ursprung": "Nordhorn",
+    "alternativen": "Grafschaft Bentheim | Nordhorn"
+  },
+  {
+    "kennzeichen": "NOM",
+    "bundesland": "Niedersachsen",
+    "kreis": "Northeim",
+    "stadt_oder_ursprung": "Northeim",
+    "abkuerzung_ursprung": "Northeim",
+    "alternativen": "Northeim"
+  },
+  {
+    "kennzeichen": "NOR",
+    "bundesland": "Niedersachsen",
+    "kreis": "Aurich",
+    "stadt_oder_ursprung": "Norden",
+    "abkuerzung_ursprung": "Norden",
+    "alternativen": "Aurich | Norden"
+  },
+  {
+    "kennzeichen": "OHA",
+    "bundesland": "Niedersachsen",
+    "kreis": "Göttingen ohne die Stadt Göttingen",
+    "stadt_oder_ursprung": "Osterode am Harz",
+    "abkuerzung_ursprung": "Osterode am Harz",
+    "alternativen": "Göttingen ohne die Stadt Göttingen | Osterode am Harz"
+  },
+  {
+    "kennzeichen": "OHZ",
+    "bundesland": "Niedersachsen",
+    "kreis": "Osterholz",
+    "stadt_oder_ursprung": "Osterholz-Scharmbeck",
+    "abkuerzung_ursprung": "Osterholz-Scharmbeck",
+    "alternativen": "Osterholz | Osterholz-Scharmbeck"
+  },
+  {
+    "kennzeichen": "OL",
+    "bundesland": "Niedersachsen",
+    "kreis": "Oldenburg",
+    "stadt_oder_ursprung": "OLdenburg",
+    "abkuerzung_ursprung": "OLdenburg",
+    "alternativen": "Oldenburg | OLdenburg"
+  },
+  {
+    "kennzeichen": "OS",
+    "bundesland": "Niedersachsen",
+    "kreis": "OSnabrück",
+    "stadt_oder_ursprung": "Osnabrück",
+    "abkuerzung_ursprung": "Osnabrück",
+    "alternativen": "OSnabrück | Osnabrück"
+  },
+  {
+    "kennzeichen": "PE",
+    "bundesland": "Niedersachsen",
+    "kreis": "Peine",
+    "stadt_oder_ursprung": "Peine",
+    "abkuerzung_ursprung": "Peine",
+    "alternativen": "Peine"
+  },
+  {
+    "kennzeichen": "RI",
+    "bundesland": "Niedersachsen",
+    "kreis": "Schaumburg",
+    "stadt_oder_ursprung": "Rinteln",
+    "abkuerzung_ursprung": "Rinteln",
+    "alternativen": "Schaumburg | Rinteln"
+  },
+  {
+    "kennzeichen": "ROW",
+    "bundesland": "Niedersachsen",
+    "kreis": "Rotenburg",
+    "stadt_oder_ursprung": "Rotenburg",
+    "abkuerzung_ursprung": "Rotenburg",
+    "alternativen": "Rotenburg"
+  },
+  {
+    "kennzeichen": "SHG",
+    "bundesland": "Niedersachsen",
+    "kreis": "Schaumburg",
+    "stadt_oder_ursprung": "Stadthagen",
+    "abkuerzung_ursprung": "Stadthagen",
+    "alternativen": "Schaumburg | Stadthagen"
+  },
+  {
+    "kennzeichen": "STD",
+    "bundesland": "Niedersachsen",
+    "kreis": "Stade",
+    "stadt_oder_ursprung": "Stade",
+    "abkuerzung_ursprung": "Stade",
+    "alternativen": "Stade"
+  },
+  {
+    "kennzeichen": "SY",
+    "bundesland": "Niedersachsen",
+    "kreis": "Diepholz",
+    "stadt_oder_ursprung": "Syke",
+    "abkuerzung_ursprung": "Syke",
+    "alternativen": "Diepholz | Syke"
+  },
+  {
+    "kennzeichen": "SZ",
+    "bundesland": "Niedersachsen",
+    "kreis": "Salzgitter",
+    "stadt_oder_ursprung": "SalZgitter",
+    "abkuerzung_ursprung": "SalZgitter",
+    "alternativen": "Salzgitter | SalZgitter"
+  },
+  {
+    "kennzeichen": "UE",
+    "bundesland": "Niedersachsen",
+    "kreis": "Uelzen",
+    "stadt_oder_ursprung": "Uelzen",
+    "abkuerzung_ursprung": "Uelzen",
+    "alternativen": "Uelzen"
+  },
+  {
+    "kennzeichen": "VEC",
+    "bundesland": "Niedersachsen",
+    "kreis": "Vechta",
+    "stadt_oder_ursprung": "Vechta",
+    "abkuerzung_ursprung": "Vechta",
+    "alternativen": "Vechta"
+  },
+  {
+    "kennzeichen": "VER",
+    "bundesland": "Niedersachsen",
+    "kreis": "Verden",
+    "stadt_oder_ursprung": "Verden",
+    "abkuerzung_ursprung": "Verden",
+    "alternativen": "Verden"
+  },
+  {
+    "kennzeichen": "WF",
+    "bundesland": "Niedersachsen",
+    "kreis": "Wolfenbüttel",
+    "stadt_oder_ursprung": "Wolfenbüttel",
+    "abkuerzung_ursprung": "Wolfenbüttel",
+    "alternativen": "Wolfenbüttel"
+  },
+  {
+    "kennzeichen": "WHV",
+    "bundesland": "Niedersachsen",
+    "kreis": "Wilhelmshaven",
+    "stadt_oder_ursprung": "WilhelmsHaVen",
+    "abkuerzung_ursprung": "WilhelmsHaVen",
+    "alternativen": "Wilhelmshaven | WilhelmsHaVen"
+  },
+  {
+    "kennzeichen": "WL",
+    "bundesland": "Niedersachsen",
+    "kreis": "Harburg",
+    "stadt_oder_ursprung": "Winsen",
+    "abkuerzung_ursprung": "Winsen",
+    "alternativen": "Harburg | Winsen"
+  },
+  {
+    "kennzeichen": "WOB",
+    "bundesland": "Niedersachsen",
+    "kreis": "Wolfsburg",
+    "stadt_oder_ursprung": "WOlfsBurg",
+    "abkuerzung_ursprung": "WOlfsBurg",
+    "alternativen": "Wolfsburg | WOlfsBurg"
+  },
+  {
+    "kennzeichen": "WST",
+    "bundesland": "Niedersachsen",
+    "kreis": "Ammerland",
+    "stadt_oder_ursprung": "Westerstede",
+    "abkuerzung_ursprung": "Westerstede",
+    "alternativen": "Ammerland | Westerstede"
+  },
+  {
+    "kennzeichen": "WTL",
+    "bundesland": "Niedersachsen",
+    "kreis": "Osnabrück",
+    "stadt_oder_ursprung": "Wittlage",
+    "abkuerzung_ursprung": "Wittlage",
+    "alternativen": "Osnabrück | Wittlage"
+  },
+  {
+    "kennzeichen": "WTM",
+    "bundesland": "Niedersachsen",
+    "kreis": "Wittmund",
+    "stadt_oder_ursprung": "Wittmund",
+    "abkuerzung_ursprung": "Wittmund",
+    "alternativen": "Wittmund"
+  },
+  {
+    "kennzeichen": "AC",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Städteregion Aachen",
+    "stadt_oder_ursprung": "Aachen",
+    "abkuerzung_ursprung": "Aachen",
+    "alternativen": "Städteregion Aachen | Aachen"
+  },
+  {
+    "kennzeichen": "AH",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Borken",
+    "stadt_oder_ursprung": "Ahaus",
+    "abkuerzung_ursprung": "Ahaus",
+    "alternativen": "Borken | Ahaus"
+  },
+  {
+    "kennzeichen": "BE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Warendorf",
+    "stadt_oder_ursprung": "Beckum",
+    "abkuerzung_ursprung": "Beckum",
+    "alternativen": "Warendorf | Beckum"
+  },
+  {
+    "kennzeichen": "BF",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Steinfurt",
+    "stadt_oder_ursprung": "Steinfurt#Burgsteinfurt",
+    "abkuerzung_ursprung": "Steinfurt#Burgsteinfurt",
+    "alternativen": "Steinfurt | Steinfurt#Burgsteinfurt"
+  },
+  {
+    "kennzeichen": "BI",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Bielefeld",
+    "stadt_oder_ursprung": "BIelefeld",
+    "abkuerzung_ursprung": "BIelefeld",
+    "alternativen": "Bielefeld | BIelefeld"
+  },
+  {
+    "kennzeichen": "BLB",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Siegen-Wittgenstein",
+    "stadt_oder_ursprung": "Bad Berleburg",
+    "abkuerzung_ursprung": "Bad Berleburg",
+    "alternativen": "Siegen-Wittgenstein | Bad Berleburg"
+  },
+  {
+    "kennzeichen": "BM",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Rhein-Erft-Kreis",
+    "stadt_oder_ursprung": "Bergheim",
+    "abkuerzung_ursprung": "Bergheim",
+    "alternativen": "Rhein-Erft-Kreis | Bergheim"
+  },
+  {
+    "kennzeichen": "BN",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Bonn",
+    "stadt_oder_ursprung": "BonN",
+    "abkuerzung_ursprung": "BonN",
+    "alternativen": "Bonn | BonN"
+  },
+  {
+    "kennzeichen": "BO",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Bochum",
+    "stadt_oder_ursprung": "BOchum",
+    "abkuerzung_ursprung": "BOchum",
+    "alternativen": "Bochum | BOchum"
+  },
+  {
+    "kennzeichen": "BOH",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Borken",
+    "stadt_oder_ursprung": "Bocholt",
+    "abkuerzung_ursprung": "Bocholt",
+    "alternativen": "Borken | Bocholt"
+  },
+  {
+    "kennzeichen": "BOR",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Borken",
+    "stadt_oder_ursprung": "Borken",
+    "abkuerzung_ursprung": "Borken",
+    "alternativen": "Borken"
+  },
+  {
+    "kennzeichen": "BOT",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Bottrop",
+    "stadt_oder_ursprung": "BOTtrop",
+    "abkuerzung_ursprung": "BOTtrop",
+    "alternativen": "Bottrop | BOTtrop"
+  },
+  {
+    "kennzeichen": "BÜR",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Paderborn",
+    "stadt_oder_ursprung": "Büren",
+    "abkuerzung_ursprung": "Büren",
+    "alternativen": "Paderborn | Büren"
+  },
+  {
+    "kennzeichen": "CAS",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Recklinghausen",
+    "stadt_oder_ursprung": "Castrop-Rauxel",
+    "abkuerzung_ursprung": "Castrop-Rauxel",
+    "alternativen": "Recklinghausen | Castrop-Rauxel"
+  },
+  {
+    "kennzeichen": "COE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Coesfeld",
+    "stadt_oder_ursprung": "Coesfeld",
+    "abkuerzung_ursprung": "Coesfeld",
+    "alternativen": "Coesfeld"
+  },
+  {
+    "kennzeichen": "D",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Nordrhein-Westfalen",
+    "stadt_oder_ursprung": "Düsseldorf",
+    "abkuerzung_ursprung": "Düsseldorf",
+    "alternativen": "Nordrhein-Westfalen | Düsseldorf"
+  },
+  {
+    "kennzeichen": "DIN",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Wesel",
+    "stadt_oder_ursprung": "Dinslaken",
+    "abkuerzung_ursprung": "Dinslaken",
+    "alternativen": "Wesel | Dinslaken"
+  },
+  {
+    "kennzeichen": "DN",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Düren",
+    "stadt_oder_ursprung": "Düren",
+    "abkuerzung_ursprung": "Düren",
+    "alternativen": "Düren"
+  },
+  {
+    "kennzeichen": "DO",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Dortmund",
+    "stadt_oder_ursprung": "DOrtmund",
+    "abkuerzung_ursprung": "DOrtmund",
+    "alternativen": "Dortmund | DOrtmund"
+  },
+  {
+    "kennzeichen": "DT",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Lippe",
+    "stadt_oder_ursprung": "Detmold",
+    "abkuerzung_ursprung": "Detmold",
+    "alternativen": "Lippe | Detmold"
+  },
+  {
+    "kennzeichen": "DU",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Duisburg",
+    "stadt_oder_ursprung": "DUisburg",
+    "abkuerzung_ursprung": "DUisburg",
+    "alternativen": "Duisburg | DUisburg"
+  },
+  {
+    "kennzeichen": "E",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Nordrhein-Westfalen",
+    "stadt_oder_ursprung": "Essen",
+    "abkuerzung_ursprung": "Essen",
+    "alternativen": "Nordrhein-Westfalen | Essen"
+  },
+  {
+    "kennzeichen": "EN",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Ennepe-Ruhr-Kreis",
+    "stadt_oder_ursprung": "Ennepe",
+    "abkuerzung_ursprung": "Ennepe",
+    "alternativen": "Ennepe-Ruhr-Kreis | Ennepe"
+  },
+  {
+    "kennzeichen": "ERK",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Heinsberg",
+    "stadt_oder_ursprung": "Erkelenz",
+    "abkuerzung_ursprung": "Erkelenz",
+    "alternativen": "Heinsberg | Erkelenz"
+  },
+  {
+    "kennzeichen": "EU",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Euskirchen",
+    "stadt_oder_ursprung": "Euskirchen",
+    "abkuerzung_ursprung": "Euskirchen",
+    "alternativen": "Euskirchen"
+  },
+  {
+    "kennzeichen": "GE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Gelsenkirchen",
+    "stadt_oder_ursprung": "GElsenkirchen",
+    "abkuerzung_ursprung": "GElsenkirchen",
+    "alternativen": "Gelsenkirchen | GElsenkirchen"
+  },
+  {
+    "kennzeichen": "GEL",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Kleve",
+    "stadt_oder_ursprung": "Geldern",
+    "abkuerzung_ursprung": "Geldern",
+    "alternativen": "Kleve | Geldern"
+  },
+  {
+    "kennzeichen": "GK",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Heinsberg",
+    "stadt_oder_ursprung": "Geilenkirchen",
+    "abkuerzung_ursprung": "Geilenkirchen",
+    "alternativen": "Heinsberg | Geilenkirchen"
+  },
+  {
+    "kennzeichen": "GL",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Rheinisch-Bergischer Kreis",
+    "stadt_oder_ursprung": "Bergisch Gladbach",
+    "abkuerzung_ursprung": "Bergisch Gladbach",
+    "alternativen": "Rheinisch-Bergischer Kreis | Bergisch Gladbach"
+  },
+  {
+    "kennzeichen": "GLA",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Recklinghausen",
+    "stadt_oder_ursprung": "Gladbeck",
+    "abkuerzung_ursprung": "Gladbeck",
+    "alternativen": "Recklinghausen | Gladbeck"
+  },
+  {
+    "kennzeichen": "GM",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Oberbergischer Kreis",
+    "stadt_oder_ursprung": "Gummersbach",
+    "abkuerzung_ursprung": "Gummersbach",
+    "alternativen": "Oberbergischer Kreis | Gummersbach"
+  },
+  {
+    "kennzeichen": "GT",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Gütersloh",
+    "stadt_oder_ursprung": "Gütersloh",
+    "abkuerzung_ursprung": "Gütersloh",
+    "alternativen": "Gütersloh"
+  },
+  {
+    "kennzeichen": "GV",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Rhein-Kreis Neuss",
+    "stadt_oder_ursprung": "Grevenbroich",
+    "abkuerzung_ursprung": "Grevenbroich",
+    "alternativen": "Rhein-Kreis Neuss | Grevenbroich"
+  },
+  {
+    "kennzeichen": "HA",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Hagen",
+    "stadt_oder_ursprung": "HAgen",
+    "abkuerzung_ursprung": "HAgen",
+    "alternativen": "Hagen | HAgen"
+  },
+  {
+    "kennzeichen": "HAM",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Hamm",
+    "stadt_oder_ursprung": "HAMm",
+    "abkuerzung_ursprung": "HAMm",
+    "alternativen": "Hamm | HAMm"
+  },
+  {
+    "kennzeichen": "HER",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Herne",
+    "stadt_oder_ursprung": "HERne",
+    "abkuerzung_ursprung": "HERne",
+    "alternativen": "Herne | HERne"
+  },
+  {
+    "kennzeichen": "HF",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Herford",
+    "stadt_oder_ursprung": "Herford",
+    "abkuerzung_ursprung": "Herford",
+    "alternativen": "Herford"
+  },
+  {
+    "kennzeichen": "HS",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Heinsberg",
+    "stadt_oder_ursprung": "Heinsberg",
+    "abkuerzung_ursprung": "Heinsberg",
+    "alternativen": "Heinsberg"
+  },
+  {
+    "kennzeichen": "HSK",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Hochsauerlandkreis",
+    "stadt_oder_ursprung": "HochSauerlandKreis",
+    "abkuerzung_ursprung": "HochSauerlandKreis",
+    "alternativen": "Hochsauerlandkreis | HochSauerlandKreis"
+  },
+  {
+    "kennzeichen": "HX",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Höxter",
+    "stadt_oder_ursprung": "Höxter",
+    "abkuerzung_ursprung": "Höxter",
+    "alternativen": "Höxter"
+  },
+  {
+    "kennzeichen": "JÜL",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Düren",
+    "stadt_oder_ursprung": "Jülich",
+    "abkuerzung_ursprung": "Jülich",
+    "alternativen": "Düren | Jülich"
+  },
+  {
+    "kennzeichen": "K",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Nordrhein-Westfalen",
+    "stadt_oder_ursprung": "Köln",
+    "abkuerzung_ursprung": "Köln",
+    "alternativen": "Nordrhein-Westfalen | Köln"
+  },
+  {
+    "kennzeichen": "KK",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Viersen",
+    "stadt_oder_ursprung": "Kempen",
+    "abkuerzung_ursprung": "Kempen",
+    "alternativen": "Viersen | Kempen"
+  },
+  {
+    "kennzeichen": "KLE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Kleve",
+    "stadt_oder_ursprung": "Kleve",
+    "abkuerzung_ursprung": "Kleve",
+    "alternativen": "Kleve"
+  },
+  {
+    "kennzeichen": "KR",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Krefeld",
+    "stadt_oder_ursprung": "KRefeld",
+    "abkuerzung_ursprung": "KRefeld",
+    "alternativen": "Krefeld | KRefeld"
+  },
+  {
+    "kennzeichen": "LE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Lippe",
+    "stadt_oder_ursprung": "Lemgo",
+    "abkuerzung_ursprung": "Lemgo",
+    "alternativen": "Lippe | Lemgo"
+  },
+  {
+    "kennzeichen": "LEV",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Leverkusen",
+    "stadt_oder_ursprung": "LEVerkusen",
+    "abkuerzung_ursprung": "LEVerkusen",
+    "alternativen": "Leverkusen | LEVerkusen"
+  },
+  {
+    "kennzeichen": "LH",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Coesfeld",
+    "stadt_oder_ursprung": "Lüdinghausen",
+    "abkuerzung_ursprung": "Lüdinghausen",
+    "alternativen": "Coesfeld | Lüdinghausen"
+  },
+  {
+    "kennzeichen": "LIP",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Lippe",
+    "stadt_oder_ursprung": "Lippe",
+    "abkuerzung_ursprung": "Lippe",
+    "alternativen": "Lippe"
+  },
+  {
+    "kennzeichen": "LK",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "LübbecKe",
+    "stadt_oder_ursprung": "Minden-Lübbecke",
+    "abkuerzung_ursprung": "Minden-Lübbecke",
+    "alternativen": "LübbecKe | Minden-Lübbecke"
+  },
+  {
+    "kennzeichen": "LP",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Soest",
+    "stadt_oder_ursprung": "Lippstadt",
+    "abkuerzung_ursprung": "Lippstadt",
+    "alternativen": "Soest | Lippstadt"
+  },
+  {
+    "kennzeichen": "LÜN",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Unna",
+    "stadt_oder_ursprung": "Lünen",
+    "abkuerzung_ursprung": "Lünen",
+    "alternativen": "Unna | Lünen"
+  },
+  {
+    "kennzeichen": "ME",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Mettmann",
+    "stadt_oder_ursprung": "Mettmann",
+    "abkuerzung_ursprung": "Mettmann",
+    "alternativen": "Mettmann"
+  },
+  {
+    "kennzeichen": "MG",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Mönchengladbach",
+    "stadt_oder_ursprung": "MönchenGladbach",
+    "abkuerzung_ursprung": "MönchenGladbach",
+    "alternativen": "Mönchengladbach | MönchenGladbach"
+  },
+  {
+    "kennzeichen": "MH",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Mülheim an der Ruhr",
+    "stadt_oder_ursprung": "MülHeim",
+    "abkuerzung_ursprung": "MülHeim",
+    "alternativen": "Mülheim an der Ruhr | MülHeim"
+  },
+  {
+    "kennzeichen": "MI",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Minden-Lübbecke",
+    "stadt_oder_ursprung": "Minden",
+    "abkuerzung_ursprung": "Minden",
+    "alternativen": "Minden-Lübbecke | Minden"
+  },
+  {
+    "kennzeichen": "MK",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Nordrhein-Westfalen",
+    "stadt_oder_ursprung": "Märkischer Kreis",
+    "abkuerzung_ursprung": "Märkischer Kreis",
+    "alternativen": "Nordrhein-Westfalen | Märkischer Kreis"
+  },
+  {
+    "kennzeichen": "MO",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Wesel",
+    "stadt_oder_ursprung": "Moers",
+    "abkuerzung_ursprung": "Moers",
+    "alternativen": "Wesel | Moers"
+  },
+  {
+    "kennzeichen": "MON",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Städteregion Aachen",
+    "stadt_oder_ursprung": "Monschau",
+    "abkuerzung_ursprung": "Monschau",
+    "alternativen": "Städteregion Aachen | Monschau"
+  },
+  {
+    "kennzeichen": "MS",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "MünSter",
+    "stadt_oder_ursprung": "Münster",
+    "abkuerzung_ursprung": "Münster",
+    "alternativen": "MünSter | Münster"
+  },
+  {
+    "kennzeichen": "NE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Rhein-Kreis Neuss",
+    "stadt_oder_ursprung": "Neuss",
+    "abkuerzung_ursprung": "Neuss",
+    "alternativen": "Rhein-Kreis Neuss | Neuss"
+  },
+  {
+    "kennzeichen": "NRW",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Nordrhein-Westfalen, Landesregierung, Landtag und Polizei",
+    "stadt_oder_ursprung": "NordRhein-Westfalen",
+    "abkuerzung_ursprung": "NordRhein-Westfalen",
+    "alternativen": "Nordrhein-Westfalen, Landesregierung, Landtag und Polizei | NordRhein-Westfalen"
+  },
+  {
+    "kennzeichen": "OB",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Oberhausen",
+    "stadt_oder_ursprung": "OBerhausen",
+    "abkuerzung_ursprung": "OBerhausen",
+    "alternativen": "Oberhausen | OBerhausen"
+  },
+  {
+    "kennzeichen": "OE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Olpe",
+    "stadt_oder_ursprung": "Olpe",
+    "abkuerzung_ursprung": "Olpe",
+    "alternativen": "Olpe"
+  },
+  {
+    "kennzeichen": "OP",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Leverkusen",
+    "stadt_oder_ursprung": "Opladen",
+    "abkuerzung_ursprung": "Opladen",
+    "alternativen": "Leverkusen | Opladen"
+  },
+  {
+    "kennzeichen": "PB",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Paderborn",
+    "stadt_oder_ursprung": "Paderborn",
+    "abkuerzung_ursprung": "Paderborn",
+    "alternativen": "Paderborn"
+  },
+  {
+    "kennzeichen": "RE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Recklinghausen",
+    "stadt_oder_ursprung": "Recklinghausen",
+    "abkuerzung_ursprung": "Recklinghausen",
+    "alternativen": "Recklinghausen"
+  },
+  {
+    "kennzeichen": "RS",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "RemScheid",
+    "stadt_oder_ursprung": "Remscheid",
+    "abkuerzung_ursprung": "Remscheid",
+    "alternativen": "RemScheid | Remscheid"
+  },
+  {
+    "kennzeichen": "SG",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Solingen",
+    "stadt_oder_ursprung": "SolinGen",
+    "abkuerzung_ursprung": "SolinGen",
+    "alternativen": "Solingen | SolinGen"
+  },
+  {
+    "kennzeichen": "SI",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Siegen-Wittgenstein",
+    "stadt_oder_ursprung": "Siegen",
+    "abkuerzung_ursprung": "Siegen",
+    "alternativen": "Siegen-Wittgenstein | Siegen"
+  },
+  {
+    "kennzeichen": "SLE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Düren",
+    "stadt_oder_ursprung": "Schleiden",
+    "abkuerzung_ursprung": "Schleiden",
+    "alternativen": "Düren | Schleiden"
+  },
+  {
+    "kennzeichen": "SO",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Soest",
+    "stadt_oder_ursprung": "Soest",
+    "abkuerzung_ursprung": "Soest",
+    "alternativen": "Soest"
+  },
+  {
+    "kennzeichen": "ST",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Steinfurt",
+    "stadt_oder_ursprung": "Steinfurt",
+    "abkuerzung_ursprung": "Steinfurt",
+    "alternativen": "Steinfurt"
+  },
+  {
+    "kennzeichen": "SU",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Rhein-Sieg-Kreis",
+    "stadt_oder_ursprung": "Siegburg",
+    "abkuerzung_ursprung": "Siegburg",
+    "alternativen": "Rhein-Sieg-Kreis | Siegburg"
+  },
+  {
+    "kennzeichen": "TE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Steinfurt",
+    "stadt_oder_ursprung": "Tecklenburg",
+    "abkuerzung_ursprung": "Tecklenburg",
+    "alternativen": "Steinfurt | Tecklenburg"
+  },
+  {
+    "kennzeichen": "UN",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Unna",
+    "stadt_oder_ursprung": "Unna",
+    "abkuerzung_ursprung": "Unna",
+    "alternativen": "Unna"
+  },
+  {
+    "kennzeichen": "VIE",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Viersen",
+    "stadt_oder_ursprung": "Viersen",
+    "abkuerzung_ursprung": "Viersen",
+    "alternativen": "Viersen"
+  },
+  {
+    "kennzeichen": "W",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Nordrhein-Westfalen",
+    "stadt_oder_ursprung": "Wuppertal",
+    "abkuerzung_ursprung": "Wuppertal",
+    "alternativen": "Nordrhein-Westfalen | Wuppertal"
+  },
+  {
+    "kennzeichen": "WAF",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Warendorf",
+    "stadt_oder_ursprung": "Warendorf",
+    "abkuerzung_ursprung": "Warendorf",
+    "alternativen": "Warendorf"
+  },
+  {
+    "kennzeichen": "WAN",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Herne",
+    "stadt_oder_ursprung": "Wanne",
+    "abkuerzung_ursprung": "Wanne",
+    "alternativen": "Herne | Wanne"
+  },
+  {
+    "kennzeichen": "WAR",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Höxter",
+    "stadt_oder_ursprung": "Warburg",
+    "abkuerzung_ursprung": "Warburg",
+    "alternativen": "Höxter | Warburg"
+  },
+  {
+    "kennzeichen": "WAT",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Bochum",
+    "stadt_oder_ursprung": "Wattenscheid",
+    "abkuerzung_ursprung": "Wattenscheid",
+    "alternativen": "Bochum | Wattenscheid"
+  },
+  {
+    "kennzeichen": "WES",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Wesel",
+    "stadt_oder_ursprung": "Wesel",
+    "abkuerzung_ursprung": "Wesel",
+    "alternativen": "Wesel"
+  },
+  {
+    "kennzeichen": "WIT",
+    "bundesland": "Nordrhein-Westfalen",
+    "kreis": "Ennepe-Ruhr-Kreis",
+    "stadt_oder_ursprung": "Witten",
+    "abkuerzung_ursprung": "Witten",
+    "alternativen": "Ennepe-Ruhr-Kreis | Witten"
+  },
+  {
+    "kennzeichen": "AK",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Altenkirchen",
+    "stadt_oder_ursprung": "Altenkirchen",
+    "abkuerzung_ursprung": "Altenkirchen",
+    "alternativen": "Altenkirchen"
+  },
+  {
+    "kennzeichen": "AW",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Ahrweiler",
+    "stadt_oder_ursprung": "Ahrweiler",
+    "abkuerzung_ursprung": "Ahrweiler",
+    "alternativen": "Ahrweiler"
+  },
+  {
+    "kennzeichen": "AZ",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Alzey-Worms",
+    "stadt_oder_ursprung": "Alzey",
+    "abkuerzung_ursprung": "Alzey",
+    "alternativen": "Alzey-Worms | Alzey"
+  },
+  {
+    "kennzeichen": "BIN",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Mainz-Bingen",
+    "stadt_oder_ursprung": "Bingen am Rhein",
+    "abkuerzung_ursprung": "Bingen am Rhein",
+    "alternativen": "Mainz-Bingen | Bingen am Rhein"
+  },
+  {
+    "kennzeichen": "BIR",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Birkenfeld",
+    "stadt_oder_ursprung": "Birkenfeld",
+    "abkuerzung_ursprung": "Birkenfeld",
+    "alternativen": "Birkenfeld"
+  },
+  {
+    "kennzeichen": "BIT",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Eifelkreis Bitburg-Prüm",
+    "stadt_oder_ursprung": "Bitburg",
+    "abkuerzung_ursprung": "Bitburg",
+    "alternativen": "Eifelkreis Bitburg-Prüm | Bitburg"
+  },
+  {
+    "kennzeichen": "BKS",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Bernkastel-Wittlich",
+    "stadt_oder_ursprung": "Bernkastel-Kues",
+    "abkuerzung_ursprung": "Bernkastel-Kues",
+    "alternativen": "Bernkastel-Wittlich | Bernkastel-Kues"
+  },
+  {
+    "kennzeichen": "COC",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Cochem-Zell",
+    "stadt_oder_ursprung": "Cochem",
+    "abkuerzung_ursprung": "Cochem",
+    "alternativen": "Cochem-Zell | Cochem"
+  },
+  {
+    "kennzeichen": "DAU",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Vulkaneifel",
+    "stadt_oder_ursprung": "Daun",
+    "abkuerzung_ursprung": "Daun",
+    "alternativen": "Vulkaneifel | Daun"
+  },
+  {
+    "kennzeichen": "DIZ",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Rhein-Lahn-Kreis",
+    "stadt_oder_ursprung": "Diez",
+    "abkuerzung_ursprung": "Diez",
+    "alternativen": "Rhein-Lahn-Kreis | Diez"
+  },
+  {
+    "kennzeichen": "DÜW",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Bad Dürkheim",
+    "stadt_oder_ursprung": "Bad Dürkheim",
+    "abkuerzung_ursprung": "Bad Dürkheim",
+    "alternativen": "Bad Dürkheim"
+  },
+  {
+    "kennzeichen": "EMS",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Rhein-Lahn-Kreis",
+    "stadt_oder_ursprung": "Bad Ems",
+    "abkuerzung_ursprung": "Bad Ems",
+    "alternativen": "Rhein-Lahn-Kreis | Bad Ems"
+  },
+  {
+    "kennzeichen": "FT",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Frankenthal",
+    "stadt_oder_ursprung": "FrankenThal",
+    "abkuerzung_ursprung": "FrankenThal",
+    "alternativen": "Frankenthal | FrankenThal"
+  },
+  {
+    "kennzeichen": "GER",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Germersheim",
+    "stadt_oder_ursprung": "Germersheim",
+    "abkuerzung_ursprung": "Germersheim",
+    "alternativen": "Germersheim"
+  },
+  {
+    "kennzeichen": "GOA",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Rhein-Hunsrück-Kreis",
+    "stadt_oder_ursprung": "Sankt Goar",
+    "abkuerzung_ursprung": "Sankt Goar",
+    "alternativen": "Rhein-Hunsrück-Kreis | Sankt Goar"
+  },
+  {
+    "kennzeichen": "GOH",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Rhein-Lahn-Kreis",
+    "stadt_oder_ursprung": "Sankt Goarshausen",
+    "abkuerzung_ursprung": "Sankt Goarshausen",
+    "alternativen": "Rhein-Lahn-Kreis | Sankt Goarshausen"
+  },
+  {
+    "kennzeichen": "KH",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Bad Kreuznach",
+    "stadt_oder_ursprung": "Bad Kreuznach",
+    "abkuerzung_ursprung": "Bad Kreuznach",
+    "alternativen": "Bad Kreuznach"
+  },
+  {
+    "kennzeichen": "KIB",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Donnersbergkreis",
+    "stadt_oder_ursprung": "Kirchheimbolanden",
+    "abkuerzung_ursprung": "Kirchheimbolanden",
+    "alternativen": "Donnersbergkreis | Kirchheimbolanden"
+  },
+  {
+    "kennzeichen": "KL",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Kaiserslautern",
+    "stadt_oder_ursprung": "KaisersLautern",
+    "abkuerzung_ursprung": "KaisersLautern",
+    "alternativen": "Kaiserslautern | KaisersLautern"
+  },
+  {
+    "kennzeichen": "KO",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Koblenz",
+    "stadt_oder_ursprung": "KOblenz",
+    "abkuerzung_ursprung": "KOblenz",
+    "alternativen": "Koblenz | KOblenz"
+  },
+  {
+    "kennzeichen": "KUS",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Kusel",
+    "stadt_oder_ursprung": "Kusel",
+    "abkuerzung_ursprung": "Kusel",
+    "alternativen": "Kusel"
+  },
+  {
+    "kennzeichen": "LD",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Landau in der Pfalz",
+    "stadt_oder_ursprung": "LanDau",
+    "abkuerzung_ursprung": "LanDau",
+    "alternativen": "Landau in der Pfalz | LanDau"
+  },
+  {
+    "kennzeichen": "LU",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Ludwigshafen am Rhein",
+    "stadt_oder_ursprung": "LUdwigshafen",
+    "abkuerzung_ursprung": "LUdwigshafen",
+    "alternativen": "Ludwigshafen am Rhein | LUdwigshafen"
+  },
+  {
+    "kennzeichen": "MY",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Mayen-Koblenz",
+    "stadt_oder_ursprung": "Mayen",
+    "abkuerzung_ursprung": "Mayen",
+    "alternativen": "Mayen-Koblenz | Mayen"
+  },
+  {
+    "kennzeichen": "MYK",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Mayen-Koblenz",
+    "stadt_oder_ursprung": "Mayen",
+    "abkuerzung_ursprung": "Mayen",
+    "alternativen": "Mayen-Koblenz | Mayen"
+  },
+  {
+    "kennzeichen": "MZ",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Mainz",
+    "stadt_oder_ursprung": "MainZ",
+    "abkuerzung_ursprung": "MainZ",
+    "alternativen": "Mainz | MainZ"
+  },
+  {
+    "kennzeichen": "NR",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Neuwied",
+    "stadt_oder_ursprung": "Neuwied",
+    "abkuerzung_ursprung": "Neuwied",
+    "alternativen": "Neuwied"
+  },
+  {
+    "kennzeichen": "NW",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Rheinland-Pfalz",
+    "stadt_oder_ursprung": "Neustadt an der Weinstraße",
+    "abkuerzung_ursprung": "Neustadt an der Weinstraße",
+    "alternativen": "Rheinland-Pfalz | Neustadt an der Weinstraße"
+  },
+  {
+    "kennzeichen": "PRÜ",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Eifelkreis Bitburg-Prüm",
+    "stadt_oder_ursprung": "Prüm",
+    "abkuerzung_ursprung": "Prüm",
+    "alternativen": "Eifelkreis Bitburg-Prüm | Prüm"
+  },
+  {
+    "kennzeichen": "PS",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "PirmaSens",
+    "stadt_oder_ursprung": "Pirmasens",
+    "abkuerzung_ursprung": "Pirmasens",
+    "alternativen": "PirmaSens | Pirmasens"
+  },
+  {
+    "kennzeichen": "ROK",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Donnersbergkreis",
+    "stadt_oder_ursprung": "Rockenhausen",
+    "abkuerzung_ursprung": "Rockenhausen",
+    "alternativen": "Donnersbergkreis | Rockenhausen"
+  },
+  {
+    "kennzeichen": "RP",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Rhein-Pfalz",
+    "stadt_oder_ursprung": "Rhein-Pfalz-Kreis",
+    "abkuerzung_ursprung": "Rhein-Pfalz-Kreis",
+    "alternativen": "Rhein-Pfalz | Rhein-Pfalz-Kreis"
+  },
+  {
+    "kennzeichen": "RPL",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Rheinland-Pfälzischer Landtag",
+    "stadt_oder_ursprung": "Landesregierung von Rheinland-Pfalz",
+    "abkuerzung_ursprung": "Landesregierung von Rheinland-Pfalz",
+    "alternativen": "Rheinland-Pfälzischer Landtag | Landesregierung von Rheinland-Pfalz"
+  },
+  {
+    "kennzeichen": "SAB",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Trier-Saarburg",
+    "stadt_oder_ursprung": "Saarburg",
+    "abkuerzung_ursprung": "Saarburg",
+    "alternativen": "Trier-Saarburg | Saarburg"
+  },
+  {
+    "kennzeichen": "SIM",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Rhein-Hunsrück-Kreis",
+    "stadt_oder_ursprung": "Simmern/Hunsrück",
+    "abkuerzung_ursprung": "Simmern/Hunsrück",
+    "alternativen": "Rhein-Hunsrück-Kreis | Simmern/Hunsrück"
+  },
+  {
+    "kennzeichen": "SP",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Speyer",
+    "stadt_oder_ursprung": "SPeyer",
+    "abkuerzung_ursprung": "SPeyer",
+    "alternativen": "Speyer | SPeyer"
+  },
+  {
+    "kennzeichen": "SÜW",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Südliche Weinstraße",
+    "stadt_oder_ursprung": "Deutsche Weinstraße",
+    "abkuerzung_ursprung": "Deutsche Weinstraße",
+    "alternativen": "Südliche Weinstraße | Deutsche Weinstraße"
+  },
+  {
+    "kennzeichen": "TR",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Trier-Saarburg und Stadt Trier",
+    "stadt_oder_ursprung": "TRier",
+    "abkuerzung_ursprung": "TRier",
+    "alternativen": "Trier-Saarburg und Stadt Trier | TRier"
+  },
+  {
+    "kennzeichen": "WIL",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Bernkastel-Wittlich",
+    "stadt_oder_ursprung": "Wittlich",
+    "abkuerzung_ursprung": "Wittlich",
+    "alternativen": "Bernkastel-Wittlich | Wittlich"
+  },
+  {
+    "kennzeichen": "WO",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Worms",
+    "stadt_oder_ursprung": "WOrms",
+    "abkuerzung_ursprung": "WOrms",
+    "alternativen": "Worms | WOrms"
+  },
+  {
+    "kennzeichen": "WW",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "WesterWald",
+    "stadt_oder_ursprung": "Westerwaldkreis",
+    "abkuerzung_ursprung": "Westerwaldkreis",
+    "alternativen": "WesterWald | Westerwaldkreis"
+  },
+  {
+    "kennzeichen": "ZEL",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Cochem-Zell",
+    "stadt_oder_ursprung": "Zell",
+    "abkuerzung_ursprung": "Zell",
+    "alternativen": "Cochem-Zell | Zell"
+  },
+  {
+    "kennzeichen": "ZW",
+    "bundesland": "Rheinland-Pfalz",
+    "kreis": "Zweibrücken",
+    "stadt_oder_ursprung": "ZWeibrücken",
+    "abkuerzung_ursprung": "ZWeibrücken",
+    "alternativen": "Zweibrücken | ZWeibrücken"
+  },
+  {
+    "kennzeichen": "HOM",
+    "bundesland": "Saarland",
+    "kreis": "Saarpfalz-Kreis ohne die Stadt St. Ingbert",
+    "stadt_oder_ursprung": "Homburg",
+    "abkuerzung_ursprung": "Homburg",
+    "alternativen": "Saarpfalz-Kreis ohne die Stadt St. Ingbert | Homburg"
+  },
+  {
+    "kennzeichen": "IGB",
+    "bundesland": "Saarland",
+    "kreis": "St. Ingbert",
+    "stadt_oder_ursprung": "InGBert",
+    "abkuerzung_ursprung": "InGBert",
+    "alternativen": "St. Ingbert | InGBert"
+  },
+  {
+    "kennzeichen": "MZG",
+    "bundesland": "Saarland",
+    "kreis": "Merzig-Wadern",
+    "stadt_oder_ursprung": "Merzig",
+    "abkuerzung_ursprung": "Merzig",
+    "alternativen": "Merzig-Wadern | Merzig"
+  },
+  {
+    "kennzeichen": "NK",
+    "bundesland": "Saarland",
+    "kreis": "Neunkirchen",
+    "stadt_oder_ursprung": "Neunkirchen",
+    "abkuerzung_ursprung": "Neunkirchen",
+    "alternativen": "Neunkirchen"
+  },
+  {
+    "kennzeichen": "OTW",
+    "bundesland": "Saarland",
+    "kreis": "Neunkirchen",
+    "stadt_oder_ursprung": "Ottweiler",
+    "abkuerzung_ursprung": "Ottweiler",
+    "alternativen": "Neunkirchen | Ottweiler"
+  },
+  {
+    "kennzeichen": "SAL",
+    "bundesland": "Saarland",
+    "kreis": "Saarland, Landesregierung, Landtag und Polizei",
+    "stadt_oder_ursprung": "Landtag des Saarlandes",
+    "abkuerzung_ursprung": "Landtag des Saarlandes",
+    "alternativen": "Saarland, Landesregierung, Landtag und Polizei | Landtag des Saarlandes"
+  },
+  {
+    "kennzeichen": "SB",
+    "bundesland": "Saarland",
+    "kreis": "Regionalverband Saarbrücken ohne die Stadt Völklingen",
+    "stadt_oder_ursprung": "Saarbrücken",
+    "abkuerzung_ursprung": "Saarbrücken",
+    "alternativen": "Regionalverband Saarbrücken ohne die Stadt Völklingen | Saarbrücken"
+  },
+  {
+    "kennzeichen": "SLS",
+    "bundesland": "Saarland",
+    "kreis": "SaarLouiS",
+    "stadt_oder_ursprung": "Saarlouis",
+    "abkuerzung_ursprung": "Saarlouis",
+    "alternativen": "SaarLouiS | Saarlouis"
+  },
+  {
+    "kennzeichen": "VK",
+    "bundesland": "Saarland",
+    "kreis": "Völklingen",
+    "stadt_oder_ursprung": "VölKlingen",
+    "abkuerzung_ursprung": "VölKlingen",
+    "alternativen": "Völklingen | VölKlingen"
+  },
+  {
+    "kennzeichen": "WND",
+    "bundesland": "Saarland",
+    "kreis": "St. Wendel",
+    "stadt_oder_ursprung": "St. Wendel",
+    "abkuerzung_ursprung": "St. Wendel",
+    "alternativen": "St. Wendel"
+  },
+  {
+    "kennzeichen": "AE",
+    "bundesland": "Sachsen",
+    "kreis": "Vogtlandkreis",
+    "stadt_oder_ursprung": "Auerbach/Vogtl.",
+    "abkuerzung_ursprung": "Auerbach/Vogtl.",
+    "alternativen": "Vogtlandkreis | Auerbach/Vogtl."
+  },
+  {
+    "kennzeichen": "ANA",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Annaberg-Buchholz",
+    "abkuerzung_ursprung": "Annaberg-Buchholz",
+    "alternativen": "Erzgebirgskreis | Annaberg-Buchholz"
+  },
+  {
+    "kennzeichen": "ASZ",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Aue",
+    "abkuerzung_ursprung": "Aue",
+    "alternativen": "Erzgebirgskreis | Aue"
+  },
+  {
+    "kennzeichen": "AU",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Aue",
+    "abkuerzung_ursprung": "Aue",
+    "alternativen": "Erzgebirgskreis | Aue"
+  },
+  {
+    "kennzeichen": "BED",
+    "bundesland": "Sachsen",
+    "kreis": "Mittelsachsen",
+    "stadt_oder_ursprung": "Brand-Erbisdorf",
+    "abkuerzung_ursprung": "Brand-Erbisdorf",
+    "alternativen": "Mittelsachsen | Brand-Erbisdorf"
+  },
+  {
+    "kennzeichen": "BIW",
+    "bundesland": "Sachsen",
+    "kreis": "Bautzen",
+    "stadt_oder_ursprung": "Bischofswerda",
+    "abkuerzung_ursprung": "Bischofswerda",
+    "alternativen": "Bautzen | Bischofswerda"
+  },
+  {
+    "kennzeichen": "BNA",
+    "bundesland": "Sachsen",
+    "kreis": "Leipzig",
+    "stadt_oder_ursprung": "Borna",
+    "abkuerzung_ursprung": "Borna",
+    "alternativen": "Leipzig | Borna"
+  },
+  {
+    "kennzeichen": "BZ",
+    "bundesland": "Sachsen",
+    "kreis": "Bautzen",
+    "stadt_oder_ursprung": "Bautzen",
+    "abkuerzung_ursprung": "Bautzen",
+    "alternativen": "Bautzen"
+  },
+  {
+    "kennzeichen": "C",
+    "bundesland": "Sachsen",
+    "kreis": "Sachsen",
+    "stadt_oder_ursprung": "Chemnitz",
+    "abkuerzung_ursprung": "Chemnitz",
+    "alternativen": "Sachsen | Chemnitz"
+  },
+  {
+    "kennzeichen": "DD",
+    "bundesland": "Sachsen",
+    "kreis": "Dresden",
+    "stadt_oder_ursprung": "DresDen",
+    "abkuerzung_ursprung": "DresDen",
+    "alternativen": "Dresden | DresDen"
+  },
+  {
+    "kennzeichen": "DL",
+    "bundesland": "Sachsen",
+    "kreis": "Mittelsachsen",
+    "stadt_oder_ursprung": "Döbeln",
+    "abkuerzung_ursprung": "Döbeln",
+    "alternativen": "Mittelsachsen | Döbeln"
+  },
+  {
+    "kennzeichen": "DW",
+    "bundesland": "Sachsen",
+    "kreis": "Sächsische Schweiz-Osterzgebirge",
+    "stadt_oder_ursprung": "Dippoldiswalde",
+    "abkuerzung_ursprung": "Dippoldiswalde",
+    "alternativen": "Sächsische Schweiz-Osterzgebirge | Dippoldiswalde"
+  },
+  {
+    "kennzeichen": "DZ",
+    "bundesland": "Sachsen",
+    "kreis": "Nordsachsen",
+    "stadt_oder_ursprung": "Delitzsch",
+    "abkuerzung_ursprung": "Delitzsch",
+    "alternativen": "Nordsachsen | Delitzsch"
+  },
+  {
+    "kennzeichen": "EB",
+    "bundesland": "Sachsen",
+    "kreis": "Nordsachsen",
+    "stadt_oder_ursprung": "Eilenburg",
+    "abkuerzung_ursprung": "Eilenburg",
+    "alternativen": "Nordsachsen | Eilenburg"
+  },
+  {
+    "kennzeichen": "ERZ",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Erzgebirge",
+    "abkuerzung_ursprung": "Erzgebirge",
+    "alternativen": "Erzgebirgskreis | Erzgebirge"
+  },
+  {
+    "kennzeichen": "FG",
+    "bundesland": "Sachsen",
+    "kreis": "Mittelsachsen",
+    "stadt_oder_ursprung": "Freiberg",
+    "abkuerzung_ursprung": "Freiberg",
+    "alternativen": "Mittelsachsen | Freiberg"
+  },
+  {
+    "kennzeichen": "FLÖ",
+    "bundesland": "Sachsen",
+    "kreis": "Mittelsachsen",
+    "stadt_oder_ursprung": "Flöha",
+    "abkuerzung_ursprung": "Flöha",
+    "alternativen": "Mittelsachsen | Flöha"
+  },
+  {
+    "kennzeichen": "FTL",
+    "bundesland": "Sachsen",
+    "kreis": "Sächsische Schweiz-Osterzgebirge",
+    "stadt_oder_ursprung": "Freital",
+    "abkuerzung_ursprung": "Freital",
+    "alternativen": "Sächsische Schweiz-Osterzgebirge | Freital"
+  },
+  {
+    "kennzeichen": "GC",
+    "bundesland": "Sachsen",
+    "kreis": "Zwickau",
+    "stadt_oder_ursprung": "Glauchau",
+    "abkuerzung_ursprung": "Glauchau",
+    "alternativen": "Zwickau | Glauchau"
+  },
+  {
+    "kennzeichen": "GHA",
+    "bundesland": "Sachsen",
+    "kreis": "Leipzig",
+    "stadt_oder_ursprung": "Geithain",
+    "abkuerzung_ursprung": "Geithain",
+    "alternativen": "Leipzig | Geithain"
+  },
+  {
+    "kennzeichen": "GR",
+    "bundesland": "Sachsen",
+    "kreis": "Görlitz",
+    "stadt_oder_ursprung": "Görlitz",
+    "abkuerzung_ursprung": "Görlitz",
+    "alternativen": "Görlitz"
+  },
+  {
+    "kennzeichen": "GRH",
+    "bundesland": "Sachsen",
+    "kreis": "Meißen",
+    "stadt_oder_ursprung": "Großenhain",
+    "abkuerzung_ursprung": "Großenhain",
+    "alternativen": "Meißen | Großenhain"
+  },
+  {
+    "kennzeichen": "GRM",
+    "bundesland": "Sachsen",
+    "kreis": "Leipzig",
+    "stadt_oder_ursprung": "Grimma",
+    "abkuerzung_ursprung": "Grimma",
+    "alternativen": "Leipzig | Grimma"
+  },
+  {
+    "kennzeichen": "HC",
+    "bundesland": "Sachsen",
+    "kreis": "Mittelsachsen",
+    "stadt_oder_ursprung": "Hainichen",
+    "abkuerzung_ursprung": "Hainichen",
+    "alternativen": "Mittelsachsen | Hainichen"
+  },
+  {
+    "kennzeichen": "HOT",
+    "bundesland": "Sachsen",
+    "kreis": "Zwickau",
+    "stadt_oder_ursprung": "Hohenstein-Ernstthal",
+    "abkuerzung_ursprung": "Hohenstein-Ernstthal",
+    "alternativen": "Zwickau | Hohenstein-Ernstthal"
+  },
+  {
+    "kennzeichen": "HY",
+    "bundesland": "Sachsen",
+    "kreis": "Bautzen",
+    "stadt_oder_ursprung": "Hoyerswerda",
+    "abkuerzung_ursprung": "Hoyerswerda",
+    "alternativen": "Bautzen | Hoyerswerda"
+  },
+  {
+    "kennzeichen": "KM",
+    "bundesland": "Sachsen",
+    "kreis": "Bautzen",
+    "stadt_oder_ursprung": "Kamenz",
+    "abkuerzung_ursprung": "Kamenz",
+    "alternativen": "Bautzen | Kamenz"
+  },
+  {
+    "kennzeichen": "L",
+    "bundesland": "Sachsen",
+    "kreis": "Sachsen",
+    "stadt_oder_ursprung": "Leipzig",
+    "abkuerzung_ursprung": "Leipzig",
+    "alternativen": "Sachsen | Leipzig"
+  },
+  {
+    "kennzeichen": "LÖB",
+    "bundesland": "Sachsen",
+    "kreis": "Görlitz",
+    "stadt_oder_ursprung": "Löbau",
+    "abkuerzung_ursprung": "Löbau",
+    "alternativen": "Görlitz | Löbau"
+  },
+  {
+    "kennzeichen": "LSN",
+    "bundesland": "Sachsen",
+    "kreis": "Sachsen, Landesregierung und Landtag",
+    "stadt_oder_ursprung": "Landtag SachseN",
+    "abkuerzung_ursprung": "Landtag SachseN",
+    "alternativen": "Sachsen, Landesregierung und Landtag | Landtag SachseN"
+  },
+  {
+    "kennzeichen": "MAB",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Marienberg",
+    "abkuerzung_ursprung": "Marienberg",
+    "alternativen": "Erzgebirgskreis | Marienberg"
+  },
+  {
+    "kennzeichen": "MEI",
+    "bundesland": "Sachsen",
+    "kreis": "Meißen",
+    "stadt_oder_ursprung": "Meißen",
+    "abkuerzung_ursprung": "Meißen",
+    "alternativen": "Meißen"
+  },
+  {
+    "kennzeichen": "MEK",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Mittlerer Erzgebirgskreis",
+    "abkuerzung_ursprung": "Mittlerer Erzgebirgskreis",
+    "alternativen": "Erzgebirgskreis | Mittlerer Erzgebirgskreis"
+  },
+  {
+    "kennzeichen": "MTL",
+    "bundesland": "Sachsen",
+    "kreis": "Leipzig",
+    "stadt_oder_ursprung": "Mulde",
+    "abkuerzung_ursprung": "Mulde",
+    "alternativen": "Leipzig | MU | München | München - Umland | Bayern--> | Mulde"
+  },
+  {
+    "kennzeichen": "MW",
+    "bundesland": "Sachsen",
+    "kreis": "Mittelsachsen",
+    "stadt_oder_ursprung": "Mittweida",
+    "abkuerzung_ursprung": "Mittweida",
+    "alternativen": "Mittelsachsen | Mittweida"
+  },
+  {
+    "kennzeichen": "NOL",
+    "bundesland": "Sachsen",
+    "kreis": "Görlitz",
+    "stadt_oder_ursprung": "Niederschlesien",
+    "abkuerzung_ursprung": "Niederschlesien",
+    "alternativen": "Görlitz | Niederschlesien"
+  },
+  {
+    "kennzeichen": "NY",
+    "bundesland": "Sachsen",
+    "kreis": "Görlitz",
+    "stadt_oder_ursprung": "Niesky",
+    "abkuerzung_ursprung": "Niesky",
+    "alternativen": "Görlitz | Niesky"
+  },
+  {
+    "kennzeichen": "OVL",
+    "bundesland": "Sachsen",
+    "kreis": "Vogtlandkreis",
+    "stadt_oder_ursprung": "Obervogtland",
+    "abkuerzung_ursprung": "Obervogtland",
+    "alternativen": "Vogtlandkreis | Obervogtland"
+  },
+  {
+    "kennzeichen": "OZ",
+    "bundesland": "Sachsen",
+    "kreis": "Nordsachsen",
+    "stadt_oder_ursprung": "Oschatz",
+    "abkuerzung_ursprung": "Oschatz",
+    "alternativen": "Nordsachsen | Oschatz"
+  },
+  {
+    "kennzeichen": "PIR",
+    "bundesland": "Sachsen",
+    "kreis": "Sächsische Schweiz-Osterzgebirge",
+    "stadt_oder_ursprung": "Pirna",
+    "abkuerzung_ursprung": "Pirna",
+    "alternativen": "Sächsische Schweiz-Osterzgebirge | Pirna"
+  },
+  {
+    "kennzeichen": "PL",
+    "bundesland": "Sachsen",
+    "kreis": "Vogtlandkreis",
+    "stadt_oder_ursprung": "Plauen",
+    "abkuerzung_ursprung": "Plauen",
+    "alternativen": "Vogtlandkreis | Plauen"
+  },
+  {
+    "kennzeichen": "RC",
+    "bundesland": "Sachsen",
+    "kreis": "Vogtlandkreis",
+    "stadt_oder_ursprung": "Reichenbach im Vogtland",
+    "abkuerzung_ursprung": "Reichenbach im Vogtland",
+    "alternativen": "Vogtlandkreis | Reichenbach im Vogtland"
+  },
+  {
+    "kennzeichen": "RG",
+    "bundesland": "Sachsen",
+    "kreis": "Meißen",
+    "stadt_oder_ursprung": "Riesa",
+    "abkuerzung_ursprung": "Riesa",
+    "alternativen": "Meißen | Riesa"
+  },
+  {
+    "kennzeichen": "RIE",
+    "bundesland": "Sachsen",
+    "kreis": "Meißen",
+    "stadt_oder_ursprung": "Riesa",
+    "abkuerzung_ursprung": "Riesa",
+    "alternativen": "Meißen | Riesa"
+  },
+  {
+    "kennzeichen": "RL",
+    "bundesland": "Sachsen",
+    "kreis": "Mittelsachsen",
+    "stadt_oder_ursprung": "Rochlitz",
+    "abkuerzung_ursprung": "Rochlitz",
+    "alternativen": "Mittelsachsen | Rochlitz"
+  },
+  {
+    "kennzeichen": "SEB",
+    "bundesland": "Sachsen",
+    "kreis": "Sächsische Schweiz-Osterzgebirge",
+    "stadt_oder_ursprung": "Sebnitz",
+    "abkuerzung_ursprung": "Sebnitz",
+    "alternativen": "Sächsische Schweiz-Osterzgebirge | Sebnitz"
+  },
+  {
+    "kennzeichen": "STL",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Stollberg/Erzgeb.",
+    "abkuerzung_ursprung": "Stollberg/Erzgeb.",
+    "alternativen": "Erzgebirgskreis | Stollberg/Erzgeb."
+  },
+  {
+    "kennzeichen": "SZB",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Schwarzenberg/Erzgeb.",
+    "abkuerzung_ursprung": "Schwarzenberg/Erzgeb.",
+    "alternativen": "Erzgebirgskreis | Schwarzenberg/Erzgeb."
+  },
+  {
+    "kennzeichen": "TDO",
+    "bundesland": "Sachsen",
+    "kreis": "Nordsachsen",
+    "stadt_oder_ursprung": "Torgau",
+    "abkuerzung_ursprung": "Torgau",
+    "alternativen": "Nordsachsen | Torgau"
+  },
+  {
+    "kennzeichen": "TG",
+    "bundesland": "Sachsen",
+    "kreis": "Nordsachsen",
+    "stadt_oder_ursprung": "Torgau",
+    "abkuerzung_ursprung": "Torgau",
+    "alternativen": "Nordsachsen | Torgau"
+  },
+  {
+    "kennzeichen": "TO",
+    "bundesland": "Sachsen",
+    "kreis": "Nordsachsen",
+    "stadt_oder_ursprung": "Torgau",
+    "abkuerzung_ursprung": "Torgau",
+    "alternativen": "Nordsachsen | Torgau"
+  },
+  {
+    "kennzeichen": "V",
+    "bundesland": "Sachsen",
+    "kreis": "Vogtland",
+    "stadt_oder_ursprung": "Vogtlandkreis",
+    "abkuerzung_ursprung": "Vogtlandkreis",
+    "alternativen": "Vogtland | Vogtlandkreis"
+  },
+  {
+    "kennzeichen": "WDA",
+    "bundesland": "Sachsen",
+    "kreis": "Zwickau",
+    "stadt_oder_ursprung": "Werdau",
+    "abkuerzung_ursprung": "Werdau",
+    "alternativen": "Zwickau | Werdau"
+  },
+  {
+    "kennzeichen": "WSW",
+    "bundesland": "Sachsen",
+    "kreis": "Görlitz",
+    "stadt_oder_ursprung": "Weißwasser",
+    "abkuerzung_ursprung": "Weißwasser",
+    "alternativen": "Görlitz | Weißwasser"
+  },
+  {
+    "kennzeichen": "WUR",
+    "bundesland": "Sachsen",
+    "kreis": "Leipzig",
+    "stadt_oder_ursprung": "Wurzen",
+    "abkuerzung_ursprung": "Wurzen",
+    "alternativen": "Leipzig | Wurzen"
+  },
+  {
+    "kennzeichen": "Z",
+    "bundesland": "Sachsen",
+    "kreis": "Sachsen",
+    "stadt_oder_ursprung": "Zwickau",
+    "abkuerzung_ursprung": "Zwickau",
+    "alternativen": "Sachsen | Zwickau"
+  },
+  {
+    "kennzeichen": "ZI",
+    "bundesland": "Sachsen",
+    "kreis": "Görlitz",
+    "stadt_oder_ursprung": "Zittau",
+    "abkuerzung_ursprung": "Zittau",
+    "alternativen": "Görlitz | Zittau"
+  },
+  {
+    "kennzeichen": "ZP",
+    "bundesland": "Sachsen",
+    "kreis": "Erzgebirgskreis",
+    "stadt_oder_ursprung": "Zschopau",
+    "abkuerzung_ursprung": "Zschopau",
+    "alternativen": "Erzgebirgskreis | Zschopau"
+  },
+  {
+    "kennzeichen": "ABI",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Anhalt-Bitterfeld",
+    "stadt_oder_ursprung": "Anhalt",
+    "abkuerzung_ursprung": "Anhalt",
+    "alternativen": "Anhalt-Bitterfeld | Anhalt"
+  },
+  {
+    "kennzeichen": "ASL",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Salzlandkreis",
+    "stadt_oder_ursprung": "Aschersleben",
+    "abkuerzung_ursprung": "Aschersleben",
+    "alternativen": "Salzlandkreis | Aschersleben"
+  },
+  {
+    "kennzeichen": "AZE",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Anhalt-Bitterfeld",
+    "stadt_oder_ursprung": "Anhalt",
+    "abkuerzung_ursprung": "Anhalt",
+    "alternativen": "Anhalt-Bitterfeld | Anhalt"
+  },
+  {
+    "kennzeichen": "BBG",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Salzlandkreis",
+    "stadt_oder_ursprung": "Bernburg",
+    "abkuerzung_ursprung": "Bernburg",
+    "alternativen": "Salzlandkreis | Bernburg"
+  },
+  {
+    "kennzeichen": "BLK",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Burgenlandkreis",
+    "stadt_oder_ursprung": "BurgenLandKreis",
+    "abkuerzung_ursprung": "BurgenLandKreis",
+    "alternativen": "Burgenlandkreis | BurgenLandKreis"
+  },
+  {
+    "kennzeichen": "BÖ",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Börde",
+    "stadt_oder_ursprung": "Magdeburger Börde",
+    "abkuerzung_ursprung": "Magdeburger Börde",
+    "alternativen": "Börde | Magdeburger Börde"
+  },
+  {
+    "kennzeichen": "BRG",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Jerichower Land",
+    "stadt_oder_ursprung": "Burg",
+    "abkuerzung_ursprung": "Burg",
+    "alternativen": "Jerichower Land | Burg"
+  },
+  {
+    "kennzeichen": "BTF",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Anhalt-Bitterfeld",
+    "stadt_oder_ursprung": "Bitterfeld",
+    "abkuerzung_ursprung": "Bitterfeld",
+    "alternativen": "Anhalt-Bitterfeld | Bitterfeld"
+  },
+  {
+    "kennzeichen": "DE",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Dessau-Roßlau",
+    "stadt_oder_ursprung": "Dessau",
+    "abkuerzung_ursprung": "Dessau",
+    "alternativen": "Dessau-Roßlau | Dessau"
+  },
+  {
+    "kennzeichen": "EIL",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Mansfeld-Südharz",
+    "stadt_oder_ursprung": "Lutherstadt Eisleben",
+    "abkuerzung_ursprung": "Lutherstadt Eisleben",
+    "alternativen": "Mansfeld-Südharz | Lutherstadt Eisleben"
+  },
+  {
+    "kennzeichen": "GA",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Altmarkkreis Salzwedel",
+    "stadt_oder_ursprung": "Gardelegen",
+    "abkuerzung_ursprung": "Gardelegen",
+    "alternativen": "Altmarkkreis Salzwedel | Gardelegen"
+  },
+  {
+    "kennzeichen": "GHC",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Wittenberg",
+    "stadt_oder_ursprung": "Gräfenhainichen",
+    "abkuerzung_ursprung": "Gräfenhainichen",
+    "alternativen": "Wittenberg | Gräfenhainichen"
+  },
+  {
+    "kennzeichen": "GNT",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Jerichower Land",
+    "stadt_oder_ursprung": "Genthin",
+    "abkuerzung_ursprung": "Genthin",
+    "alternativen": "Jerichower Land | Genthin"
+  },
+  {
+    "kennzeichen": "HAL",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Halle",
+    "stadt_oder_ursprung": "HALle",
+    "abkuerzung_ursprung": "HALle",
+    "alternativen": "Halle | HALle"
+  },
+  {
+    "kennzeichen": "HBS",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Harz",
+    "stadt_oder_ursprung": "Halberstadt",
+    "abkuerzung_ursprung": "Halberstadt",
+    "alternativen": "Harz | Halberstadt"
+  },
+  {
+    "kennzeichen": "HDL",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Börde",
+    "stadt_oder_ursprung": "Haldensleben",
+    "abkuerzung_ursprung": "Haldensleben",
+    "alternativen": "Börde | Haldensleben"
+  },
+  {
+    "kennzeichen": "HET",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Mansfeld-Südharz",
+    "stadt_oder_ursprung": "Hettstedt",
+    "abkuerzung_ursprung": "Hettstedt",
+    "alternativen": "Mansfeld-Südharz | Hettstedt"
+  },
+  {
+    "kennzeichen": "HHM",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Burgenlandkreis",
+    "stadt_oder_ursprung": "Hohenmölsen",
+    "abkuerzung_ursprung": "Hohenmölsen",
+    "alternativen": "Burgenlandkreis | Hohenmölsen"
+  },
+  {
+    "kennzeichen": "HV",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Stendal",
+    "stadt_oder_ursprung": "Havelberg",
+    "abkuerzung_ursprung": "Havelberg",
+    "alternativen": "Stendal | Havelberg"
+  },
+  {
+    "kennzeichen": "HZ",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Harz",
+    "stadt_oder_ursprung": "Harz",
+    "abkuerzung_ursprung": "Harz",
+    "alternativen": "Harz"
+  },
+  {
+    "kennzeichen": "JE",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Wittenberg",
+    "stadt_oder_ursprung": "Jessen",
+    "abkuerzung_ursprung": "Jessen",
+    "alternativen": "Wittenberg | Jessen"
+  },
+  {
+    "kennzeichen": "JL",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Sachsen-Anhalt",
+    "stadt_oder_ursprung": "Jerichower Land",
+    "abkuerzung_ursprung": "Jerichower Land",
+    "alternativen": "Sachsen-Anhalt | Jerichower Land"
+  },
+  {
+    "kennzeichen": "KLZ",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Altmarkkreis Salzwedel",
+    "stadt_oder_ursprung": "Klötze",
+    "abkuerzung_ursprung": "Klötze",
+    "alternativen": "Altmarkkreis Salzwedel | Klötze"
+  },
+  {
+    "kennzeichen": "KÖT",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Anhalt-Bitterfeld",
+    "stadt_oder_ursprung": "Köthen",
+    "abkuerzung_ursprung": "Köthen",
+    "alternativen": "Anhalt-Bitterfeld | Köthen"
+  },
+  {
+    "kennzeichen": "LSA",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Sachsen-Anhalt, Landesregierung, Landtag und Polizei",
+    "stadt_oder_ursprung": "Land Sachsen-Anhalt",
+    "abkuerzung_ursprung": "Land Sachsen-Anhalt",
+    "alternativen": "Sachsen-Anhalt, Landesregierung, Landtag und Polizei | Land Sachsen-Anhalt"
+  },
+  {
+    "kennzeichen": "MD",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Magdeburg",
+    "stadt_oder_ursprung": "MagDeburg",
+    "abkuerzung_ursprung": "MagDeburg",
+    "alternativen": "Magdeburg | MagDeburg"
+  },
+  {
+    "kennzeichen": "MER",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Saalekreis",
+    "stadt_oder_ursprung": "Merseburg",
+    "abkuerzung_ursprung": "Merseburg",
+    "alternativen": "Saalekreis | Merseburg"
+  },
+  {
+    "kennzeichen": "ML",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Mansfeld-Südharz",
+    "stadt_oder_ursprung": "Mansfelder Land",
+    "abkuerzung_ursprung": "Mansfelder Land",
+    "alternativen": "Mansfeld-Südharz | Mansfelder Land"
+  },
+  {
+    "kennzeichen": "MQ",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Saalekreis",
+    "stadt_oder_ursprung": "Merseburg",
+    "abkuerzung_ursprung": "Merseburg",
+    "alternativen": "Saalekreis | Merseburg"
+  },
+  {
+    "kennzeichen": "MSH",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Mansfeld-Südharz",
+    "stadt_oder_ursprung": "Mansfelder Land",
+    "abkuerzung_ursprung": "Mansfelder Land",
+    "alternativen": "Mansfeld-Südharz | Mansfelder Land"
+  },
+  {
+    "kennzeichen": "NEB",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Burgenlandkreis",
+    "stadt_oder_ursprung": "Nebra",
+    "abkuerzung_ursprung": "Nebra",
+    "alternativen": "Burgenlandkreis | Nebra"
+  },
+  {
+    "kennzeichen": "NMB",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Burgenlandkreis",
+    "stadt_oder_ursprung": "Naumburg",
+    "abkuerzung_ursprung": "Naumburg",
+    "alternativen": "Burgenlandkreis | Naumburg"
+  },
+  {
+    "kennzeichen": "OBG",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Stendal",
+    "stadt_oder_ursprung": "Osterburg",
+    "abkuerzung_ursprung": "Osterburg",
+    "alternativen": "Stendal | Osterburg"
+  },
+  {
+    "kennzeichen": "OC",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Börde",
+    "stadt_oder_ursprung": "Oschersleben",
+    "abkuerzung_ursprung": "Oschersleben",
+    "alternativen": "Börde | Oschersleben"
+  },
+  {
+    "kennzeichen": "OK",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Börde",
+    "stadt_oder_ursprung": "Ohrekreis",
+    "abkuerzung_ursprung": "Ohrekreis",
+    "alternativen": "Börde | Ohrekreis"
+  },
+  {
+    "kennzeichen": "QFT",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Saalekreis",
+    "stadt_oder_ursprung": "Querfurt",
+    "abkuerzung_ursprung": "Querfurt",
+    "alternativen": "Saalekreis | Querfurt"
+  },
+  {
+    "kennzeichen": "QLB",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Harz",
+    "stadt_oder_ursprung": "Quedlinburg",
+    "abkuerzung_ursprung": "Quedlinburg",
+    "alternativen": "Harz | Quedlinburg"
+  },
+  {
+    "kennzeichen": "RSL",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Dessau-Roßlau",
+    "stadt_oder_ursprung": "Roßlau",
+    "abkuerzung_ursprung": "Roßlau",
+    "alternativen": "Dessau-Roßlau | Roßlau"
+  },
+  {
+    "kennzeichen": "SAW",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Altmarkkreis Salzwedel",
+    "stadt_oder_ursprung": "Salzwedel",
+    "abkuerzung_ursprung": "Salzwedel",
+    "alternativen": "Altmarkkreis Salzwedel | Salzwedel"
+  },
+  {
+    "kennzeichen": "SBK",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Salzlandkreis",
+    "stadt_oder_ursprung": "Schönebeck",
+    "abkuerzung_ursprung": "Schönebeck",
+    "alternativen": "Salzlandkreis | Schönebeck"
+  },
+  {
+    "kennzeichen": "SDL",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Stendal",
+    "stadt_oder_ursprung": "Stendal",
+    "abkuerzung_ursprung": "Stendal",
+    "alternativen": "Stendal"
+  },
+  {
+    "kennzeichen": "SFT",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Salzlandkreis",
+    "stadt_oder_ursprung": "Staßfurt",
+    "abkuerzung_ursprung": "Staßfurt",
+    "alternativen": "Salzlandkreis | Staßfurt"
+  },
+  {
+    "kennzeichen": "SGH",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Mansfeld-Südharz",
+    "stadt_oder_ursprung": "Sangerhausen",
+    "abkuerzung_ursprung": "Sangerhausen",
+    "alternativen": "Mansfeld-Südharz | Sangerhausen"
+  },
+  {
+    "kennzeichen": "SK",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Saalekreis",
+    "stadt_oder_ursprung": "SaaleKreis",
+    "abkuerzung_ursprung": "SaaleKreis",
+    "alternativen": "Saalekreis | SaaleKreis"
+  },
+  {
+    "kennzeichen": "SLK",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Salzlandkreis",
+    "stadt_oder_ursprung": "SalzLandKreis",
+    "abkuerzung_ursprung": "SalzLandKreis",
+    "alternativen": "Salzlandkreis | SalzLandKreis"
+  },
+  {
+    "kennzeichen": "WB",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Wittenberg",
+    "stadt_oder_ursprung": "Lutherstadt Wittenberg",
+    "abkuerzung_ursprung": "Lutherstadt Wittenberg",
+    "alternativen": "Wittenberg | Lutherstadt Wittenberg"
+  },
+  {
+    "kennzeichen": "WMS",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Börde",
+    "stadt_oder_ursprung": "Wolmirstedt",
+    "abkuerzung_ursprung": "Wolmirstedt",
+    "alternativen": "Börde | Wolmirstedt"
+  },
+  {
+    "kennzeichen": "WR",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Harz",
+    "stadt_oder_ursprung": "Wernigerode",
+    "abkuerzung_ursprung": "Wernigerode",
+    "alternativen": "Harz | Wernigerode"
+  },
+  {
+    "kennzeichen": "WSF",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Burgenlandkreis",
+    "stadt_oder_ursprung": "Weißenfels",
+    "abkuerzung_ursprung": "Weißenfels",
+    "alternativen": "Burgenlandkreis | Weißenfels"
+  },
+  {
+    "kennzeichen": "WZL",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Börde",
+    "stadt_oder_ursprung": "Wanzleben",
+    "abkuerzung_ursprung": "Wanzleben",
+    "alternativen": "Börde | Wanzleben"
+  },
+  {
+    "kennzeichen": "ZE",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Anhalt-Bitterfeld",
+    "stadt_oder_ursprung": "Zerbst/Anhalt",
+    "abkuerzung_ursprung": "Zerbst/Anhalt",
+    "alternativen": "Anhalt-Bitterfeld | Zerbst/Anhalt"
+  },
+  {
+    "kennzeichen": "ZZ",
+    "bundesland": "Sachsen-Anhalt",
+    "kreis": "Burgenlandkreis",
+    "stadt_oder_ursprung": "Zeitz",
+    "abkuerzung_ursprung": "Zeitz",
+    "alternativen": "Burgenlandkreis | Zeitz"
+  },
+  {
+    "kennzeichen": "ECK",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Rendsburg-Eckernförde",
+    "stadt_oder_ursprung": "Eckernförde",
+    "abkuerzung_ursprung": "Eckernförde",
+    "alternativen": "Rendsburg-Eckernförde | Eckernförde"
+  },
+  {
+    "kennzeichen": "FL",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Flensburg",
+    "stadt_oder_ursprung": "FLensburg",
+    "abkuerzung_ursprung": "FLensburg",
+    "alternativen": "Flensburg | FLensburg"
+  },
+  {
+    "kennzeichen": "HEI",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Dithmarschen",
+    "stadt_oder_ursprung": "Heide",
+    "abkuerzung_ursprung": "Heide",
+    "alternativen": "Dithmarschen | Heide"
+  },
+  {
+    "kennzeichen": "HL",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Lübeck",
+    "stadt_oder_ursprung": "Hansestadt",
+    "abkuerzung_ursprung": "Hansestadt",
+    "alternativen": "Lübeck | Hansestadt"
+  },
+  {
+    "kennzeichen": "IZ",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Steinburg",
+    "stadt_oder_ursprung": "Itzehoe",
+    "abkuerzung_ursprung": "Itzehoe",
+    "alternativen": "Steinburg | Itzehoe"
+  },
+  {
+    "kennzeichen": "KI",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Kiel",
+    "stadt_oder_ursprung": "KIel",
+    "abkuerzung_ursprung": "KIel",
+    "alternativen": "Kiel | KIel"
+  },
+  {
+    "kennzeichen": "MED",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Dithmarschen",
+    "stadt_oder_ursprung": "Meldorf",
+    "abkuerzung_ursprung": "Meldorf",
+    "alternativen": "Dithmarschen | Meldorf"
+  },
+  {
+    "kennzeichen": "NF",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Nordfriesland",
+    "stadt_oder_ursprung": "Nordfriesland",
+    "abkuerzung_ursprung": "Nordfriesland",
+    "alternativen": "Nordfriesland"
+  },
+  {
+    "kennzeichen": "NMS",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Neumünster",
+    "stadt_oder_ursprung": "NeuMünSter",
+    "abkuerzung_ursprung": "NeuMünSter",
+    "alternativen": "Neumünster | NeuMünSter"
+  },
+  {
+    "kennzeichen": "OD",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Stormarn",
+    "stadt_oder_ursprung": "Bad Oldesloe",
+    "abkuerzung_ursprung": "Bad Oldesloe",
+    "alternativen": "Stormarn | Bad Oldesloe"
+  },
+  {
+    "kennzeichen": "OH",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Ostholstein",
+    "stadt_oder_ursprung": "Holstein",
+    "abkuerzung_ursprung": "Holstein",
+    "alternativen": "Ostholstein | Holstein"
+  },
+  {
+    "kennzeichen": "PI",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Pinneberg",
+    "stadt_oder_ursprung": "Pinneberg",
+    "abkuerzung_ursprung": "Pinneberg",
+    "alternativen": "Pinneberg"
+  },
+  {
+    "kennzeichen": "PLÖ",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Plön",
+    "stadt_oder_ursprung": "Plön",
+    "abkuerzung_ursprung": "Plön",
+    "alternativen": "Plön"
+  },
+  {
+    "kennzeichen": "RD",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Rendsburg-Eckernförde",
+    "stadt_oder_ursprung": "Rendsburg",
+    "abkuerzung_ursprung": "Rendsburg",
+    "alternativen": "Rendsburg-Eckernförde | Rendsburg"
+  },
+  {
+    "kennzeichen": "RZ",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Herzogtum Lauenburg",
+    "stadt_oder_ursprung": "Ratzeburg",
+    "abkuerzung_ursprung": "Ratzeburg",
+    "alternativen": "Herzogtum Lauenburg | Ratzeburg"
+  },
+  {
+    "kennzeichen": "SE",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Segeberg",
+    "stadt_oder_ursprung": "Bad Segeberg",
+    "abkuerzung_ursprung": "Bad Segeberg",
+    "alternativen": "Segeberg | Bad Segeberg"
+  },
+  {
+    "kennzeichen": "SH",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Schleswig-Holstein, Landesregierung, Landtag und Polizei",
+    "stadt_oder_ursprung": "Schleswig-Holstein, Landesregierung, Landtag und Polizei",
+    "abkuerzung_ursprung": "Schleswig-Holstein, Landesregierung, Landtag und Polizei",
+    "alternativen": "Schleswig-Holstein, Landesregierung, Landtag und Polizei"
+  },
+  {
+    "kennzeichen": "SL",
+    "bundesland": "Schleswig-Holstein",
+    "kreis": "Schleswig-Flensburg",
+    "stadt_oder_ursprung": "Schleswig",
+    "abkuerzung_ursprung": "Schleswig",
+    "alternativen": "Schleswig-Flensburg | Schleswig"
+  },
+  {
+    "kennzeichen": "BD",
+    "bundesland": "Sonderkennzeichen",
+    "kreis": "BundesDienst",
+    "stadt_oder_ursprung": "Deutscher Bundestag",
+    "abkuerzung_ursprung": "Deutscher Bundestag",
+    "alternativen": "BundesDienst | Deutscher Bundestag"
+  },
+  {
+    "kennzeichen": "BP",
+    "bundesland": "Sonderkennzeichen",
+    "kreis": "Bundespolizei",
+    "stadt_oder_ursprung": "BundesPolizei",
+    "abkuerzung_ursprung": "BundesPolizei",
+    "alternativen": "Bundespolizei | BundesPolizei"
+  },
+  {
+    "kennzeichen": "BW",
+    "bundesland": "Sonderkennzeichen",
+    "kreis": "Bundes-Wasserstraßen- und Schifffahrtsverwaltung",
+    "stadt_oder_ursprung": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
+    "abkuerzung_ursprung": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
+    "alternativen": "Bundes-Wasserstraßen- und Schifffahrtsverwaltung | Wasserstraßen- und Schifffahrtsverwaltung des Bundes"
+  },
+  {
+    "kennzeichen": "THW",
+    "bundesland": "Sonderkennzeichen",
+    "kreis": "Bundesanstalt Technisches Hilfswerk",
+    "stadt_oder_ursprung": "Technisches HilfsWerk",
+    "abkuerzung_ursprung": "Technisches HilfsWerk",
+    "alternativen": "Bundesanstalt Technisches Hilfswerk | Technisches HilfsWerk"
+  },
+  {
+    "kennzeichen": "X",
+    "bundesland": "Sonderkennzeichen",
+    "kreis": "Internationale Hauptquartiere",
+    "stadt_oder_ursprung": "Internationale Hauptquartiere",
+    "abkuerzung_ursprung": "Internationale Hauptquartiere",
+    "alternativen": "Internationale Hauptquartiere | willkürlich gewählt"
+  },
+  {
+    "kennzeichen": "Y",
+    "bundesland": "Sonderkennzeichen",
+    "kreis": "Bundeswehr",
+    "stadt_oder_ursprung": "„Y“ wurde genommen, da es bei Gründung der Bundeswehr noch frei war. „BW“ o. Ä. war bereits vergeben.",
+    "abkuerzung_ursprung": "„Y“ wurde genommen, da es bei Gründung der Bundeswehr noch frei war. „BW“ o. Ä. war bereits vergeben.",
+    "alternativen": "Bundeswehr | „Y“ wurde genommen, da es bei Gründung der Bundeswehr noch frei war. „BW“ o. Ä. war bereits vergeben."
+  },
+  {
+    "kennzeichen": "ABG",
+    "bundesland": "Thüringen",
+    "kreis": "Altenburger Land",
+    "stadt_oder_ursprung": "Altenburg",
+    "abkuerzung_ursprung": "Altenburg",
+    "alternativen": "Altenburger Land | Altenburg"
+  },
+  {
+    "kennzeichen": "AP",
+    "bundesland": "Thüringen",
+    "kreis": "Weimarer Land",
+    "stadt_oder_ursprung": "Apolda",
+    "abkuerzung_ursprung": "Apolda",
+    "alternativen": "Weimarer Land | Apolda"
+  },
+  {
+    "kennzeichen": "APD",
+    "bundesland": "Thüringen",
+    "kreis": "Weimarer Land",
+    "stadt_oder_ursprung": "APolDa",
+    "abkuerzung_ursprung": "APolDa",
+    "alternativen": "Weimarer Land | APolDa"
+  },
+  {
+    "kennzeichen": "ARN",
+    "bundesland": "Thüringen",
+    "kreis": "Ilm-Kreis",
+    "stadt_oder_ursprung": "Arnstadt",
+    "abkuerzung_ursprung": "Arnstadt",
+    "alternativen": "Ilm-Kreis | Arnstadt"
+  },
+  {
+    "kennzeichen": "ART",
+    "bundesland": "Thüringen",
+    "kreis": "Kyffhäuserkreis",
+    "stadt_oder_ursprung": "Artern",
+    "abkuerzung_ursprung": "Artern",
+    "alternativen": "Kyffhäuserkreis | Artern"
+  },
+  {
+    "kennzeichen": "EA",
+    "bundesland": "Thüringen",
+    "kreis": "Wartburgkreis",
+    "stadt_oder_ursprung": "Eisenach",
+    "abkuerzung_ursprung": "Eisenach",
+    "alternativen": "Wartburgkreis | Eisenach"
+  },
+  {
+    "kennzeichen": "EF",
+    "bundesland": "Thüringen",
+    "kreis": "Erfurt",
+    "stadt_oder_ursprung": "ErFurt",
+    "abkuerzung_ursprung": "ErFurt",
+    "alternativen": "Erfurt | ErFurt"
+  },
+  {
+    "kennzeichen": "EIC",
+    "bundesland": "Thüringen",
+    "kreis": "Eichsfeld",
+    "stadt_oder_ursprung": "Eichsfeld",
+    "abkuerzung_ursprung": "Eichsfeld",
+    "alternativen": "Eichsfeld"
+  },
+  {
+    "kennzeichen": "EIS",
+    "bundesland": "Thüringen",
+    "kreis": "Saale-Holzland-Kreis",
+    "stadt_oder_ursprung": "Eisenberg",
+    "abkuerzung_ursprung": "Eisenberg",
+    "alternativen": "Saale-Holzland-Kreis | Eisenberg"
+  },
+  {
+    "kennzeichen": "G",
+    "bundesland": "Thüringen",
+    "kreis": "Thüringen",
+    "stadt_oder_ursprung": "Gera",
+    "abkuerzung_ursprung": "Gera",
+    "alternativen": "Thüringen | Gera"
+  },
+  {
+    "kennzeichen": "GRZ",
+    "bundesland": "Thüringen",
+    "kreis": "Greiz",
+    "stadt_oder_ursprung": "Greiz",
+    "abkuerzung_ursprung": "Greiz",
+    "alternativen": "Greiz"
+  },
+  {
+    "kennzeichen": "GTH",
+    "bundesland": "Thüringen",
+    "kreis": "Gotha",
+    "stadt_oder_ursprung": "Gotha",
+    "abkuerzung_ursprung": "Gotha",
+    "alternativen": "Gotha"
+  },
+  {
+    "kennzeichen": "HBN",
+    "bundesland": "Thüringen",
+    "kreis": "Hildburghausen",
+    "stadt_oder_ursprung": "Hildburghausen",
+    "abkuerzung_ursprung": "Hildburghausen",
+    "alternativen": "Hildburghausen"
+  },
+  {
+    "kennzeichen": "HIG",
+    "bundesland": "Thüringen",
+    "kreis": "Eichsfeld",
+    "stadt_oder_ursprung": "Heilbad Heiligenstadt",
+    "abkuerzung_ursprung": "Heilbad Heiligenstadt",
+    "alternativen": "Eichsfeld | Heilbad Heiligenstadt"
+  },
+  {
+    "kennzeichen": "IK",
+    "bundesland": "Thüringen",
+    "kreis": "Thüringen",
+    "stadt_oder_ursprung": "Ilm-Kreis",
+    "abkuerzung_ursprung": "Ilm-Kreis",
+    "alternativen": "Thüringen | Ilm-Kreis"
+  },
+  {
+    "kennzeichen": "IL",
+    "bundesland": "Thüringen",
+    "kreis": "Ilm-Kreis",
+    "stadt_oder_ursprung": "Ilmenau",
+    "abkuerzung_ursprung": "Ilmenau",
+    "alternativen": "Ilm-Kreis | Ilmenau"
+  },
+  {
+    "kennzeichen": "J",
+    "bundesland": "Thüringen",
+    "kreis": "Thüringen",
+    "stadt_oder_ursprung": "Jena",
+    "abkuerzung_ursprung": "Jena",
+    "alternativen": "Thüringen | Jena"
+  },
+  {
+    "kennzeichen": "KYF",
+    "bundesland": "Thüringen",
+    "kreis": "Kyffhäuserkreis",
+    "stadt_oder_ursprung": "Kyffhäuser",
+    "abkuerzung_ursprung": "Kyffhäuser",
+    "alternativen": "Kyffhäuserkreis | Kyffhäuser"
+  },
+  {
+    "kennzeichen": "LBS",
+    "bundesland": "Thüringen",
+    "kreis": "Saale-Orla-Kreis",
+    "stadt_oder_ursprung": "Bad Lobenstein",
+    "abkuerzung_ursprung": "Bad Lobenstein",
+    "alternativen": "Saale-Orla-Kreis | Bad Lobenstein"
+  },
+  {
+    "kennzeichen": "LSZ",
+    "bundesland": "Thüringen",
+    "kreis": "Unstrut-Hainich-Kreis",
+    "stadt_oder_ursprung": "Bad Langensalza",
+    "abkuerzung_ursprung": "Bad Langensalza",
+    "alternativen": "Unstrut-Hainich-Kreis | Bad Langensalza"
+  },
+  {
+    "kennzeichen": "MGN",
+    "bundesland": "Thüringen",
+    "kreis": "Schmalkalden-Meiningen",
+    "stadt_oder_ursprung": "Meiningen",
+    "abkuerzung_ursprung": "Meiningen",
+    "alternativen": "Schmalkalden-Meiningen | Meiningen"
+  },
+  {
+    "kennzeichen": "MHL",
+    "bundesland": "Thüringen",
+    "kreis": "Unstrut-Hainich-Kreis",
+    "stadt_oder_ursprung": "Mühlhausen/Thüringen",
+    "abkuerzung_ursprung": "Mühlhausen/Thüringen",
+    "alternativen": "Unstrut-Hainich-Kreis | Mühlhausen/Thüringen"
+  },
+  {
+    "kennzeichen": "NDH",
+    "bundesland": "Thüringen",
+    "kreis": "Nordhausen",
+    "stadt_oder_ursprung": "Nordhausen",
+    "abkuerzung_ursprung": "Nordhausen",
+    "alternativen": "Nordhausen"
+  },
+  {
+    "kennzeichen": "NH",
+    "bundesland": "Thüringen",
+    "kreis": "Sonneberg",
+    "stadt_oder_ursprung": "Neuhaus am Rennweg",
+    "abkuerzung_ursprung": "Neuhaus am Rennweg",
+    "alternativen": "Sonneberg | Neuhaus am Rennweg"
+  },
+  {
+    "kennzeichen": "PN",
+    "bundesland": "Thüringen",
+    "kreis": "Saale-Orla-Kreis",
+    "stadt_oder_ursprung": "Pößneck",
+    "abkuerzung_ursprung": "Pößneck",
+    "alternativen": "Saale-Orla-Kreis | Pößneck"
+  },
+  {
+    "kennzeichen": "RU",
+    "bundesland": "Thüringen",
+    "kreis": "Saalfeld-Rudolstadt",
+    "stadt_oder_ursprung": "Rudolstadt",
+    "abkuerzung_ursprung": "Rudolstadt",
+    "alternativen": "Saalfeld-Rudolstadt | Rudolstadt"
+  },
+  {
+    "kennzeichen": "SCZ",
+    "bundesland": "Thüringen",
+    "kreis": "Saale-Orla-Kreis",
+    "stadt_oder_ursprung": "Schleiz",
+    "abkuerzung_ursprung": "Schleiz",
+    "alternativen": "Saale-Orla-Kreis | Schleiz"
+  },
+  {
+    "kennzeichen": "SDH",
+    "bundesland": "Thüringen",
+    "kreis": "Kyffhäuserkreis",
+    "stadt_oder_ursprung": "Sondershausen",
+    "abkuerzung_ursprung": "Sondershausen",
+    "alternativen": "Kyffhäuserkreis | Sondershausen"
+  },
+  {
+    "kennzeichen": "SHK",
+    "bundesland": "Thüringen",
+    "kreis": "Thüringen",
+    "stadt_oder_ursprung": "Saale-Holzland-Kreis",
+    "abkuerzung_ursprung": "Saale-Holzland-Kreis",
+    "alternativen": "Thüringen | Saale-Holzland-Kreis"
+  },
+  {
+    "kennzeichen": "SHL",
+    "bundesland": "Thüringen",
+    "kreis": "Suhl",
+    "stadt_oder_ursprung": "SuHL",
+    "abkuerzung_ursprung": "SuHL",
+    "alternativen": "Suhl | SuHL"
+  },
+  {
+    "kennzeichen": "SLF",
+    "bundesland": "Thüringen",
+    "kreis": "Saalfeld-Rudolstadt",
+    "stadt_oder_ursprung": "Saalfeld/Saale",
+    "abkuerzung_ursprung": "Saalfeld/Saale",
+    "alternativen": "Saalfeld-Rudolstadt | Saalfeld/Saale"
+  },
+  {
+    "kennzeichen": "SLN",
+    "bundesland": "Thüringen",
+    "kreis": "Altenburger Land",
+    "stadt_oder_ursprung": "Schmölln",
+    "abkuerzung_ursprung": "Schmölln",
+    "alternativen": "Altenburger Land | Schmölln"
+  },
+  {
+    "kennzeichen": "SLZ",
+    "bundesland": "Thüringen",
+    "kreis": "Wartburgkreis",
+    "stadt_oder_ursprung": "Bad Salzungen",
+    "abkuerzung_ursprung": "Bad Salzungen",
+    "alternativen": "Wartburgkreis | Bad Salzungen"
+  },
+  {
+    "kennzeichen": "SM",
+    "bundesland": "Thüringen",
+    "kreis": "SchMalkalden",
+    "stadt_oder_ursprung": "Schmalkalden-Meiningen",
+    "abkuerzung_ursprung": "Schmalkalden-Meiningen",
+    "alternativen": "SchMalkalden | Schmalkalden-Meiningen"
+  },
+  {
+    "kennzeichen": "SOK",
+    "bundesland": "Thüringen",
+    "kreis": "Thüringen",
+    "stadt_oder_ursprung": "Saale-Orla-Kreis",
+    "abkuerzung_ursprung": "Saale-Orla-Kreis",
+    "alternativen": "Thüringen | Saale-Orla-Kreis"
+  },
+  {
+    "kennzeichen": "SÖM",
+    "bundesland": "Thüringen",
+    "kreis": "Sömmerda",
+    "stadt_oder_ursprung": "Sömmerda",
+    "abkuerzung_ursprung": "Sömmerda",
+    "alternativen": "Sömmerda"
+  },
+  {
+    "kennzeichen": "SON",
+    "bundesland": "Thüringen",
+    "kreis": "Sonneberg",
+    "stadt_oder_ursprung": "Sonneberg",
+    "abkuerzung_ursprung": "Sonneberg",
+    "alternativen": "Sonneberg"
+  },
+  {
+    "kennzeichen": "SRO",
+    "bundesland": "Thüringen",
+    "kreis": "Saale-Holzland-Kreis",
+    "stadt_oder_ursprung": "Stadtroda",
+    "abkuerzung_ursprung": "Stadtroda",
+    "alternativen": "Saale-Holzland-Kreis | Stadtroda"
+  },
+  {
+    "kennzeichen": "THL",
+    "bundesland": "Thüringen",
+    "kreis": "Thüringen, Landesregierung und Landtag",
+    "stadt_oder_ursprung": "THüringer Landtag",
+    "abkuerzung_ursprung": "THüringer Landtag",
+    "alternativen": "Thüringen, Landesregierung und Landtag | THüringer Landtag"
+  },
+  {
+    "kennzeichen": "UH",
+    "bundesland": "Thüringen",
+    "kreis": "Unstrut, Hainich",
+    "stadt_oder_ursprung": "Unstrut-Hainich-Kreis",
+    "abkuerzung_ursprung": "Unstrut-Hainich-Kreis",
+    "alternativen": "Unstrut, Hainich | Unstrut-Hainich-Kreis"
+  },
+  {
+    "kennzeichen": "WAK",
+    "bundesland": "Thüringen",
+    "kreis": "Wartburgkreis",
+    "stadt_oder_ursprung": "Wartburg",
+    "abkuerzung_ursprung": "Wartburg",
+    "alternativen": "Wartburgkreis | Wartburg"
+  },
+  {
+    "kennzeichen": "WBS",
+    "bundesland": "Thüringen",
+    "kreis": "Eichsfeld",
+    "stadt_oder_ursprung": "Worbis",
+    "abkuerzung_ursprung": "Worbis",
+    "alternativen": "Eichsfeld | Worbis"
+  },
+  {
+    "kennzeichen": "WE",
+    "bundesland": "Thüringen",
+    "kreis": "Weimar",
+    "stadt_oder_ursprung": "WEimar",
+    "abkuerzung_ursprung": "WEimar",
+    "alternativen": "Weimar | WEimar"
+  },
+  {
+    "kennzeichen": "ZR",
+    "bundesland": "Thüringen",
+    "kreis": "Greiz",
+    "stadt_oder_ursprung": "Zeulenroda",
+    "abkuerzung_ursprung": "Zeulenroda",
+    "alternativen": "Greiz | Zeulenroda"
+  }
+]
