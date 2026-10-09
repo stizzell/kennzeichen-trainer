@@ -42,21 +42,21 @@ const statusTitle = document.getElementById("status-title");
 const statusText = document.getElementById("status-text");
 const stateCount = document.getElementById("state-count");
 const plateHint = document.getElementById("plate-hint");
-const memoryTipText = document.getElementById("memory-tip-text");
 const nextButton = document.getElementById("next-button");
 const plateCount = document.getElementById("plate-count");
-const memoryTip = document.getElementById("memory-tip");
-
-if (memoryTip) {
-    memoryTip.remove();
-}
-
-const modeButtons = Array.from(document.querySelectorAll(".mode-switch__button"));
+const quizView = document.getElementById("quiz-view");
+const inventoryView = document.getElementById("inventory-view");
+const inventoryList = document.getElementById("inventory-list");
+const inventorySummary = document.getElementById("inventory-summary");
+const resetProgressButton = document.getElementById("reset-progress-button");
+const viewButtons = Array.from(document.querySelectorAll(".view-switch__button"));
+const LEARNED_PLATES_STORAGE_KEY = "kennzeichen-learned-v1";
 
 const appState = {
-    currentMode: "state",
+    currentView: "quiz",
     currentPrompt: null,
-    answerVisible: false
+    answerVisible: false,
+    learnedPlates: loadLearnedPlates()
 };
 
 function flattenData() {
@@ -79,6 +79,27 @@ function sortStateNames(stateNames) {
 
         return left.localeCompare(right, "de");
     });
+}
+
+function getPlateKey(entry) {
+    return `${entry.stateName}::${entry.code}`;
+}
+
+function loadLearnedPlates() {
+    try {
+        const stored = JSON.parse(window.localStorage.getItem(LEARNED_PLATES_STORAGE_KEY) || "[]");
+        return new Set(Array.isArray(stored) ? stored.filter((value) => typeof value === "string") : []);
+    } catch {
+        return new Set();
+    }
+}
+
+function saveLearnedPlates() {
+    try {
+        window.localStorage.setItem(LEARNED_PLATES_STORAGE_KEY, JSON.stringify([...appState.learnedPlates]));
+    } catch {
+        // The current session still works when browser storage is unavailable.
+    }
 }
 
 function formatRegions(regions) {
@@ -176,27 +197,32 @@ function populateStateSelect() {
     stateSelect.value = PLATE_DATA.Berlin ? "Berlin" : "";
 }
 
-function setMode(mode) {
-    appState.currentMode = "state";
+function setView(view) {
+    appState.currentView = view;
+    const showQuiz = view === "quiz";
+    quizView.classList.toggle("hidden", !showQuiz);
+    inventoryView.classList.toggle("hidden", showQuiz);
 
-    modeButtons.forEach((button) => {
-        const selected = button.dataset.mode === "state";
+    viewButtons.forEach((button) => {
+        const selected = button.dataset.view === view;
         button.classList.toggle("is-active", selected);
         button.setAttribute("aria-selected", String(selected));
     });
 
-    statusTitle.textContent = "Bundesland-Training";
-    statusText.textContent = "Es werden nur Kennzeichen aus dem gewählten Bundesland oder Bereich angezeigt.";
-    drawStatePrompt();
+    if (showQuiz) {
+        statusTitle.textContent = "Bundesland-Training";
+        statusText.textContent = "Es werden nur aktive Kennzeichen aus dem gewählten Bereich abgefragt.";
+        drawStatePrompt();
+    } else {
+        renderInventory();
+    }
 }
 
 function syncActionButton() {
-    if (!appState.currentPrompt) {
-        nextButton.textContent = "Antwort zeigen";
-        return;
-    }
-
-    nextButton.textContent = appState.answerVisible ? "Neue Aufgabe" : "Antwort zeigen";
+    nextButton.disabled = !appState.currentPrompt;
+    nextButton.textContent = !appState.currentPrompt
+        ? "Keine Aufgaben verfügbar"
+        : (appState.answerVisible ? "Neue Aufgabe" : "Antwort zeigen");
 }
 
 function concealTrainingAnswer() {
@@ -216,22 +242,107 @@ function updateTrainingCard(prompt) {
 
 function drawStatePrompt() {
     const selectedState = stateSelect.value;
-    const stateEntries = PLATE_DATA[selectedState] || [];
+    const allStateEntries = PLATE_DATA[selectedState] || [];
+    const stateEntries = allStateEntries
+        .map((entry) => ({ ...entry, stateName: selectedState }))
+        .filter((entry) => !appState.learnedPlates.has(getPlateKey(entry)));
 
-    if (!stateEntries.length) {
+    if (!allStateEntries.length) {
+        appState.currentPrompt = null;
+        appState.answerVisible = false;
         plateDisplay.textContent = "-";
         answerState.textContent = "Kein Bereich gewählt";
         answerRegion.textContent = "Wähle links ein Bundesland oder einen Bereich aus.";
         plateHint.textContent = "Im Bundesland-Training trainierst du gezielt alle Kürzel eines Bereichs.";
-        if (memoryTipText) {
-            memoryTipText.textContent = "Danach kannst du gezielt innerhalb eines Bundeslands oder der Sonderkennzeichen lernen.";
-        }
         answerCard.classList.remove("is-concealed");
+        syncActionButton();
+        return;
+    }
+
+    if (!stateEntries.length) {
+        appState.currentPrompt = null;
+        appState.answerVisible = false;
+        plateDisplay.textContent = "-";
+        answerState.textContent = "Alles gelernt";
+        answerRegion.textContent = `Alle ${allStateEntries.length} Kennzeichen in ${selectedState} sind abgewählt.`;
+        plateHint.textContent = "Aktiviere Kennzeichen in der Übersicht wieder, wenn du sie erneut üben möchtest.";
+        answerCard.classList.remove("is-concealed");
+        syncActionButton();
         return;
     }
 
     const entry = stateEntries[Math.floor(Math.random() * stateEntries.length)];
-    updateTrainingCard({ ...entry, stateName: selectedState });
+    updateTrainingCard(entry);
+    syncActionButton();
+}
+
+function renderInventory() {
+    inventoryList.replaceChildren();
+
+    sortStateNames(Object.keys(PLATE_DATA)).forEach((stateName) => {
+        const entries = PLATE_DATA[stateName] || [];
+        const group = document.createElement("details");
+        group.className = "inventory-group";
+
+        const heading = document.createElement("summary");
+        heading.className = "inventory-group__header";
+
+        const title = document.createElement("h3");
+        title.textContent = stateName;
+
+        const count = document.createElement("span");
+        count.className = "inventory-group__count";
+        count.textContent = String(entries.length);
+        heading.append(title, count);
+
+        const list = document.createElement("div");
+        list.className = "inventory-group__entries";
+
+        entries.forEach((entry) => {
+            const plate = { ...entry, stateName };
+            const label = document.createElement("label");
+            label.className = "inventory-entry";
+
+            const checkbox = document.createElement("input");
+            checkbox.type = "checkbox";
+            checkbox.checked = !appState.learnedPlates.has(getPlateKey(plate));
+            checkbox.dataset.plateKey = getPlateKey(plate);
+
+            const code = document.createElement("span");
+            code.className = "inventory-entry__code";
+            code.textContent = entry.code;
+
+            const origin = document.createElement("span");
+            origin.className = "inventory-entry__origin";
+            origin.textContent = entry.stadt_oder_ursprung || entry.derivation || formatRegions(entry.regions || []);
+
+            label.append(checkbox, code, origin);
+            list.append(label);
+        });
+
+        group.append(heading, list);
+        inventoryList.append(group);
+    });
+
+    const learnedCount = ALL_PLATES.filter((entry) => appState.learnedPlates.has(getPlateKey(entry))).length;
+    inventorySummary.textContent = `${ALL_PLATES.length - learnedCount} aktiv · ${learnedCount} gelernt`;
+    resetProgressButton.disabled = learnedCount === 0;
+}
+
+function handleInventoryChange(event) {
+    const checkbox = event.target.closest("input[data-plate-key]");
+    if (!checkbox) {
+        return;
+    }
+
+    if (checkbox.checked) {
+        appState.learnedPlates.delete(checkbox.dataset.plateKey);
+    } else {
+        appState.learnedPlates.add(checkbox.dataset.plateKey);
+    }
+
+    saveLearnedPlates();
+    renderInventory();
 }
 
 function revealAnswer() {
@@ -247,7 +358,7 @@ function revealAnswer() {
 }
 
 function handleNextPrompt() {
-    if (appState.currentMode !== "state") {
+    if (appState.currentView !== "quiz" || !appState.currentPrompt) {
         return;
     }
 
@@ -259,20 +370,28 @@ function handleNextPrompt() {
     revealAnswer();
 }
 
-modeButtons.forEach((button) => {
+viewButtons.forEach((button) => {
     button.addEventListener("click", () => {
-        setMode(button.dataset.mode);
+        setView(button.dataset.view);
     });
 });
 
 stateSelect.addEventListener("change", () => {
-    if (appState.currentMode === "state") {
+    if (appState.currentView === "quiz") {
         drawStatePrompt();
     }
+});
+
+inventoryList.addEventListener("change", handleInventoryChange);
+
+resetProgressButton.addEventListener("click", () => {
+    appState.learnedPlates.clear();
+    saveLearnedPlates();
+    renderInventory();
 });
 
 nextButton.addEventListener("click", handleNextPrompt);
 
 populateStateSelect();
 setCounts();
-setMode("state");
+setView("quiz");

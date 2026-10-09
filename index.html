@@ -16,7 +16,7 @@
                 <p class="eyebrow">Lernapp für deutsche Kfz-Kennzeichen</p>
                 <h1>Kennzeichen sicher lernen, Bundesland für Bundesland.</h1>
                 <p class="hero__text">
-                    Trainiere alle aktuellen Kennzeichen Deutschlands, filtere nach Bundesland oder Sonderbereich und absolviere komplette Prüfungen mit allen Kürzeln eines Bereichs.
+                    Trainiere Kennzeichen nach Bundesland. In der Übersicht findest du alle Kürzel und kannst gelernte Einträge aus dem Quiz nehmen.
                 </p>
             </div>
             <div class="hero__stats" aria-label="Uebersicht">
@@ -31,15 +31,17 @@
             </div>
         </header>
 
-        <main class="app-grid">
+        <main>
+            <nav class="view-switch" role="tablist" aria-label="Ansichten">
+                <button id="quiz-tab" class="view-switch__button is-active" data-view="quiz" role="tab" aria-selected="true" aria-controls="quiz-view">Quiz</button>
+                <button id="inventory-tab" class="view-switch__button" data-view="inventory" role="tab" aria-selected="false" aria-controls="inventory-view">Kennzeichen</button>
+            </nav>
+
+            <div class="app-grid" id="quiz-view" role="tabpanel" aria-labelledby="quiz-tab">
             <section class="panel controls-panel">
                 <div class="panel__header">
                     <p class="eyebrow">Steuerung</p>
-                    <h2>Lernmodus wählen</h2>
-                </div>
-
-                <div class="mode-switch" role="tablist" aria-label="Lernmodi">
-                    <button class="mode-switch__button is-active" data-mode="state" role="tab" aria-selected="true">Bundesland</button>
+                    <h2>Bereich wählen</h2>
                 </div>
 
                 <label class="field" for="state-select">
@@ -75,9 +77,20 @@
                 <div class="actions trainer-actions">
                     <button id="next-button" class="button button--primary">Antwort zeigen</button>
                 </div>
-
             </section>
+            </div>
 
+            <section class="panel inventory-panel hidden" id="inventory-view" role="tabpanel" aria-labelledby="inventory-tab">
+                <div class="panel__header inventory-panel__header">
+                    <div>
+                        <p class="eyebrow">Lernstand</p>
+                        <h2>Alle Kennzeichen</h2>
+                        <p class="inventory-summary" id="inventory-summary"></p>
+                    </div>
+                    <button id="reset-progress-button" class="button button--ghost" type="button">Alle wieder aktivieren</button>
+                </div>
+                <div class="inventory-list" id="inventory-list"></div>
+            </section>
         </main>
     </div>
 
