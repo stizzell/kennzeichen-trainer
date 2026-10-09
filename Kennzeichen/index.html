@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kennzeichen Trainer Deutschland</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Newsreader:opsz,wght@6..72,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="page-shell">
+        <header class="hero">
+            <div class="hero__copy">
+                <p class="eyebrow">Lernapp für deutsche Kfz-Kennzeichen</p>
+                <h1>Kennzeichen sicher lernen, Bundesland für Bundesland.</h1>
+                <p class="hero__text">
+                    Trainiere Kennzeichen nach Bundesland. In der Übersicht findest du alle Kürzel und kannst gelernte Einträge aus dem Quiz nehmen.
+                </p>
+            </div>
+            <div class="hero__stats" aria-label="Uebersicht">
+                <article>
+                    <span id="state-count">16</span>
+                    <p>Bereiche</p>
+                </article>
+                <article>
+                    <span id="plate-count">0</span>
+                    <p>Kennzeichen</p>
+                </article>
+            </div>
+        </header>
+
+        <main>
+            <nav class="view-switch" role="tablist" aria-label="Ansichten">
+                <button id="quiz-tab" class="view-switch__button is-active" data-view="quiz" role="tab" aria-selected="true" aria-controls="quiz-view">Quiz</button>
+                <button id="inventory-tab" class="view-switch__button" data-view="inventory" role="tab" aria-selected="false" aria-controls="inventory-view">Kennzeichen</button>
+            </nav>
+
+            <div class="app-grid" id="quiz-view" role="tabpanel" aria-labelledby="quiz-tab">
+            <section class="panel controls-panel">
+                <div class="panel__header">
+                    <p class="eyebrow">Steuerung</p>
+                    <h2>Bereich wählen</h2>
+                </div>
+
+                <label class="field" for="state-select">
+                    <span>Bundesland oder Bereich</span>
+                    <select id="state-select"></select>
+                </label>
+
+                <div class="status-card">
+                    <p class="status-card__label">Aktiver Bereich</p>
+                    <h3 id="status-title">Zufälliges Kennzeichen</h3>
+                    <p id="status-text">Wähle einen Modus und beginne mit dem Training.</p>
+                </div>
+            </section>
+
+            <section class="panel trainer-panel">
+                <div class="panel__header">
+                    <p class="eyebrow">Training</p>
+                    <h2>Welche Stadt, Region oder Institution steckt dahinter?</h2>
+                </div>
+
+                <div class="plate-card" id="plate-card">
+                    <p class="plate-card__prefix">Kennzeichen</p>
+                    <div class="plate-display" id="plate-display">B</div>
+                    <p class="plate-hint" id="plate-hint">Tippe auf Antwort zeigen oder gib deine Vermutung zuerst selbst ab.</p>
+                </div>
+
+                <div class="answer-card" id="answer-card" aria-live="polite">
+                    <p class="answer-card__label">Antwort</p>
+                    <h3 id="answer-state">Berlin</h3>
+                    <p id="answer-region">Stadt Berlin</p>
+                </div>
+
+                <div class="actions trainer-actions">
+                    <button id="next-button" class="button button--primary">Antwort zeigen</button>
+                </div>
+            </section>
+            </div>
+
+            <section class="panel inventory-panel hidden" id="inventory-view" role="tabpanel" aria-labelledby="inventory-tab">
+                <div class="panel__header inventory-panel__header">
+                    <div>
+                        <p class="eyebrow">Lernstand</p>
+                        <h2>Alle Kennzeichen</h2>
+                        <p class="inventory-summary" id="inventory-summary"></p>
+                    </div>
+                    <button id="reset-progress-button" class="button button--ghost" type="button">Alle wieder aktivieren</button>
+                </div>
+                <div class="inventory-list" id="inventory-list"></div>
+            </section>
+        </main>
+    </div>
+
+    <script src="plate-origin-data.js"></script>
+    <script src="plate-data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
