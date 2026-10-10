@@ -203,6 +203,12 @@ function setView(view) {
     quizView.classList.toggle("hidden", !showQuiz);
     inventoryView.classList.toggle("hidden", showQuiz);
 
+    if (showQuiz) {
+        inventoryList.querySelectorAll(".inventory-group").forEach((group) => {
+            group.open = false;
+        });
+    }
+
     viewButtons.forEach((button) => {
         const selected = button.dataset.view === view;
         button.classList.toggle("is-active", selected);
@@ -277,12 +283,17 @@ function drawStatePrompt() {
 }
 
 function renderInventory() {
+    const openGroups = new Set(Array.from(
+        inventoryList.querySelectorAll(".inventory-group[open]"),
+        (group) => group.querySelector("h3")?.textContent
+    ));
     inventoryList.replaceChildren();
 
     sortStateNames(Object.keys(PLATE_DATA)).forEach((stateName) => {
         const entries = PLATE_DATA[stateName] || [];
         const group = document.createElement("details");
         group.className = "inventory-group";
+        group.open = openGroups.has(stateName);
 
         const heading = document.createElement("summary");
         heading.className = "inventory-group__header";
